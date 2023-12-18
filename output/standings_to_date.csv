@@ -1,0 +1,1404 @@
+clinched_playoffs,division_id,draft_grade,draft_position,draft_recap_url,faab_balance,has_draft_grade,league_scoring_type,name,number_of_moves,number_of_trades,team_id,team_key,url,waiver_priority,season,managers.manager,roster_adds.coverage_type,roster_adds.coverage_value,roster_adds.value,team_logos.team_logo,team_points.coverage_type,team_points.season,team_points.total,team_standings.divisional_outcome_totals.losses,team_standings.divisional_outcome_totals.ties,team_standings.divisional_outcome_totals.wins,team_standings.outcome_totals.losses,team_standings.outcome_totals.percentage,team_standings.outcome_totals.ties,team_standings.outcome_totals.wins,team_standings.playoff_seed,team_standings.points_against,team_standings.points_for,team_standings.rank,team_standings.streak.type,team_standings.streak.value,is_owned_by_current_login
+1.0,2.0,C+,14.0,https://football.fantasysports.yahoo.com/2015/f1/853925/12/draftrecap,12,1,head,b'Starr is Born',24,2,12,348.l.853925.t.12,https://football.fantasysports.yahoo.com/2015/f1/853925/12,12,2015,"Manager({
+  ""felo_score"": 729,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""Nick""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2015,1302.03,3.0,0.0,8.0,4,0.692,0,9,3.0,1160.9099999999996,1302.03,1,win,5,
+1.0,1.0,C,7.0,https://football.fantasysports.yahoo.com/2015/f1/853925/5/draftrecap,0,1,head,b'Thug Bungalow',28,0,5,348.l.853925.t.5,https://football.fantasysports.yahoo.com/2015/f1/853925/5,11,2015,"Manager({
+  ""felo_score"": 666,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 5,
+  ""nickname"": ""Mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/dh/ap/fantasy/img/profile_96.png""
+})",season,2015,1355.37,5.0,0.0,6.0,5,0.615,0,8,4.0,1273.94,1355.37,2,win,2,1.0
+1.0,1.0,B,12.0,https://football.fantasysports.yahoo.com/2015/f1/853925/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',30,1,1,348.l.853925.t.1,https://football.fantasysports.yahoo.com/2015/f1/853925/1,14,2015,"Manager({
+  ""felo_score"": 777,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_10.png""
+})",season,2015,1457.66,1.0,0.0,10.0,3,0.769,0,10,1.0,1225.08,1457.66,3,win,1,
+1.0,2.0,C+,9.0,https://football.fantasysports.yahoo.com/2015/f1/853925/2/draftrecap,6,1,head,b'who invited canada',46,1,2,348.l.853925.t.2,https://football.fantasysports.yahoo.com/2015/f1/853925/2,13,2015,"Manager({
+  ""felo_score"": 728,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""Peter""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2015,1425.64,2.0,0.0,9.0,3,0.769,0,10,2.0,1234.93,1425.64,4,win,2,
+1.0,2.0,B-,6.0,https://football.fantasysports.yahoo.com/2015/f1/853925/10/draftrecap,60,1,head,b'The fishingtons',23,1,10,348.l.853925.t.10,https://football.fantasysports.yahoo.com/2015/f1/853925/10,10,2015,"Manager({
+  ""felo_score"": 786,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 10,
+  ""nickname"": ""mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2015,1302.04,5.0,0.0,6.0,5,0.615,0,8,5.0,1103.02,1302.04,5,loss,1,
+1.0,1.0,A-,11.0,https://football.fantasysports.yahoo.com/2015/f1/853925/9/draftrecap,2,1,head,b'The Scientist',18,0,9,348.l.853925.t.9,https://football.fantasysports.yahoo.com/2015/f1/853925/9,9,2015,"Manager({
+  ""felo_score"": 733,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2015,1367.72,5.0,0.0,6.0,6,0.538,0,7,6.0,1245.23,1367.72,6,win,1,
+,1.0,A-,5.0,https://football.fantasysports.yahoo.com/2015/f1/853925/13/draftrecap,0,1,head,b'Victor Cruisin',18,1,13,348.l.853925.t.13,https://football.fantasysports.yahoo.com/2015/f1/853925/13,5,2015,"Manager({
+  ""felo_score"": 744,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""PWZRZQGDFAHZWRIFFA7CZIYCDA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Matt""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_5.png""
+})",season,2015,1288.03,6.0,0.0,5.0,8,0.385,0,5,10.0,1368.6599999999999,1288.03,7,loss,2,
+,2.0,C,10.0,https://football.fantasysports.yahoo.com/2015/f1/853925/4/draftrecap,25,1,head,b'The Dirty Diapers',25,0,4,348.l.853925.t.4,https://football.fantasysports.yahoo.com/2015/f1/853925/4,8,2015,"Manager({
+  ""felo_score"": 641,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""--"",
+  ""manager_id"": 4,
+  ""nickname"": ""--hidden--""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2015,1268.74,4.0,0.0,7.0,6,0.538,0,7,7.0,1200.48,1268.74,8,win,2,
+,1.0,B,13.0,https://football.fantasysports.yahoo.com/2015/f1/853925/3/draftrecap,85,1,head,"b""Jadeveon's Hit Men""",4,1,3,348.l.853925.t.3,https://football.fantasysports.yahoo.com/2015/f1/853925/3,7,2015,"Manager({
+  ""felo_score"": 555,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2015,1256.92,6.0,0.0,5.0,7,0.462,0,6,8.0,1357.1999999999998,1256.92,9,loss,1,
+,1.0,B,3.0,https://football.fantasysports.yahoo.com/2015/f1/853925/11/draftrecap,45,1,head,b'Immortal Duffmen',10,0,11,348.l.853925.t.11,https://football.fantasysports.yahoo.com/2015/f1/853925/11,3,2015,"Manager({
+  ""felo_score"": 585,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 11,
+  ""nickname"": ""PD""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2015,1196.71,8.0,0.0,3.0,8,0.385,0,5,12.0,1414.47,1196.71,10,loss,2,
+,1.0,B,2.0,https://football.fantasysports.yahoo.com/2015/f1/853925/7/draftrecap,25,1,head,b'Thunder Crotches',23,1,7,348.l.853925.t.7,https://football.fantasysports.yahoo.com/2015/f1/853925/7,4,2015,"Manager({
+  ""felo_score"": 622,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Jake""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2015,1275.81,8.0,0.0,4.0,8,0.385,0,5,11.0,1301.3,1275.81,11,loss,1,
+,2.0,B+,1.0,https://football.fantasysports.yahoo.com/2015/f1/853925/14/draftrecap,0,1,head,"b""Kurtz' Horror""",12,1,14,348.l.853925.t.14,https://football.fantasysports.yahoo.com/2015/f1/853925/14,6,2015,"Manager({
+  ""felo_score"": 527,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Matt Jones""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_11.png""
+})",season,2015,1146.6,7.0,0.0,5.0,7,0.462,0,6,9.0,1196.89,1146.6,12,loss,2,
+,2.0,C,4.0,https://football.fantasysports.yahoo.com/2015/f1/853925/6/draftrecap,45,1,head,"b""Lauren's Legit Team""",13,1,6,348.l.853925.t.6,https://football.fantasysports.yahoo.com/2015/f1/853925/6,2,2015,"Manager({
+  ""felo_score"": 527,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Lauren""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_10.png""
+})",season,2015,1070.22,9.0,0.0,2.0,10,0.231,0,3,,1304.54,1070.22,13,win,1,
+,2.0,B,8.0,https://football.fantasysports.yahoo.com/2015/f1/853925/8/draftrecap,50,1,head,"b""John Brown's Army""",4,0,8,348.l.853925.t.8,https://football.fantasysports.yahoo.com/2015/f1/853925/8,1,2015,"Manager({
+  ""felo_score"": 567,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""Eric""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png""
+})",season,2015,997.77,9.0,0.0,2.0,11,0.154,0,2,,1324.6100000000001,997.77,14,loss,8,
+1.0,,D,5.0,https://football.fantasysports.yahoo.com/2016/f1/810238/8/draftrecap,37,1,head,b'The fishingtons',21,0,8,359.l.810238.t.8,https://football.fantasysports.yahoo.com/2016/f1/810238/8,14,2016,"Manager({
+  ""felo_score"": 847,
+  ""felo_tier"": ""platinum"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2016,1318.91,,,,3,0.769,0,10,1.0,1158.3400000000001,1318.91,1,win,1,
+1.0,,B-,6.0,https://football.fantasysports.yahoo.com/2016/f1/810238/6/draftrecap,45,1,head,b'SuperCam That Ho',16,0,6,359.l.810238.t.6,https://football.fantasysports.yahoo.com/2016/f1/810238/6,13,2016,"Manager({
+  ""felo_score"": 555,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Lauren""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2016,1240.91,,,,4,0.692,0,9,2.0,1179.1899999999998,1240.91,2,loss,1,
+1.0,,D+,12.0,https://football.fantasysports.yahoo.com/2016/f1/810238/9/draftrecap,0,1,head,b'The Scientist',39,0,9,359.l.810238.t.9,https://football.fantasysports.yahoo.com/2016/f1/810238/9,10,2016,"Manager({
+  ""felo_score"": 740,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2016,1317.24,,,,5,0.615,0,8,5.0,1267.6100000000001,1317.24,3,win,7,
+1.0,,B,8.0,https://football.fantasysports.yahoo.com/2016/f1/810238/14/draftrecap,85,1,head,"b""We're Back""",7,0,14,359.l.810238.t.14,https://football.fantasysports.yahoo.com/2016/f1/810238/14,9,2016,"Manager({
+  ""felo_score"": 597,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Nate""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28608958973_a1d1171a85.jpg""
+})",season,2016,1198.14,,,,5,0.615,0,8,6.0,1208.51,1198.14,4,win,1,
+1.0,,B-,2.0,https://football.fantasysports.yahoo.com/2016/f1/810238/13/draftrecap,0,1,head,b'who invited canada',50,0,13,359.l.810238.t.13,https://football.fantasysports.yahoo.com/2016/f1/810238/13,11,2016,"Manager({
+  ""felo_score"": 765,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Peter""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2016,1368.5,,,,5,0.615,0,8,4.0,1341.0,1368.5,5,win,2,
+1.0,,B,7.0,https://football.fantasysports.yahoo.com/2016/f1/810238/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',62,1,1,359.l.810238.t.1,https://football.fantasysports.yahoo.com/2016/f1/810238/1,12,2016,"Manager({
+  ""felo_score"": 780,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2016,1507.68,,,,5,0.615,0,8,3.0,1257.05,1507.68,6,loss,2,
+,,B+,3.0,https://football.fantasysports.yahoo.com/2016/f1/810238/10/draftrecap,49,1,head,b'Thug Bungalow',16,1,10,359.l.810238.t.10,https://football.fantasysports.yahoo.com/2016/f1/810238/10,4,2016,"Manager({
+  ""felo_score"": 654,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 10,
+  ""nickname"": ""Mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/dh/ap/fantasy/img/profile_96.png""
+})",season,2016,1273.57,,,,8,0.385,0,5,11.0,1262.41,1273.57,7,loss,1,1.0
+,,C,10.0,https://football.fantasysports.yahoo.com/2016/f1/810238/12/draftrecap,0,1,head,b'Victor Cruisin',38,0,12,359.l.810238.t.12,https://football.fantasysports.yahoo.com/2016/f1/810238/12,8,2016,"Manager({
+  ""felo_score"": 622,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""matt""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png""
+})",season,2016,1338.66,,,,6,0.538,0,7,7.0,1306.6799999999998,1338.66,8,win,2,
+,,B,13.0,https://football.fantasysports.yahoo.com/2016/f1/810238/2/draftrecap,88,1,head,b'Immortal Duffmen',5,1,2,359.l.810238.t.2,https://football.fantasysports.yahoo.com/2016/f1/810238/2,7,2016,"Manager({
+  ""felo_score"": 599,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2016,1292.9,,,,6,0.538,0,7,8.0,1284.7900000000002,1292.9,9,loss,2,
+,,B,11.0,https://football.fantasysports.yahoo.com/2016/f1/810238/11/draftrecap,0,1,head,b'Thunder Crotches',22,0,11,359.l.810238.t.11,https://football.fantasysports.yahoo.com/2016/f1/810238/11,3,2016,"Manager({
+  ""felo_score"": 584,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 11,
+  ""nickname"": ""Jake""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2016,1238.49,,,,9,0.308,0,4,12.0,1304.5200000000002,1238.49,10,win,2,
+,,B,14.0,https://football.fantasysports.yahoo.com/2016/f1/810238/7/draftrecap,37,1,head,b'Starr is Born',20,1,7,359.l.810238.t.7,https://football.fantasysports.yahoo.com/2016/f1/810238/7,6,2016,"Manager({
+  ""felo_score"": 715,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Nick""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2016,1250.76,,,,6,0.538,0,7,9.0,1187.17,1250.76,11,loss,1,
+,,B,4.0,https://football.fantasysports.yahoo.com/2016/f1/810238/5/draftrecap,11,1,head,b'The Twelve Apostles',14,0,5,359.l.810238.t.5,https://football.fantasysports.yahoo.com/2016/f1/810238/5,5,2016,"Manager({
+  ""felo_score"": 532,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""Matt Jones""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2016,1341.19,,,,7,0.462,0,6,10.0,1248.4,1341.19,12,win,1,
+,,B,1.0,https://football.fantasysports.yahoo.com/2016/f1/810238/3/draftrecap,100,1,head,"b""Jadeveon's Hit Men""",4,0,3,359.l.810238.t.3,https://football.fantasysports.yahoo.com/2016/f1/810238/3,2,2016,"Manager({
+  ""felo_score"": 518,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2016,1125.47,,,,9,0.308,0,4,,1256.76,1125.47,13,loss,2,
+,,D+,9.0,https://football.fantasysports.yahoo.com/2016/f1/810238/4/draftrecap,0,1,head,"b""John Brown's Army""",2,0,4,359.l.810238.t.4,https://football.fantasysports.yahoo.com/2016/f1/810238/4,1,2016,"Manager({
+  ""felo_score"": 512,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png""
+})",season,2016,709.39,,,,13,0.0,0,0,,1259.3799999999999,709.39,14,loss,13,
+1.0,,B-,10.0,https://football.fantasysports.yahoo.com/2017/f1/192551/11/draftrecap,0,1,head,b'Thunder Crotches',18,0,11,371.l.192551.t.11,https://football.fantasysports.yahoo.com/2017/f1/192551/11,13,2017,"Manager({
+  ""felo_score"": 628,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 11,
+  ""nickname"": ""Jake""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2017,1371.36,,,,3,0.769,0,10,2.0,1212.9299999999998,1371.36,1,win,1,
+1.0,,C,11.0,https://football.fantasysports.yahoo.com/2017/f1/192551/7/draftrecap,0,1,head,b'Starr is Born',35,2,7,371.l.192551.t.7,https://football.fantasysports.yahoo.com/2017/f1/192551/7,10,2017,"Manager({
+  ""felo_score"": 762,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Nick""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2017,1355.05,,,,7,0.462,0,6,5.0,1292.86,1355.05,2,win,1,
+1.0,,A+,3.0,https://football.fantasysports.yahoo.com/2017/f1/192551/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',44,1,1,371.l.192551.t.1,https://football.fantasysports.yahoo.com/2017/f1/192551/1,14,2017,"Manager({
+  ""felo_score"": 907,
+  ""felo_tier"": ""diamond"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2017,1451.37,,,,2,0.846,0,11,1.0,1125.37,1451.37,3,win,7,
+1.0,,A-,12.0,https://football.fantasysports.yahoo.com/2017/f1/192551/14/draftrecap,65,1,head,"b""We're Back""",8,0,14,371.l.192551.t.14,https://football.fantasysports.yahoo.com/2017/f1/192551/14,12,2017,"Manager({
+  ""felo_score"": 645,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Nate""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28608958973_a1d1171a85.jpg""
+})",season,2017,1396.1,,,,5,0.615,0,8,3.0,1247.4100000000003,1396.1,4,loss,1,
+1.0,,C,9.0,https://football.fantasysports.yahoo.com/2017/f1/192551/3/draftrecap,69,1,head,"b""Jadeveon's Hit Men""",8,1,3,371.l.192551.t.3,https://football.fantasysports.yahoo.com/2017/f1/192551/3,11,2017,"Manager({
+  ""felo_score"": 547,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2017,1301.23,,,,5,0.615,0,8,4.0,1209.83,1301.23,5,loss,1,
+1.0,,B,7.0,https://football.fantasysports.yahoo.com/2017/f1/192551/12/draftrecap,0,1,head,b'Big Blue',40,2,12,371.l.192551.t.12,https://football.fantasysports.yahoo.com/2017/f1/192551/12,9,2017,"Manager({
+  ""felo_score"": 589,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""matt""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2017,1276.52,,,,7,0.462,0,6,6.0,1298.16,1276.52,6,win,1,
+,,B,8.0,https://football.fantasysports.yahoo.com/2017/f1/192551/8/draftrecap,5,1,head,b'The fishingtons',17,1,8,371.l.192551.t.8,https://football.fantasysports.yahoo.com/2017/f1/192551/8,5,2017,"Manager({
+  ""felo_score"": 812,
+  ""felo_tier"": ""platinum"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2017,1178.02,,,,7,0.462,0,6,10.0,1217.0799999999997,1178.02,7,loss,1,
+,,B+,13.0,https://football.fantasysports.yahoo.com/2017/f1/192551/2/draftrecap,84,1,head,b'Immortal Duffmen',10,0,2,371.l.192551.t.2,https://football.fantasysports.yahoo.com/2017/f1/192551/2,7,2017,"Manager({
+  ""felo_score"": 552,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2017,1219.93,,,,7,0.462,0,6,8.0,1202.77,1219.93,8,win,2,
+,,C+,14.0,https://football.fantasysports.yahoo.com/2017/f1/192551/13/draftrecap,1,1,head,b'who invited canada',26,0,13,371.l.192551.t.13,https://football.fantasysports.yahoo.com/2017/f1/192551/13,6,2017,"Manager({
+  ""felo_score"": 731,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Peter""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2017,1207.37,,,,7,0.462,0,6,9.0,1266.0699999999997,1207.37,9,loss,3,
+,,B,6.0,https://football.fantasysports.yahoo.com/2017/f1/192551/5/draftrecap,0,1,head,b'The Twelve Apostles',19,0,5,371.l.192551.t.5,https://football.fantasysports.yahoo.com/2017/f1/192551/5,8,2017,"Manager({
+  ""felo_score"": 534,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""Matt Jones""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2017,1233.06,,,,7,0.462,0,6,7.0,1323.2600000000002,1233.06,10,win,4,
+,,C,4.0,https://football.fantasysports.yahoo.com/2017/f1/192551/9/draftrecap,33,1,head,b'The Scientist',24,0,9,371.l.192551.t.9,https://football.fantasysports.yahoo.com/2017/f1/192551/9,4,2017,"Manager({
+  ""felo_score"": 804,
+  ""felo_tier"": ""platinum"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2017,1225.1,,,,8,0.385,0,5,11.0,1383.3000000000002,1225.1,11,win,1,
+,,B-,2.0,https://football.fantasysports.yahoo.com/2017/f1/192551/4/draftrecap,90,1,head,"b""John Brown's Army""",6,0,4,371.l.192551.t.4,https://football.fantasysports.yahoo.com/2017/f1/192551/4,3,2017,"Manager({
+  ""felo_score"": 504,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24786781294_c253137187.jpg""
+})",season,2017,1125.47,,,,8,0.385,0,5,12.0,1231.23,1125.47,12,loss,2,
+,,B,5.0,https://football.fantasysports.yahoo.com/2017/f1/192551/10/draftrecap,40,1,head,b'Thug Bungalow',23,0,10,371.l.192551.t.10,https://football.fantasysports.yahoo.com/2017/f1/192551/10,2,2017,"Manager({
+  ""felo_score"": 590,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 10,
+  ""nickname"": ""Mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2017,1260.27,,,,9,0.308,0,4,,1284.71,1260.27,13,loss,1,1.0
+,,A,1.0,https://football.fantasysports.yahoo.com/2017/f1/192551/6/draftrecap,48,1,head,b'SuperCam That Ho',19,1,6,371.l.192551.t.6,https://football.fantasysports.yahoo.com/2017/f1/192551/6,1,2017,"Manager({
+  ""felo_score"": 536,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Lauren""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2017,1029.9,,,,9,0.308,0,4,,1335.7699999999998,1029.9,14,loss,3,
+1.0,,C,,https://football.fantasysports.yahoo.com/2018/f1/799346/13/draftrecap,0,1,head,b'who invited canada',36,1,13,380.l.799346.t.13,https://football.fantasysports.yahoo.com/2018/f1/799346/13,13,2018,"Manager({
+  ""felo_score"": 796,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Peter""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2018,1699.12,,,,5,0.615,0,8,2.0,1580.1599999999999,1699.12,1,loss,2,
+1.0,,B,,https://football.fantasysports.yahoo.com/2018/f1/799346/9/draftrecap,0,1,head,b'The Scientist',28,1,9,380.l.799346.t.9,https://football.fantasysports.yahoo.com/2018/f1/799346/9,14,2018,"Manager({
+  ""felo_score"": 901,
+  ""felo_tier"": ""diamond"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2018,1676.92,,,,1,0.923,0,12,1.0,1242.7399999999998,1676.92,2,win,9,
+1.0,,B,,https://football.fantasysports.yahoo.com/2018/f1/799346/5/draftrecap,0,1,head,b'The Twelve Apostles',23,1,5,380.l.799346.t.5,https://football.fantasysports.yahoo.com/2018/f1/799346/5,10,2018,"Manager({
+  ""felo_score"": 559,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""Matt Jones""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2018,1396.72,,,,5,0.615,0,8,5.0,1380.06,1396.72,3,win,1,
+1.0,,B,,https://football.fantasysports.yahoo.com/2018/f1/799346/10/draftrecap,59,1,head,b'Thug Bungalow',20,1,10,380.l.799346.t.10,https://football.fantasysports.yahoo.com/2018/f1/799346/10,12,2018,"Manager({
+  ""felo_score"": 599,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 10,
+  ""nickname"": ""Mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2018,1482.18,,,,5,0.615,0,8,3.0,1476.6799999999998,1482.18,4,loss,1,1.0
+1.0,,C,,https://football.fantasysports.yahoo.com/2018/f1/799346/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',40,2,1,380.l.799346.t.1,https://football.fantasysports.yahoo.com/2018/f1/799346/1,9,2018,"Manager({
+  ""felo_score"": 786,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2018,1580.74,,,,6,0.538,0,7,6.0,1444.9399999999998,1580.74,5,loss,1,
+1.0,,B,,https://football.fantasysports.yahoo.com/2018/f1/799346/14/draftrecap,75,1,head,"b""We're Back""",6,0,14,380.l.799346.t.14,https://football.fantasysports.yahoo.com/2018/f1/799346/14,11,2018,"Manager({
+  ""felo_score"": 628,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Nate""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28608958973_a1d1171a85.jpg""
+})",season,2018,1436.56,,,,5,0.615,0,8,4.0,1436.4,1436.56,6,win,2,
+,,C-,,https://football.fantasysports.yahoo.com/2018/f1/799346/8/draftrecap,50,1,head,b'The fishingtons',15,0,8,380.l.799346.t.8,https://football.fantasysports.yahoo.com/2018/f1/799346/8,7,2018,"Manager({
+  ""felo_score"": 797,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2018,1403.62,,,,6,0.538,0,7,8.0,1498.4200000000003,1403.62,7,win,1,
+,,B+,,https://football.fantasysports.yahoo.com/2018/f1/799346/2/draftrecap,72,1,head,b'Immortal Duffmen',16,0,2,380.l.799346.t.2,https://football.fantasysports.yahoo.com/2018/f1/799346/2,8,2018,"Manager({
+  ""felo_score"": 562,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2018,1419.44,,,,6,0.538,0,7,7.0,1411.38,1419.44,8,win,3,
+,,C+,,https://football.fantasysports.yahoo.com/2018/f1/799346/6/draftrecap,35,1,head,b'SuperCam That Ho',21,1,6,380.l.799346.t.6,https://football.fantasysports.yahoo.com/2018/f1/799346/6,5,2018,"Manager({
+  ""felo_score"": 545,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Lauren""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2018,1556.32,,,,8,0.385,0,5,10.0,1553.9800000000002,1556.32,9,loss,1,
+,,B,,https://football.fantasysports.yahoo.com/2018/f1/799346/4/draftrecap,9,1,head,"b""John Brown's Army""",10,1,4,380.l.799346.t.4,https://football.fantasysports.yahoo.com/2018/f1/799346/4,3,2018,"Manager({
+  ""felo_score"": 502,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24786781294_c253137187.jpg""
+})",season,2018,1529.6,,,,9,0.308,0,4,12.0,1600.4600000000003,1529.6,10,win,1,
+,,A-,,https://football.fantasysports.yahoo.com/2018/f1/799346/3/draftrecap,96,1,head,"b""Jadeveon's Hit Men""",9,0,3,380.l.799346.t.3,https://football.fantasysports.yahoo.com/2018/f1/799346/3,6,2018,"Manager({
+  ""felo_score"": 559,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2018,1613.76,,,,7,0.462,0,6,9.0,1505.9199999999996,1613.76,11,win,2,
+,,C+,,https://football.fantasysports.yahoo.com/2018/f1/799346/11/draftrecap,4,1,head,b'Thunder Crotches',25,0,11,380.l.799346.t.11,https://football.fantasysports.yahoo.com/2018/f1/799346/11,4,2018,"Manager({
+  ""felo_score"": 586,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 11,
+  ""nickname"": ""Jake""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2018,1196.6,,,,8,0.385,0,5,11.0,1575.8799999999999,1196.6,12,loss,5,
+,,C-,,https://football.fantasysports.yahoo.com/2018/f1/799346/12/draftrecap,43,1,head,b'Saquon These Nuts',27,1,12,380.l.799346.t.12,https://football.fantasysports.yahoo.com/2018/f1/799346/12,2,2018,"Manager({
+  ""felo_score"": 590,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""matt""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2018,1418.04,,,,9,0.308,0,4,,1520.34,1418.04,13,loss,4,
+,,B-,,https://football.fantasysports.yahoo.com/2018/f1/799346/7/draftrecap,21,1,head,b'Starr is Born',22,3,7,380.l.799346.t.7,https://football.fantasysports.yahoo.com/2018/f1/799346/7,1,2018,"Manager({
+  ""felo_score"": 599,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Nick""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2018,1362.18,,,,11,0.154,0,2,,1544.4399999999998,1362.18,14,loss,4,
+1.0,,C+,,https://football.fantasysports.yahoo.com/2019/f1/820083/6/draftrecap,0,1,head,b'Starr is Born',32,1,6,390.l.820083.t.6,https://football.fantasysports.yahoo.com/2019/f1/820083/6,9,2019,"Manager({
+  ""felo_score"": 678,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Nick""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2019,1691.86,,,,6,0.538,0,7,6.0,1750.6599999999999,1691.86,1,win,1,
+1.0,,C+,,https://football.fantasysports.yahoo.com/2019/f1/820083/8/draftrecap,92,1,head,b'The fishingtons',5,0,8,390.l.820083.t.8,https://football.fantasysports.yahoo.com/2019/f1/820083/8,11,2019,"Manager({
+  ""felo_score"": 818,
+  ""felo_tier"": ""platinum"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2019,1746.9,,,,5,0.615,0,8,4.0,1581.6399999999999,1746.9,2,win,3,
+1.0,,B,,https://football.fantasysports.yahoo.com/2019/f1/820083/10/draftrecap,13,1,head,b'The Twelve Apostles',18,0,10,390.l.820083.t.10,https://football.fantasysports.yahoo.com/2019/f1/820083/10,14,2019,"Manager({
+  ""felo_score"": 642,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 10,
+  ""nickname"": ""Matt Jones""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2019,1762.5,,,,1,0.923,0,12,1.0,1470.34,1762.5,3,win,12,
+1.0,,B+,,https://football.fantasysports.yahoo.com/2019/f1/820083/3/draftrecap,85,1,head,"b""Jadeveon's Hit Men""",14,0,3,390.l.820083.t.3,https://football.fantasysports.yahoo.com/2019/f1/820083/3,13,2019,"Manager({
+  ""felo_score"": 579,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2019,1757.48,,,,4,0.692,0,9,2.0,1676.1800000000003,1757.48,4,win,2,
+1.0,,A-,,https://football.fantasysports.yahoo.com/2019/f1/820083/13/draftrecap,70,1,head,"b""We're Back""",6,0,13,390.l.820083.t.13,https://football.fantasysports.yahoo.com/2019/f1/820083/13,10,2019,"Manager({
+  ""felo_score"": 697,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Nate""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28608958973_a1d1171a85.jpg""
+})",season,2019,1710.56,,,,5,0.615,0,8,5.0,1714.6200000000001,1710.56,5,win,1,
+1.0,,C,,https://football.fantasysports.yahoo.com/2019/f1/820083/4/draftrecap,27,1,head,"b""John Brown's Army""",16,2,4,390.l.820083.t.4,https://football.fantasysports.yahoo.com/2019/f1/820083/4,12,2019,"Manager({
+  ""felo_score"": 529,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24786781294_c253137187.jpg""
+})",season,2019,1866.5,,,,5,0.615,0,8,3.0,1655.0800000000002,1866.5,6,loss,3,
+,,B,,https://football.fantasysports.yahoo.com/2019/f1/820083/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',53,3,1,390.l.820083.t.1,https://football.fantasysports.yahoo.com/2019/f1/820083/1,8,2019,"Manager({
+  ""felo_score"": 809,
+  ""felo_tier"": ""platinum"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2019,1810.12,,,,7,0.462,0,6,7.0,1841.8399999999997,1810.12,7,win,3,
+,,B,,https://football.fantasysports.yahoo.com/2019/f1/820083/2/draftrecap,81,1,head,b'Immortal Duffmen',6,0,2,390.l.820083.t.2,https://football.fantasysports.yahoo.com/2019/f1/820083/2,6,2019,"Manager({
+  ""felo_score"": 562,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2019,1552.34,,,,7,0.462,0,6,9.0,1659.8999999999999,1552.34,8,loss,1,
+,,C-,,https://football.fantasysports.yahoo.com/2019/f1/820083/11/draftrecap,39,1,head,b'Thug Bungalow',13,0,11,390.l.820083.t.11,https://football.fantasysports.yahoo.com/2019/f1/820083/11,5,2019,"Manager({
+  ""felo_score"": 590,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 11,
+  ""nickname"": ""Mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2019,1622.84,,,,8,0.385,0,5,10.0,1596.6399999999999,1622.84,9,win,1,1.0
+,,C,,https://football.fantasysports.yahoo.com/2019/f1/820083/5/draftrecap,38,1,head,b'Saquon These Nuts',16,0,5,390.l.820083.t.5,https://football.fantasysports.yahoo.com/2019/f1/820083/5,7,2019,"Manager({
+  ""felo_score"": 575,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""matt""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2019,1621.3,,,,7,0.462,0,6,8.0,1647.0199999999998,1621.3,10,loss,1,
+,,B,,https://football.fantasysports.yahoo.com/2019/f1/820083/7/draftrecap,70,1,head,b'SuperCam That Ho',20,1,7,390.l.820083.t.7,https://football.fantasysports.yahoo.com/2019/f1/820083/7,3,2019,"Manager({
+  ""felo_score"": 536,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Lauren""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2019,1449.68,,,,8,0.385,0,5,12.0,1513.58,1449.68,11,loss,1,
+,,C,,https://football.fantasysports.yahoo.com/2019/f1/820083/9/draftrecap,25,1,head,b'The Scientist',28,0,9,390.l.820083.t.9,https://football.fantasysports.yahoo.com/2019/f1/820083/9,4,2019,"Manager({
+  ""felo_score"": 650,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2019,1505.6,,,,8,0.385,0,5,11.0,1595.9399999999998,1505.6,12,loss,2,
+,,C+,,https://football.fantasysports.yahoo.com/2019/f1/820083/14/draftrecap,0,1,head,b'who invited canada',17,1,14,390.l.820083.t.14,https://football.fantasysports.yahoo.com/2019/f1/820083/14,2,2019,"Manager({
+  ""felo_score"": 703,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Peter""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2019,1507.78,,,,9,0.308,0,4,,1680.3600000000001,1507.78,13,loss,4,
+,,A,,https://football.fantasysports.yahoo.com/2019/f1/820083/12/draftrecap,1,1,head,b'Thunder Crotches',33,2,12,390.l.820083.t.12,https://football.fantasysports.yahoo.com/2019/f1/820083/12,1,2019,"Manager({
+  ""felo_score"": 548,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""Jake""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2019,1424.98,,,,11,0.154,0,2,,1646.6399999999996,1424.98,14,loss,5,
+1.0,,A,,https://football.fantasysports.yahoo.com/2020/f1/394682/14/draftrecap,0,1,head,b'who invited canada',52,0,14,399.l.394682.t.14,https://football.fantasysports.yahoo.com/2020/f1/394682/14,11,2020,"Manager({
+  ""felo_score"": 753,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Peter""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2020,1730.74,,,,6,0.538,0,7,4.0,1644.4999999999998,1730.74,1,win,1,
+1.0,,B-,,https://football.fantasysports.yahoo.com/2020/f1/394682/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',67,7,1,399.l.394682.t.1,https://football.fantasysports.yahoo.com/2020/f1/394682/1,12,2020,"Manager({
+  ""felo_score"": 876,
+  ""felo_tier"": ""platinum"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2020,1819.28,,,,4,0.692,0,9,3.0,1573.1999999999998,1819.28,2,loss,1,
+1.0,,A,,https://football.fantasysports.yahoo.com/2020/f1/394682/2/draftrecap,48,1,head,b'Immortal Duffmen',20,0,2,399.l.394682.t.2,https://football.fantasysports.yahoo.com/2020/f1/394682/2,13,2020,"Manager({
+  ""felo_score"": 562,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2020,1813.22,,,,3,0.769,0,10,2.0,1570.7000000000003,1813.22,3,loss,1,
+1.0,,B,,https://football.fantasysports.yahoo.com/2020/f1/394682/4/draftrecap,0,1,head,"b""John Brown's Army""",36,3,4,399.l.394682.t.4,https://football.fantasysports.yahoo.com/2020/f1/394682/4,14,2020,"Manager({
+  ""felo_score"": 573,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a36195ab1a4123c414d97a091f570bcc3becef6c70ce5681dd0d52ab8ee217ed.jpg""
+})",season,2020,1825.2,,,,2,0.846,0,11,1.0,1538.7600000000002,1825.2,4,win,8,
+1.0,,B+,,https://football.fantasysports.yahoo.com/2020/f1/394682/11/draftrecap,10,1,head,b'Thug Bungalow',24,0,11,399.l.394682.t.11,https://football.fantasysports.yahoo.com/2020/f1/394682/11,9,2020,"Manager({
+  ""felo_score"": 587,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 11,
+  ""nickname"": ""Mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2020,1520.64,,,,6,0.538,0,7,6.0,1630.64,1520.64,5,loss,3,1.0
+1.0,,C,,https://football.fantasysports.yahoo.com/2020/f1/394682/12/draftrecap,10,1,head,b'Thunder Crotches',27,4,12,399.l.394682.t.12,https://football.fantasysports.yahoo.com/2020/f1/394682/12,10,2020,"Manager({
+  ""felo_score"": 555,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""Jake""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2020,1649.7,,,,6,0.538,0,7,5.0,1588.36,1649.7,6,loss,3,
+,,B,,https://football.fantasysports.yahoo.com/2020/f1/394682/8/draftrecap,25,1,head,b'The fishingtons',17,1,8,399.l.394682.t.8,https://football.fantasysports.yahoo.com/2020/f1/394682/8,7,2020,"Manager({
+  ""felo_score"": 781,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2020,1497.1,,,,7,0.462,0,6,8.0,1546.38,1497.1,7,win,3,
+,,C,,https://football.fantasysports.yahoo.com/2020/f1/394682/7/draftrecap,75,1,head,b'SuperCam That Ho',17,0,7,399.l.394682.t.7,https://football.fantasysports.yahoo.com/2020/f1/394682/7,5,2020,"Manager({
+  ""felo_score"": 541,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Lauren""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2020,1610.88,,,,8,0.385,0,5,10.0,1736.96,1610.88,8,loss,1,
+,,C,,https://football.fantasysports.yahoo.com/2020/f1/394682/9/draftrecap,41,1,head,b'The Scientist',16,0,9,399.l.394682.t.9,https://football.fantasysports.yahoo.com/2020/f1/394682/9,8,2020,"Manager({
+  ""felo_score"": 616,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2020,1545.44,,,,7,0.462,0,6,7.0,1676.9400000000003,1545.44,9,win,2,
+,,C,,https://football.fantasysports.yahoo.com/2020/f1/394682/10/draftrecap,70,1,head,b'The Twelve Apostles',10,0,10,399.l.394682.t.10,https://football.fantasysports.yahoo.com/2020/f1/394682/10,6,2020,"Manager({
+  ""felo_score"": 588,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 10,
+  ""nickname"": ""Matt Jones""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2020,1472.56,,,,7,0.462,0,6,9.0,1587.02,1472.56,10,loss,2,
+,,C,,https://football.fantasysports.yahoo.com/2020/f1/394682/3/draftrecap,60,1,head,"b""Jadeveon's Hit Men""",13,2,3,399.l.394682.t.3,https://football.fantasysports.yahoo.com/2020/f1/394682/3,3,2020,"Manager({
+  ""felo_score"": 569,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2020,1518.84,,,,8,0.385,0,5,12.0,1560.38,1518.84,11,win,2,
+,,D,,https://football.fantasysports.yahoo.com/2020/f1/394682/13/draftrecap,63,1,head,"b""We're Back""",13,0,13,399.l.394682.t.13,https://football.fantasysports.yahoo.com/2020/f1/394682/13,4,2020,"Manager({
+  ""felo_score"": 595,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Nate""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28608958973_a1d1171a85.jpg""
+})",season,2020,1564.1,,,,8,0.385,0,5,11.0,1599.6599999999999,1564.1,12,win,1,
+,,C+,,https://football.fantasysports.yahoo.com/2020/f1/394682/5/draftrecap,90,1,head,b'Saquon These Nuts',13,1,5,399.l.394682.t.5,https://football.fantasysports.yahoo.com/2020/f1/394682/5,2,2020,"Manager({
+  ""felo_score"": 554,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""matt""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2020,1423.88,,,,9,0.308,0,4,,1587.2600000000002,1423.88,13,win,1,
+,,B,,https://football.fantasysports.yahoo.com/2020/f1/394682/6/draftrecap,25,1,head,b'Starr is Born',28,0,6,399.l.394682.t.6,https://football.fantasysports.yahoo.com/2020/f1/394682/6,1,2020,"Manager({
+  ""felo_score"": 585,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Nick""
+})",week,17,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2020,1498.36,,,,10,0.231,0,3,,1649.18,1498.36,14,loss,3,
+1.0,,B-,,https://football.fantasysports.yahoo.com/2021/f1/364325/5/draftrecap,0,1,head,b'Saquon These Nuts',17,0,5,406.l.364325.t.5,https://football.fantasysports.yahoo.com/2021/f1/364325/5,12,2021,"Manager({
+  ""felo_score"": 593,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""matt""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2021,1619.68,,,,5,0.643,0,9,3.0,1472.1600000000003,1619.68,1,loss,1,
+1.0,,C+,,https://football.fantasysports.yahoo.com/2021/f1/364325/11/draftrecap,62,1,head,b'Thug Bungalow',20,0,11,406.l.364325.t.11,https://football.fantasysports.yahoo.com/2021/f1/364325/11,11,2021,"Manager({
+  ""felo_score"": 678,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 11,
+  ""nickname"": ""Mike""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2021,1615.62,,,,5,0.643,0,9,4.0,1523.0,1615.62,2,win,6,1.0
+1.0,,B,,https://football.fantasysports.yahoo.com/2021/f1/364325/12/draftrecap,0,1,head,b'Thunder Crotches',31,2,12,406.l.364325.t.12,https://football.fantasysports.yahoo.com/2021/f1/364325/12,13,2021,"Manager({
+  ""felo_score"": 582,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""Jake""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2021,1629.58,,,,5,0.643,0,9,2.0,1525.7200000000003,1629.58,3,loss,1,
+1.0,,B,,https://football.fantasysports.yahoo.com/2021/f1/364325/8/draftrecap,49,1,head,b'The fishingtons',10,0,8,406.l.364325.t.8,https://football.fantasysports.yahoo.com/2021/f1/364325/8,14,2021,"Manager({
+  ""felo_score"": 755,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2021,1655.3,,,,3,0.786,0,11,1.0,1449.2200000000003,1655.3,4,win,5,
+1.0,,B-,,https://football.fantasysports.yahoo.com/2021/f1/364325/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',66,7,1,406.l.364325.t.1,https://football.fantasysports.yahoo.com/2021/f1/364325/1,9,2021,"Manager({
+  ""felo_score"": 901,
+  ""felo_tier"": ""diamond"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2021,1589.34,,,,6,0.571,0,8,6.0,1464.9799999999998,1589.34,5,win,1,
+1.0,,C,,https://football.fantasysports.yahoo.com/2021/f1/364325/9/draftrecap,45,1,head,b'The Scientist',20,1,9,406.l.364325.t.9,https://football.fantasysports.yahoo.com/2021/f1/364325/9,10,2021,"Manager({
+  ""felo_score"": 640,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2021,1535.44,,,,5,0.643,0,9,5.0,1381.32,1535.44,6,win,2,
+,,B,,https://football.fantasysports.yahoo.com/2021/f1/364325/10/draftrecap,0,1,head,b'The Twelve Apostles',18,1,10,406.l.364325.t.10,https://football.fantasysports.yahoo.com/2021/f1/364325/10,8,2021,"Manager({
+  ""felo_score"": 594,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 10,
+  ""nickname"": ""Matt Jones""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2021,1469.5,,,,7,0.5,0,7,7.0,1555.1999999999998,1469.5,7,win,1,
+,,C,,https://football.fantasysports.yahoo.com/2021/f1/364325/13/draftrecap,34,1,head,"b""We're Back""",12,0,13,406.l.364325.t.13,https://football.fantasysports.yahoo.com/2021/f1/364325/13,5,2021,"Manager({
+  ""felo_score"": 588,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Nate""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/844976530506c7dbf09a20321a79a79df383d4e91c380063e91a95d8fba1517e.jpg""
+})",season,2021,1591.8,,,,9,0.357,0,5,10.0,1616.1799999999998,1591.8,8,win,1,
+,,B,,https://football.fantasysports.yahoo.com/2021/f1/364325/4/draftrecap,15,1,head,"b""John Brown's Army""",32,2,4,406.l.364325.t.4,https://football.fantasysports.yahoo.com/2021/f1/364325/4,7,2021,"Manager({
+  ""felo_score"": 568,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a36195ab1a4123c414d97a091f570bcc3becef6c70ce5681dd0d52ab8ee217ed.jpg""
+})",season,2021,1498.46,,,,8,0.429,0,6,8.0,1535.7399999999998,1498.46,9,win,1,
+,,C,,https://football.fantasysports.yahoo.com/2021/f1/364325/6/draftrecap,5,1,head,b'#1 Patriots Fan',45,0,6,406.l.364325.t.6,https://football.fantasysports.yahoo.com/2021/f1/364325/6,3,2021,"Manager({
+  ""felo_score"": 560,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Nick""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2021,1384.88,,,,9,0.357,0,5,12.0,1500.7,1384.88,10,loss,4,
+,,A-,,https://football.fantasysports.yahoo.com/2021/f1/364325/2/draftrecap,10,1,head,b'Immortal Duffmen',31,0,2,406.l.364325.t.2,https://football.fantasysports.yahoo.com/2021/f1/364325/2,6,2021,"Manager({
+  ""felo_score"": 560,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2021,1490.06,,,,8,0.429,0,6,9.0,1623.7199999999998,1490.06,11,loss,1,
+,,C+,,https://football.fantasysports.yahoo.com/2021/f1/364325/7/draftrecap,39,1,head,b'SuperCam That Ho',22,0,7,406.l.364325.t.7,https://football.fantasysports.yahoo.com/2021/f1/364325/7,4,2021,"Manager({
+  ""felo_score"": 523,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Lauren""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2021,1471.44,,,,9,0.357,0,5,11.0,1551.44,1471.44,12,loss,4,
+,,B,,https://football.fantasysports.yahoo.com/2021/f1/364325/3/draftrecap,65,1,head,"b""Jadeveon's Hit Men""",13,1,3,406.l.364325.t.3,https://football.fantasysports.yahoo.com/2021/f1/364325/3,2,2021,"Manager({
+  ""felo_score"": 553,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2021,1357.46,,,,9,0.357,0,5,,1540.2400000000002,1357.46,13,loss,3,
+,,A-,,https://football.fantasysports.yahoo.com/2021/f1/364325/14/draftrecap,0,1,head,b'who invited canada',42,0,14,406.l.364325.t.14,https://football.fantasysports.yahoo.com/2021/f1/364325/14,1,2021,"Manager({
+  ""felo_score"": 622,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Peter""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2021,1421.58,,,,10,0.286,0,4,,1590.52,1421.58,14,loss,1,
+1.0,,C,,https://football.fantasysports.yahoo.com/2022/f1/564704/4/draftrecap,4,1,head,"b""John Brown's Army""",14,0,4,414.l.564704.t.4,https://football.fantasysports.yahoo.com/2022/f1/564704/4,13,2022,"Manager({
+  ""felo_score"": 694,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a36195ab1a4123c414d97a091f570bcc3becef6c70ce5681dd0d52ab8ee217ed.jpg""
+})",season,2022,1747.76,,,,3,0.786,0,11,2.0,1448.9,1747.76,1,win,2,
+1.0,,B-,,https://football.fantasysports.yahoo.com/2022/f1/564704/14/draftrecap,0,1,head,b'who invited canada',34,0,14,414.l.564704.t.14,https://football.fantasysports.yahoo.com/2022/f1/564704/14,14,2022,"Manager({
+  ""felo_score"": 797,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Peter""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2022,1671.96,,,,1,0.929,0,13,1.0,1372.9599999999998,1671.96,2,win,6,
+1.0,,B-,,https://football.fantasysports.yahoo.com/2022/f1/564704/13/draftrecap,59,1,head,"b""We're Back""",11,1,13,414.l.564704.t.13,https://football.fantasysports.yahoo.com/2022/f1/564704/13,10,2022,"Manager({
+  ""felo_score"": 650,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Nate""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/844976530506c7dbf09a20321a79a79df383d4e91c380063e91a95d8fba1517e.jpg""
+})",season,2022,1534.62,,,,5,0.643,0,9,5.0,1457.5,1534.62,3,win,2,
+1.0,,C,,https://football.fantasysports.yahoo.com/2022/f1/564704/10/draftrecap,40,1,head,b'The Twelve Apostles',16,0,10,414.l.564704.t.10,https://football.fantasysports.yahoo.com/2022/f1/564704/10,12,2022,"Manager({
+  ""felo_score"": 709,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 10,
+  ""nickname"": ""Matt Jones""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2022,1680.36,,,,5,0.643,0,9,3.0,1482.18,1680.36,4,win,4,
+1.0,,B-,,https://football.fantasysports.yahoo.com/2022/f1/564704/8/draftrecap,97,1,head,b'The fishingtons',8,0,8,414.l.564704.t.8,https://football.fantasysports.yahoo.com/2022/f1/564704/8,11,2022,"Manager({
+  ""felo_score"": 764,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2022,1583.0,,,,5,0.643,0,9,4.0,1467.2599999999998,1583.0,5,loss,1,
+1.0,,B+,,https://football.fantasysports.yahoo.com/2022/f1/564704/7/draftrecap,39,1,head,b'SuperCam That Ho',8,0,7,414.l.564704.t.7,https://football.fantasysports.yahoo.com/2022/f1/564704/7,9,2022,"Manager({
+  ""felo_score"": 536,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Lauren""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2022,1499.34,,,,6,0.571,0,8,6.0,1508.3200000000002,1499.34,6,win,1,
+,,C-,,https://football.fantasysports.yahoo.com/2022/f1/564704/9/draftrecap,30,1,head,b'The Scientist',18,0,9,414.l.564704.t.9,https://football.fantasysports.yahoo.com/2022/f1/564704/9,4,2022,"Manager({
+  ""felo_score"": 598,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png""
+})",season,2022,1294.62,,,,9,0.357,0,5,11.0,1479.0200000000002,1294.62,7,loss,2,
+,,B,,https://football.fantasysports.yahoo.com/2022/f1/564704/11/draftrecap,5,1,head,b'Thug Bungalow',30,1,11,414.l.564704.t.11,https://football.fantasysports.yahoo.com/2022/f1/564704/11,6,2022,"Manager({
+  ""felo_score"": 596,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 11,
+  ""nickname"": ""Mike""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2022,1412.72,,,,9,0.357,0,5,9.0,1526.54,1412.72,8,loss,1,1.0
+,,B,,https://football.fantasysports.yahoo.com/2022/f1/564704/3/draftrecap,100,1,head,"b""Jadeveon's Hit Men""",10,0,3,414.l.564704.t.3,https://football.fantasysports.yahoo.com/2022/f1/564704/3,8,2022,"Manager({
+  ""felo_score"": 569,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2022,1487.12,,,,6,0.571,0,8,7.0,1330.2800000000002,1487.12,9,win,1,
+,,A-,,https://football.fantasysports.yahoo.com/2022/f1/564704/2/draftrecap,30,1,head,b'Immortal Duffmen',16,0,2,414.l.564704.t.2,https://football.fantasysports.yahoo.com/2022/f1/564704/2,7,2022,"Manager({
+  ""felo_score"": 589,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2022,1455.3,,,,7,0.5,0,7,8.0,1389.2000000000003,1455.3,10,win,1,
+,,A,,https://football.fantasysports.yahoo.com/2022/f1/564704/6/draftrecap,2,1,head,b'Starr is Born',33,0,6,414.l.564704.t.6,https://football.fantasysports.yahoo.com/2022/f1/564704/6,5,2022,"Manager({
+  ""felo_score"": 549,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Nick""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2022,1313.1,,,,9,0.357,0,5,10.0,1504.0,1313.1,11,loss,2,
+,,B-,,https://football.fantasysports.yahoo.com/2022/f1/564704/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',43,0,1,414.l.564704.t.1,https://football.fantasysports.yahoo.com/2022/f1/564704/1,3,2022,"Manager({
+  ""felo_score"": 692,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2022,1398.62,,,,11,0.214,0,3,12.0,1643.7199999999998,1398.62,12,loss,6,
+,,C-,,https://football.fantasysports.yahoo.com/2022/f1/564704/5/draftrecap,100,1,head,b'Saquon These Nuts',9,0,5,414.l.564704.t.5,https://football.fantasysports.yahoo.com/2022/f1/564704/5,2,2022,"Manager({
+  ""felo_score"": 558,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""matt""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2022,1276.66,,,,11,0.214,0,3,,1523.18,1276.66,13,loss,1,
+,,C+,,https://football.fantasysports.yahoo.com/2022/f1/564704/12/draftrecap,27,1,head,b'Thunder Crotches',17,0,12,414.l.564704.t.12,https://football.fantasysports.yahoo.com/2022/f1/564704/12,1,2022,"Manager({
+  ""felo_score"": 547,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""Jake""
+})",week,18,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2022,1249.78,,,,11,0.214,0,3,,1471.9,1249.78,14,loss,3,
+1.0,,D+,,https://football.fantasysports.yahoo.com/f1/333146/6/draftrecap,2,1,head,b'Starr is Born',23,0,6,423.l.333146.t.6,https://football.fantasysports.yahoo.com/f1/333146/6,14,2023,"Manager({
+  ""felo_score"": 590,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""6ULIXQKSLBRKIB6HHDSUWJKNAI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 6,
+  ""nickname"": ""Nick""
+})",week,15,1,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png""
+})",season,2023,1591.6,,,,3,0.786,0,11,1.0,1314.22,1591.6,1,win,2,
+1.0,,B+,,https://football.fantasysports.yahoo.com/f1/333146/2/draftrecap,27,1,head,b'Immortal Duffmen',28,0,2,423.l.333146.t.2,https://football.fantasysports.yahoo.com/f1/333146/2,13,2023,"Manager({
+  ""felo_score"": 617,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""G2NCGCH26SABV5CRAMOQE2FQ4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg"",
+  ""manager_id"": 2,
+  ""nickname"": ""PD""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png""
+})",season,2023,1541.28,,,,5,0.643,0,9,2.0,1406.72,1541.28,2,loss,2,
+1.0,,B-,,https://football.fantasysports.yahoo.com/f1/333146/9/draftrecap,29,1,head,b'Gibbs Me A Break',23,0,9,423.l.333146.t.9,https://football.fantasysports.yahoo.com/f1/333146/9,12,2023,"Manager({
+  ""felo_score"": 659,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""RN5O32YPZSZDB4FX5ZUV5YOENE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg"",
+  ""manager_id"": 9,
+  ""nickname"": ""Kyle""
+})",week,15,1,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_g.png""
+})",season,2023,1501.36,,,,5,0.643,0,9,3.0,1539.2800000000002,1501.36,3,win,8,
+1.0,,D,,https://football.fantasysports.yahoo.com/f1/333146/1/draftrecap,0,1,head,b'The Ice Cold Bruschi',31,1,1,423.l.333146.t.1,https://football.fantasysports.yahoo.com/f1/333146/1,11,2023,"Manager({
+  ""felo_score"": 690,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""AH4HVFPFUWABOULTM3I26IVX44"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""is_commissioner"": 0,
+  ""manager_id"": 1,
+  ""nickname"": ""Ricky""
+})",week,15,5,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29131856121_7f0b5a8207.jpg""
+})",season,2023,1580.5,,,,6,0.571,0,8,4.0,1500.1799999999998,1580.5,4,loss,1,
+1.0,,A-,,https://football.fantasysports.yahoo.com/f1/333146/7/draftrecap,55,1,head,b'SuperCam That Ho',9,0,7,423.l.333146.t.7,https://football.fantasysports.yahoo.com/f1/333146/7,10,2023,"Manager({
+  ""felo_score"": 553,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""P6DPCCZF3N36UIJH7KYG3DOG4M"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 7,
+  ""nickname"": ""Lauren""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29030871280_78c2eac8d1.jpg""
+})",season,2023,1532.48,,,,6,0.571,0,8,5.0,1517.9799999999998,1532.48,5,win,1,
+1.0,,A,,https://football.fantasysports.yahoo.com/f1/333146/11/draftrecap,69,1,head,b'Thug Bungalow',20,0,11,423.l.333146.t.11,https://football.fantasysports.yahoo.com/f1/333146/11,9,2023,"Manager({
+  ""felo_score"": 616,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""UG3O3JYLMANG47RCKVEORYV7CM"",
+  ""image_url"": ""https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg"",
+  ""is_current_login"": 1,
+  ""manager_id"": 11,
+  ""nickname"": ""Mike""
+})",week,15,2,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36934817552_9f9003.jpg""
+})",season,2023,1490.18,,,,6,0.571,0,8,6.0,1386.0400000000002,1490.18,6,loss,1,1.0
+,,B-,,https://football.fantasysports.yahoo.com/f1/333146/10/draftrecap,0,1,head,b'The Twelve Apostles',26,0,10,423.l.333146.t.10,https://football.fantasysports.yahoo.com/f1/333146/10,8,2023,"Manager({
+  ""felo_score"": 627,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""7RGUFN54OGM3YX5YNBB6JMEPCA"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg"",
+  ""manager_id"": 10,
+  ""nickname"": ""Matt Jones""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/28669172654_fc6db1e37c.jpg""
+})",season,2023,1573.02,,,,7,0.5,0,7,7.0,1494.1,1573.02,7,win,2,
+,,C-,,https://football.fantasysports.yahoo.com/f1/333146/12/draftrecap,0,1,head,b'Thunder Crotches',25,3,12,423.l.333146.t.12,https://football.fantasysports.yahoo.com/f1/333146/12,7,2023,"Manager({
+  ""felo_score"": 556,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QQ55LWU6E5JC3VLOC4YLR4ERME"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 12,
+  ""nickname"": ""Jake""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg""
+})",season,2023,1476.4,,,,7,0.5,0,7,8.0,1490.7000000000003,1476.4,8,win,3,
+,,D-,,https://football.fantasysports.yahoo.com/f1/333146/4/draftrecap,18,1,head,"b""John Brown's Army""",12,1,4,423.l.333146.t.4,https://football.fantasysports.yahoo.com/f1/333146/4,6,2023,"Manager({
+  ""felo_score"": 655,
+  ""felo_tier"": ""silver"",
+  ""guid"": ""HLYYB5KPQ3TXP4GMCKTNL7PY4U"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 4,
+  ""nickname"": ""Eric""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a36195ab1a4123c414d97a091f570bcc3becef6c70ce5681dd0d52ab8ee217ed.jpg""
+})",season,2023,1452.4,,,,7,0.5,0,7,9.0,1566.02,1452.4,9,loss,2,
+,,D-,,https://football.fantasysports.yahoo.com/f1/333146/14/draftrecap,5,1,head,b'who invited canada',21,1,14,423.l.333146.t.14,https://football.fantasysports.yahoo.com/f1/333146/14,5,2023,"Manager({
+  ""felo_score"": 749,
+  ""felo_tier"": ""gold"",
+  ""guid"": ""3PGSNJHQVI64SC542EWTA2WWNQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg"",
+  ""manager_id"": 14,
+  ""nickname"": ""Peter""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg""
+})",season,2023,1544.62,,,,8,0.429,0,6,10.0,1594.64,1544.62,10,win,1,
+,,C,,https://football.fantasysports.yahoo.com/f1/333146/3/draftrecap,100,1,head,"b""Jadeveon's Hit Men""",5,0,3,423.l.333146.t.3,https://football.fantasysports.yahoo.com/f1/333146/3,4,2023,"Manager({
+  ""felo_score"": 568,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""J57JIHTZDZCZL5EJVFDBBFGNCI"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 3,
+  ""nickname"": ""Tim""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg""
+})",season,2023,1530.28,,,,8,0.429,0,6,11.0,1636.6400000000003,1530.28,11,loss,2,
+,,A+,,https://football.fantasysports.yahoo.com/f1/333146/13/draftrecap,100,1,head,b'Wereback',6,0,13,423.l.333146.t.13,https://football.fantasysports.yahoo.com/f1/333146/13,3,2023,"Manager({
+  ""felo_score"": 590,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""LV7TOCSXSMT57HTI7Y6ZE76JFE"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 13,
+  ""nickname"": ""Nate""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/411797c57560799bd61a6e2baf0448ab82249f41a6d58531fa4a5159183d87b0.png""
+})",season,2023,1433.82,,,,9,0.357,0,5,12.0,1442.2199999999998,1433.82,12,loss,1,
+,,B-,,https://football.fantasysports.yahoo.com/f1/333146/8/draftrecap,21,1,head,b'The fishingtons',9,0,8,423.l.333146.t.8,https://football.fantasysports.yahoo.com/f1/333146/8,2,2023,"Manager({
+  ""felo_score"": 582,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""YYVP5ZVV2OWTUYFIJFGXOVDODY"",
+  ""image_url"": ""https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg"",
+  ""manager_id"": 8,
+  ""nickname"": ""mike""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png""
+})",season,2023,1422.8,,,,10,0.286,0,4,,1588.1199999999997,1422.8,13,win,1,
+,,D,,https://football.fantasysports.yahoo.com/f1/333146/5/draftrecap,50,1,head,b'Saquon These Nuts',10,0,5,423.l.333146.t.5,https://football.fantasysports.yahoo.com/f1/333146/5,1,2023,"Manager({
+  ""felo_score"": 530,
+  ""felo_tier"": ""bronze"",
+  ""guid"": ""QLFIQZP7SKRWBM6VIEIBJCPSYQ"",
+  ""image_url"": ""https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"",
+  ""manager_id"": 5,
+  ""nickname"": ""matt""
+})",week,15,0,"TeamLogo({
+  ""size"": ""large"",
+  ""url"": ""https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36581429470_8997e9.jpg""
+})",season,2023,1232.1,,,,11,0.214,0,3,,1425.9799999999998,1232.1,14,loss,2,

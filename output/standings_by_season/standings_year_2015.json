@@ -1,0 +1,920 @@
+{
+  "teams": [
+    {
+      "team": {
+        "clinched_playoffs": 1,
+        "division_id": 2,
+        "draft_grade": "C+",
+        "draft_position": 14,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/12/draftrecap",
+        "faab_balance": 12,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 729,
+            "felo_tier": "gold",
+            "guid": "6ULIXQKSLBRKIB6HHDSUWJKNAI",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "manager_id": 12,
+            "nickname": "Nick"
+          }
+        },
+        "name": "Starr is Born",
+        "number_of_moves": 24,
+        "number_of_trades": 2,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 12,
+        "team_key": "348.l.853925.t.12",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1302.03
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 3,
+            "ties": 0,
+            "wins": 8
+          },
+          "outcome_totals": {
+            "losses": 4,
+            "percentage": 0.692,
+            "ties": 0,
+            "wins": 9
+          },
+          "playoff_seed": 3,
+          "points_against": 1160.9099999999996,
+          "points_for": 1302.03,
+          "rank": 1,
+          "streak": {
+            "type": "win",
+            "value": 5
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/12",
+        "waiver_priority": 12
+      }
+    },
+    {
+      "team": {
+        "clinched_playoffs": 1,
+        "division_id": 1,
+        "draft_grade": "C",
+        "draft_position": 7,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/5/draftrecap",
+        "faab_balance": 0,
+        "has_draft_grade": 1,
+        "is_owned_by_current_login": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 666,
+            "felo_tier": "silver",
+            "guid": "UG3O3JYLMANG47RCKVEORYV7CM",
+            "image_url": "https://s.yimg.com/ag/images/1893/58868684902_267b2c_64sq.jpg",
+            "is_current_login": 1,
+            "manager_id": 5,
+            "nickname": "Mike"
+          }
+        },
+        "name": "Thug Bungalow",
+        "number_of_moves": 28,
+        "number_of_trades": 0,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 5,
+        "team_key": "348.l.853925.t.5",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/dh/ap/fantasy/img/profile_96.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1355.37
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 5,
+            "ties": 0,
+            "wins": 6
+          },
+          "outcome_totals": {
+            "losses": 5,
+            "percentage": 0.615,
+            "ties": 0,
+            "wins": 8
+          },
+          "playoff_seed": 4,
+          "points_against": 1273.94,
+          "points_for": 1355.37,
+          "rank": 2,
+          "streak": {
+            "type": "win",
+            "value": 2
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/5",
+        "waiver_priority": 11
+      }
+    },
+    {
+      "team": {
+        "clinched_playoffs": 1,
+        "division_id": 1,
+        "draft_grade": "B",
+        "draft_position": 12,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/1/draftrecap",
+        "faab_balance": 0,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 777,
+            "felo_tier": "gold",
+            "guid": "AH4HVFPFUWABOULTM3I26IVX44",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "is_commissioner": 0,
+            "manager_id": 1,
+            "nickname": "Ricky"
+          }
+        },
+        "name": "The Ice Cold Bruschi",
+        "number_of_moves": 30,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 1,
+        "team_key": "348.l.853925.t.1",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_10.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1457.66
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 1,
+            "ties": 0,
+            "wins": 10
+          },
+          "outcome_totals": {
+            "losses": 3,
+            "percentage": 0.769,
+            "ties": 0,
+            "wins": 10
+          },
+          "playoff_seed": 1,
+          "points_against": 1225.08,
+          "points_for": 1457.66,
+          "rank": 3,
+          "streak": {
+            "type": "win",
+            "value": 1
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/1",
+        "waiver_priority": 14
+      }
+    },
+    {
+      "team": {
+        "clinched_playoffs": 1,
+        "division_id": 2,
+        "draft_grade": "C+",
+        "draft_position": 9,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/2/draftrecap",
+        "faab_balance": 6,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 728,
+            "felo_tier": "gold",
+            "guid": "3PGSNJHQVI64SC542EWTA2WWNQ",
+            "image_url": "https://s.yimg.com/ag/images/4594/38094624950_d27a12_64sq.jpg",
+            "manager_id": 2,
+            "nickname": "Peter"
+          }
+        },
+        "name": "who invited canada",
+        "number_of_moves": 46,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 2,
+        "team_key": "348.l.853925.t.2",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24996767240_023cabaf10.jpg"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1425.64
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 2,
+            "ties": 0,
+            "wins": 9
+          },
+          "outcome_totals": {
+            "losses": 3,
+            "percentage": 0.769,
+            "ties": 0,
+            "wins": 10
+          },
+          "playoff_seed": 2,
+          "points_against": 1234.93,
+          "points_for": 1425.64,
+          "rank": 4,
+          "streak": {
+            "type": "win",
+            "value": 2
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/2",
+        "waiver_priority": 13
+      }
+    },
+    {
+      "team": {
+        "clinched_playoffs": 1,
+        "division_id": 2,
+        "draft_grade": "B-",
+        "draft_position": 6,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/10/draftrecap",
+        "faab_balance": 60,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 786,
+            "felo_tier": "gold",
+            "guid": "YYVP5ZVV2OWTUYFIJFGXOVDODY",
+            "image_url": "https://s.yimg.com/ag/images/4577/38998536422_a0c559_64sq.jpg",
+            "manager_id": 10,
+            "nickname": "mike"
+          }
+        },
+        "name": "The fishingtons",
+        "number_of_moves": 23,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 10,
+        "team_key": "348.l.853925.t.10",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1302.04
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 5,
+            "ties": 0,
+            "wins": 6
+          },
+          "outcome_totals": {
+            "losses": 5,
+            "percentage": 0.615,
+            "ties": 0,
+            "wins": 8
+          },
+          "playoff_seed": 5,
+          "points_against": 1103.02,
+          "points_for": 1302.04,
+          "rank": 5,
+          "streak": {
+            "type": "loss",
+            "value": 1
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/10",
+        "waiver_priority": 10
+      }
+    },
+    {
+      "team": {
+        "clinched_playoffs": 1,
+        "division_id": 1,
+        "draft_grade": "A-",
+        "draft_position": 11,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/9/draftrecap",
+        "faab_balance": 2,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 733,
+            "felo_tier": "gold",
+            "guid": "RN5O32YPZSZDB4FX5ZUV5YOENE",
+            "image_url": "https://s.yimg.com/ag/images/4682/37719466143_3d2115_64sq.jpg",
+            "manager_id": 9,
+            "nickname": "Kyle"
+          }
+        },
+        "name": "The Scientist",
+        "number_of_moves": 18,
+        "number_of_trades": 0,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 9,
+        "team_key": "348.l.853925.t.9",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_8.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1367.72
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 5,
+            "ties": 0,
+            "wins": 6
+          },
+          "outcome_totals": {
+            "losses": 6,
+            "percentage": 0.538,
+            "ties": 0,
+            "wins": 7
+          },
+          "playoff_seed": 6,
+          "points_against": 1245.23,
+          "points_for": 1367.72,
+          "rank": 6,
+          "streak": {
+            "type": "win",
+            "value": 1
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/9",
+        "waiver_priority": 9
+      }
+    },
+    {
+      "team": {
+        "division_id": 1,
+        "draft_grade": "A-",
+        "draft_position": 5,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/13/draftrecap",
+        "faab_balance": 0,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 744,
+            "felo_tier": "gold",
+            "guid": "PWZRZQGDFAHZWRIFFA7CZIYCDA",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "manager_id": 13,
+            "nickname": "Matt"
+          }
+        },
+        "name": "Victor Cruisin",
+        "number_of_moves": 18,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 13,
+        "team_key": "348.l.853925.t.13",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_5.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1288.03
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 6,
+            "ties": 0,
+            "wins": 5
+          },
+          "outcome_totals": {
+            "losses": 8,
+            "percentage": 0.385,
+            "ties": 0,
+            "wins": 5
+          },
+          "playoff_seed": 10,
+          "points_against": 1368.6599999999999,
+          "points_for": 1288.03,
+          "rank": 7,
+          "streak": {
+            "type": "loss",
+            "value": 2
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/13",
+        "waiver_priority": 5
+      }
+    },
+    {
+      "team": {
+        "division_id": 2,
+        "draft_grade": "C",
+        "draft_position": 10,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/4/draftrecap",
+        "faab_balance": 25,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 641,
+            "felo_tier": "silver",
+            "guid": "--",
+            "manager_id": 4,
+            "nickname": "--hidden--"
+          }
+        },
+        "name": "The Dirty Diapers",
+        "number_of_moves": 25,
+        "number_of_trades": 0,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 4,
+        "team_key": "348.l.853925.t.4",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1268.74
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 4,
+            "ties": 0,
+            "wins": 7
+          },
+          "outcome_totals": {
+            "losses": 6,
+            "percentage": 0.538,
+            "ties": 0,
+            "wins": 7
+          },
+          "playoff_seed": 7,
+          "points_against": 1200.48,
+          "points_for": 1268.74,
+          "rank": 8,
+          "streak": {
+            "type": "win",
+            "value": 2
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/4",
+        "waiver_priority": 8
+      }
+    },
+    {
+      "team": {
+        "division_id": 1,
+        "draft_grade": "B",
+        "draft_position": 13,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/3/draftrecap",
+        "faab_balance": 85,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 555,
+            "felo_tier": "bronze",
+            "guid": "J57JIHTZDZCZL5EJVFDBBFGNCI",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "manager_id": 3,
+            "nickname": "Tim"
+          }
+        },
+        "name": "Jadeveon's Hit Men",
+        "number_of_moves": 4,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 3,
+        "team_key": "348.l.853925.t.3",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25186667852_5eec19e99b.jpg"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1256.92
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 6,
+            "ties": 0,
+            "wins": 5
+          },
+          "outcome_totals": {
+            "losses": 7,
+            "percentage": 0.462,
+            "ties": 0,
+            "wins": 6
+          },
+          "playoff_seed": 8,
+          "points_against": 1357.1999999999998,
+          "points_for": 1256.92,
+          "rank": 9,
+          "streak": {
+            "type": "loss",
+            "value": 1
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/3",
+        "waiver_priority": 7
+      }
+    },
+    {
+      "team": {
+        "division_id": 1,
+        "draft_grade": "B",
+        "draft_position": 3,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/11/draftrecap",
+        "faab_balance": 45,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 585,
+            "felo_tier": "bronze",
+            "guid": "G2NCGCH26SABV5CRAMOQE2FQ4M",
+            "image_url": "https://s.yimg.com/ag/images/4448/27143436649_398964_64sq.jpg",
+            "manager_id": 11,
+            "nickname": "PD"
+          }
+        },
+        "name": "Immortal Duffmen",
+        "number_of_moves": 10,
+        "number_of_trades": 0,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 11,
+        "team_key": "348.l.853925.t.11",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_7.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1196.71
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 8,
+            "ties": 0,
+            "wins": 3
+          },
+          "outcome_totals": {
+            "losses": 8,
+            "percentage": 0.385,
+            "ties": 0,
+            "wins": 5
+          },
+          "playoff_seed": 12,
+          "points_against": 1414.47,
+          "points_for": 1196.71,
+          "rank": 10,
+          "streak": {
+            "type": "loss",
+            "value": 2
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/11",
+        "waiver_priority": 3
+      }
+    },
+    {
+      "team": {
+        "division_id": 1,
+        "draft_grade": "B",
+        "draft_position": 2,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/7/draftrecap",
+        "faab_balance": 25,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 622,
+            "felo_tier": "silver",
+            "guid": "QQ55LWU6E5JC3VLOC4YLR4ERME",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "manager_id": 7,
+            "nickname": "Jake"
+          }
+        },
+        "name": "Thunder Crotches",
+        "number_of_moves": 23,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 7,
+        "team_key": "348.l.853925.t.7",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25212692992_7524090cb0.jpg"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1275.81
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 8,
+            "ties": 0,
+            "wins": 4
+          },
+          "outcome_totals": {
+            "losses": 8,
+            "percentage": 0.385,
+            "ties": 0,
+            "wins": 5
+          },
+          "playoff_seed": 11,
+          "points_against": 1301.3,
+          "points_for": 1275.81,
+          "rank": 11,
+          "streak": {
+            "type": "loss",
+            "value": 1
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/7",
+        "waiver_priority": 4
+      }
+    },
+    {
+      "team": {
+        "division_id": 2,
+        "draft_grade": "B+",
+        "draft_position": 1,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/14/draftrecap",
+        "faab_balance": 0,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 527,
+            "felo_tier": "bronze",
+            "guid": "7RGUFN54OGM3YX5YNBB6JMEPCA",
+            "image_url": "https://s.yimg.com/ag/images/4541/25163236808_6f42ac_64sq.jpg",
+            "manager_id": 14,
+            "nickname": "Matt Jones"
+          }
+        },
+        "name": "Kurtz' Horror",
+        "number_of_moves": 12,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 14,
+        "team_key": "348.l.853925.t.14",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_11.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1146.6
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 7,
+            "ties": 0,
+            "wins": 5
+          },
+          "outcome_totals": {
+            "losses": 7,
+            "percentage": 0.462,
+            "ties": 0,
+            "wins": 6
+          },
+          "playoff_seed": 9,
+          "points_against": 1196.89,
+          "points_for": 1146.6,
+          "rank": 12,
+          "streak": {
+            "type": "loss",
+            "value": 2
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/14",
+        "waiver_priority": 6
+      }
+    },
+    {
+      "team": {
+        "division_id": 2,
+        "draft_grade": "C",
+        "draft_position": 4,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/6/draftrecap",
+        "faab_balance": 45,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 527,
+            "felo_tier": "bronze",
+            "guid": "P6DPCCZF3N36UIJH7KYG3DOG4M",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "manager_id": 6,
+            "nickname": "Lauren"
+          }
+        },
+        "name": "Lauren's Legit Team",
+        "number_of_moves": 13,
+        "number_of_trades": 1,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 6,
+        "team_key": "348.l.853925.t.6",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_10.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 1070.22
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 9,
+            "ties": 0,
+            "wins": 2
+          },
+          "outcome_totals": {
+            "losses": 10,
+            "percentage": 0.231,
+            "ties": 0,
+            "wins": 3
+          },
+          "points_against": 1304.54,
+          "points_for": 1070.22,
+          "rank": 13,
+          "streak": {
+            "type": "win",
+            "value": 1
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/6",
+        "waiver_priority": 2
+      }
+    },
+    {
+      "team": {
+        "division_id": 2,
+        "draft_grade": "B",
+        "draft_position": 8,
+        "draft_recap_url": "https://football.fantasysports.yahoo.com/2015/f1/853925/8/draftrecap",
+        "faab_balance": 50,
+        "has_draft_grade": 1,
+        "league_scoring_type": "head",
+        "managers": {
+          "manager": {
+            "felo_score": 567,
+            "felo_tier": "bronze",
+            "guid": "HLYYB5KPQ3TXP4GMCKTNL7PY4U",
+            "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+            "manager_id": 8,
+            "nickname": "Eric"
+          }
+        },
+        "name": "John Brown's Army",
+        "number_of_moves": 4,
+        "number_of_trades": 0,
+        "roster_adds": {
+          "coverage_type": "week",
+          "coverage_value": 17,
+          "value": 0
+        },
+        "team_id": 8,
+        "team_key": "348.l.853925.t.8",
+        "team_logos": {
+          "team_logo": {
+            "size": "large",
+            "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png"
+          }
+        },
+        "team_points": {
+          "coverage_type": "season",
+          "season": 2015,
+          "total": 997.77
+        },
+        "team_standings": {
+          "divisional_outcome_totals": {
+            "losses": 9,
+            "ties": 0,
+            "wins": 2
+          },
+          "outcome_totals": {
+            "losses": 11,
+            "percentage": 0.154,
+            "ties": 0,
+            "wins": 2
+          },
+          "points_against": 1324.6100000000001,
+          "points_for": 997.77,
+          "rank": 14,
+          "streak": {
+            "type": "loss",
+            "value": 8
+          }
+        },
+        "url": "https://football.fantasysports.yahoo.com/2015/f1/853925/8",
+        "waiver_priority": 1
+      }
+    }
+  ]
+}

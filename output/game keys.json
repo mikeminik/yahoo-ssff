@@ -1,0 +1,352 @@
+[
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 50,
+      "game_key": "50",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 1999,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/1999/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 53,
+      "game_key": "53",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2000,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2000/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 57,
+      "game_key": "57",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2001,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2001/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 49,
+      "game_key": "49",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2002,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2002/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 79,
+      "game_key": "79",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2003,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2003/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 101,
+      "game_key": "101",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2004,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2004/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 124,
+      "game_key": "124",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2005,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2005/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 153,
+      "game_key": "153",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2006,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2006/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 175,
+      "game_key": "175",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2007,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2007/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 199,
+      "game_key": "199",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2008,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2008/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 222,
+      "game_key": "222",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2009,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2009/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 242,
+      "game_key": "242",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2010,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2010/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 257,
+      "game_key": "257",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2011,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2011/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 273,
+      "game_key": "273",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2012,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2012/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 314,
+      "game_key": "314",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2013,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2013/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 331,
+      "game_key": "331",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2014,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2014/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 348,
+      "game_key": "348",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2015,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2015/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 359,
+      "game_key": "359",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2016,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2016/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 371,
+      "game_key": "371",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2017,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2017/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 380,
+      "game_key": "380",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2018,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2018/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 390,
+      "game_key": "390",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2019,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2019/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 399,
+      "game_key": "399",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2020,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2020/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 406,
+      "game_key": "406",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2021,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2021/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 414,
+      "game_key": "414",
+      "is_game_over": 1,
+      "is_offseason": 1,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2022,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/2022/f1"
+    }
+  },
+  {
+    "game": {
+      "code": "nfl",
+      "game_id": 423,
+      "game_key": "423",
+      "is_game_over": 0,
+      "is_offseason": 0,
+      "is_registration_over": 1,
+      "name": "Football",
+      "season": 2023,
+      "type": "full",
+      "url": "https://football.fantasysports.yahoo.com/f1"
+    }
+  }
+]

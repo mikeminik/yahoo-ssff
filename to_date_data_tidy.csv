@@ -1,0 +1,1925 @@
+week,team_name,in_season_manager_id,manager_name,opponent_team_name,in_season_opponent_manager_id,opponent_name,projected_points_for,points_for,projected_points_against,points_against,season,win
+1,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,105.32,123.8,94.97,100.87,2015,1
+2,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,5,Michael,94.91,106.43,96.95,102.1,2015,1
+3,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,7,Jake,98.54,101.23,102.01,89.87,2015,1
+4,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,102.49,113.67,107.05,84.53,2015,1
+5,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,11,Pat,76.25,122.47,98.02,72.7,2015,1
+6,The Ice Cold Bruschi,1,Ricky,Victor Cruisin,13,unknown,113.97,118.4,104.49,112.57,2015,1
+7,The Ice Cold Bruschi,1,Ricky,who invited canada,2,Peter,102.26,96.33,100.95,105.87,2015,0
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,110.91,105.07,100.13,130.7,2015,0
+9,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,121.66,124.77,103.02,84.13,2015,1
+10,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,5,Michael,109.12,110.83,116.6,71.7,2015,1
+11,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,7,Jake,126.24,86.83,93.29,82.47,2015,1
+12,The Ice Cold Bruschi,1,Ricky,Starr is Born,12,Nick,99.42,88.23,101.99,112.0,2015,0
+13,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,11,Pat,116.76,159.6,105.0,75.57,2015,1
+15,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,5,Michael,112.77,108.5,109.47,114.8,2015,0
+16,The Ice Cold Bruschi,1,Ricky,who invited canada,2,Peter,97.43,95.0,111.14,83.27,2015,1
+1,who invited canada,2,Peter,The Dirty Diapers,4,unknown,101.61,107.3,101.02,110.17,2015,0
+2,who invited canada,2,Peter,Lauren's Legit Team,6,Lauren,95.88,101.77,92.74,83.2,2015,1
+3,who invited canada,2,Peter,John Brown's Army,8,Eric,99.52,139.97,101.83,102.6,2015,1
+4,who invited canada,2,Peter,The fishingtons,10,Buddy,103.6,89.03,98.85,79.4,2015,1
+5,who invited canada,2,Peter,Starr is Born,12,Nick,72.67,108.83,93.18,87.17,2015,1
+6,who invited canada,2,Peter,Kurtz' Horror,14,Jones,99.89,132.87,101.05,101.73,2015,1
+7,who invited canada,2,Peter,The Ice Cold Bruschi,1,Ricky,100.95,105.87,102.26,96.33,2015,1
+8,who invited canada,2,Peter,Kurtz' Horror,14,Jones,102.23,119.23,99.73,95.33,2015,1
+9,who invited canada,2,Peter,The Scientist,9,Kyle,110.41,105.03,86.75,121.83,2015,0
+10,who invited canada,2,Peter,The Dirty Diapers,4,unknown,116.4,97.37,106.34,78.47,2015,1
+11,who invited canada,2,Peter,Lauren's Legit Team,6,Lauren,109.01,80.47,96.74,86.63,2015,0
+12,who invited canada,2,Peter,John Brown's Army,8,Eric,111.76,114.17,73.36,76.0,2015,1
+13,who invited canada,2,Peter,The fishingtons,10,Buddy,111.52,123.73,103.32,116.07,2015,1
+15,who invited canada,2,Peter,Starr is Born,12,Nick,113.1,104.4,110.02,114.93,2015,0
+16,who invited canada,2,Peter,The Ice Cold Bruschi,1,Ricky,111.14,83.27,97.43,95.0,2015,0
+1,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,94.97,100.87,105.32,123.8,2015,0
+2,Jadeveon's Hit Men,3,Tim,Victor Cruisin,13,unknown,98.45,101.43,97.39,115.2,2015,0
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,11,Pat,98.63,59.4,91.63,104.63,2015,0
+4,Jadeveon's Hit Men,3,Tim,Thug Bungalow,5,Michael,84.76,89.83,103.65,92.37,2015,0
+5,Jadeveon's Hit Men,3,Tim,Thunder Crotches,7,Jake,84.91,100.97,86.12,85.87,2015,1
+6,Jadeveon's Hit Men,3,Tim,The Dirty Diapers,4,unknown,100.36,121.97,94.48,100.7,2015,1
+7,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,101.53,127.9,95.77,119.23,2015,1
+8,Jadeveon's Hit Men,3,Tim,Thunder Crotches,7,Jake,110.55,125.23,109.18,122.53,2015,1
+9,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,103.02,84.13,121.66,124.77,2015,0
+10,Jadeveon's Hit Men,3,Tim,The fishingtons,10,Buddy,107.95,82.13,97.49,122.93,2015,0
+11,Jadeveon's Hit Men,3,Tim,Thug Bungalow,5,Michael,94.93,94.33,94.56,73.07,2015,1
+12,Jadeveon's Hit Men,3,Tim,Victor Cruisin,13,unknown,95.2,100.9,92.29,76.57,2015,1
+13,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,100.41,67.83,105.16,95.53,2015,0
+15,Jadeveon's Hit Men,3,Tim,Victor Cruisin,13,unknown,98.37,113.97,91.8,115.4,2015,0
+16,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,11,Pat,93.41,87.63,91.44,83.03,2015,1
+1,The Dirty Diapers,4,unknown,who invited canada,2,Peter,101.02,110.17,101.61,107.3,2015,1
+2,The Dirty Diapers,4,unknown,Kurtz' Horror,14,Jones,102.92,65.9,91.12,90.8,2015,0
+3,The Dirty Diapers,4,unknown,Starr is Born,12,Nick,92.05,106.37,95.69,95.27,2015,1
+4,The Dirty Diapers,4,unknown,Lauren's Legit Team,6,Lauren,102.4,97.0,101.77,77.43,2015,1
+5,The Dirty Diapers,4,unknown,John Brown's Army,8,Eric,74.65,78.7,95.26,90.57,2015,0
+6,The Dirty Diapers,4,unknown,Jadeveon's Hit Men,3,Tim,94.48,100.7,100.36,121.97,2015,0
+7,The Dirty Diapers,4,unknown,The fishingtons,10,Buddy,91.56,83.93,94.67,119.2,2015,0
+8,The Dirty Diapers,4,unknown,Starr is Born,12,Nick,94.48,104.3,91.77,82.9,2015,1
+9,The Dirty Diapers,4,unknown,Kurtz' Horror,14,Jones,106.15,118.7,97.85,104.5,2015,1
+10,The Dirty Diapers,4,unknown,who invited canada,2,Peter,106.34,78.47,116.4,97.37,2015,0
+11,The Dirty Diapers,4,unknown,Immortal Duffmen,11,Pat,99.09,79.7,108.06,89.67,2015,0
+12,The Dirty Diapers,4,unknown,Lauren's Legit Team,6,Lauren,98.03,118.47,98.99,84.4,2015,1
+13,The Dirty Diapers,4,unknown,John Brown's Army,8,Eric,106.39,126.33,60.78,39.1,2015,1
+15,The Dirty Diapers,4,unknown,Immortal Duffmen,11,Pat,95.25,112.07,94.61,72.13,2015,1
+16,The Dirty Diapers,4,unknown,Victor Cruisin,13,unknown,92.63,101.23,90.83,129.8,2015,0
+1,Thug Bungalow,5,Michael,Thunder Crotches,7,Jake,103.55,74.4,100.7,126.63,2015,0
+2,Thug Bungalow,5,Michael,The Ice Cold Bruschi,1,Ricky,96.95,102.1,94.91,106.43,2015,0
+3,Thug Bungalow,5,Michael,Victor Cruisin,13,unknown,101.03,165.5,107.66,138.6,2015,1
+4,Thug Bungalow,5,Michael,Jadeveon's Hit Men,3,Tim,103.65,92.37,84.76,89.83,2015,1
+5,Thug Bungalow,5,Michael,Lauren's Legit Team,6,Lauren,93.48,110.73,88.65,87.6,2015,1
+6,Thug Bungalow,5,Michael,The Scientist,9,Kyle,108.64,102.9,105.61,81.7,2015,1
+7,Thug Bungalow,5,Michael,Immortal Duffmen,11,Pat,80.66,84.4,89.53,111.43,2015,0
+8,Thug Bungalow,5,Michael,John Brown's Army,8,Eric,103.66,106.67,94.15,87.23,2015,1
+9,Thug Bungalow,5,Michael,Victor Cruisin,13,unknown,107.53,120.5,67.06,75.0,2015,1
+10,Thug Bungalow,5,Michael,The Ice Cold Bruschi,1,Ricky,116.6,71.7,109.12,110.83,2015,0
+11,Thug Bungalow,5,Michael,Jadeveon's Hit Men,3,Tim,94.56,73.07,94.93,94.33,2015,0
+12,Thug Bungalow,5,Michael,Immortal Duffmen,11,Pat,109.26,111.03,94.76,86.23,2015,1
+13,Thug Bungalow,5,Michael,Thunder Crotches,7,Jake,112.06,140.0,104.31,78.1,2015,1
+14,Thug Bungalow,5,Michael,The fishingtons,10,Buddy,100.66,101.97,110.15,91.33,2015,1
+15,Thug Bungalow,5,Michael,The Ice Cold Bruschi,1,Ricky,109.47,114.8,112.77,108.5,2015,1
+16,Thug Bungalow,5,Michael,Starr is Born,12,Nick,103.23,104.63,108.18,105.43,2015,0
+1,Lauren's Legit Team,6,Lauren,John Brown's Army,8,Eric,95.73,88.6,95.83,80.73,2015,1
+2,Lauren's Legit Team,6,Lauren,who invited canada,2,Peter,92.74,83.2,95.88,101.77,2015,0
+3,Lauren's Legit Team,6,Lauren,Kurtz' Horror,14,Jones,91.64,90.4,102.7,124.2,2015,0
+4,Lauren's Legit Team,6,Lauren,The Dirty Diapers,4,unknown,101.77,77.43,102.4,97.0,2015,0
+5,Lauren's Legit Team,6,Lauren,Thug Bungalow,5,Michael,88.65,87.6,93.48,110.73,2015,0
+6,Lauren's Legit Team,6,Lauren,The fishingtons,10,Buddy,82.1,61.4,93.99,74.67,2015,0
+7,Lauren's Legit Team,6,Lauren,Starr is Born,12,Nick,89.32,82.07,98.2,83.2,2015,0
+8,Lauren's Legit Team,6,Lauren,The fishingtons,10,Buddy,82.71,89.93,98.09,108.2,2015,0
+9,Lauren's Legit Team,6,Lauren,Starr is Born,12,Nick,95.59,57.3,95.28,121.4,2015,0
+10,Lauren's Legit Team,6,Lauren,Kurtz' Horror,14,Jones,85.64,72.13,90.83,101.07,2015,0
+11,Lauren's Legit Team,6,Lauren,who invited canada,2,Peter,96.74,86.63,109.01,80.47,2015,1
+12,Lauren's Legit Team,6,Lauren,The Dirty Diapers,4,unknown,98.99,84.4,98.03,118.47,2015,0
+13,Lauren's Legit Team,6,Lauren,Victor Cruisin,13,unknown,90.29,109.13,99.55,102.63,2015,1
+1,Thunder Crotches,7,Jake,Thug Bungalow,5,Michael,100.7,126.63,103.55,74.4,2015,1
+2,Thunder Crotches,7,Jake,The Scientist,9,Kyle,105.24,74.0,105.18,121.67,2015,0
+3,Thunder Crotches,7,Jake,The Ice Cold Bruschi,1,Ricky,102.01,89.87,98.54,101.23,2015,0
+4,Thunder Crotches,7,Jake,John Brown's Army,8,Eric,89.8,76.47,93.17,63.5,2015,1
+5,Thunder Crotches,7,Jake,Jadeveon's Hit Men,3,Tim,86.12,85.87,84.91,100.97,2015,0
+6,Thunder Crotches,7,Jake,Immortal Duffmen,11,Pat,101.19,137.8,85.01,83.13,2015,1
+7,Thunder Crotches,7,Jake,Victor Cruisin,13,unknown,102.33,98.0,112.61,114.87,2015,0
+8,Thunder Crotches,7,Jake,Jadeveon's Hit Men,3,Tim,109.18,122.53,110.55,125.23,2015,0
+9,Thunder Crotches,7,Jake,Immortal Duffmen,11,Pat,103.26,124.5,92.35,103.47,2015,1
+10,Thunder Crotches,7,Jake,Victor Cruisin,13,unknown,98.29,86.07,98.14,98.8,2015,0
+11,Thunder Crotches,7,Jake,The Ice Cold Bruschi,1,Ricky,93.29,82.47,126.24,86.83,2015,0
+12,Thunder Crotches,7,Jake,The Scientist,9,Kyle,106.15,93.5,96.27,87.2,2015,1
+13,Thunder Crotches,7,Jake,Thug Bungalow,5,Michael,104.31,78.1,112.06,140.0,2015,0
+14,Thunder Crotches,7,Jake,Victor Cruisin,13,unknown,93.83,87.77,95.69,121.6,2015,0
+15,Thunder Crotches,7,Jake,Kurtz' Horror,14,Jones,95.99,127.77,104.62,94.0,2015,1
+1,John Brown's Army,8,Eric,Lauren's Legit Team,6,Lauren,95.83,80.73,95.73,88.6,2015,0
+2,John Brown's Army,8,Eric,The fishingtons,10,Buddy,93.83,116.43,100.12,112.97,2015,1
+3,John Brown's Army,8,Eric,who invited canada,2,Peter,101.83,102.6,99.52,139.97,2015,0
+4,John Brown's Army,8,Eric,Thunder Crotches,7,Jake,93.17,63.5,89.8,76.47,2015,0
+5,John Brown's Army,8,Eric,The Dirty Diapers,4,unknown,95.26,90.57,74.65,78.7,2015,1
+6,John Brown's Army,8,Eric,Starr is Born,12,Nick,96.98,87.87,98.37,101.5,2015,0
+7,John Brown's Army,8,Eric,Kurtz' Horror,14,Jones,91.79,69.9,90.86,89.37,2015,0
+8,John Brown's Army,8,Eric,Thug Bungalow,5,Michael,94.15,87.23,103.66,106.67,2015,0
+9,John Brown's Army,8,Eric,The fishingtons,10,Buddy,57.15,46.07,99.8,119.1,2015,0
+10,John Brown's Army,8,Eric,Starr is Born,12,Nick,99.65,90.87,99.81,103.23,2015,0
+11,John Brown's Army,8,Eric,Kurtz' Horror,14,Jones,68.05,46.9,90.85,67.53,2015,0
+12,John Brown's Army,8,Eric,who invited canada,2,Peter,73.36,76.0,111.76,114.17,2015,0
+13,John Brown's Army,8,Eric,The Dirty Diapers,4,unknown,60.78,39.1,106.39,126.33,2015,0
+1,The Scientist,9,Kyle,Immortal Duffmen,11,Pat,101.93,127.17,98.74,100.97,2015,1
+2,The Scientist,9,Kyle,Thunder Crotches,7,Jake,105.18,121.67,105.24,74.0,2015,1
+3,The Scientist,9,Kyle,The fishingtons,10,Buddy,103.64,74.63,98.77,80.8,2015,0
+4,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,107.05,84.53,102.49,113.67,2015,0
+5,The Scientist,9,Kyle,Victor Cruisin,13,unknown,96.25,136.13,78.67,101.93,2015,1
+6,The Scientist,9,Kyle,Thug Bungalow,5,Michael,105.61,81.7,108.64,102.9,2015,0
+7,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,95.77,119.23,101.53,127.9,2015,0
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,100.13,130.7,110.91,105.07,2015,1
+9,The Scientist,9,Kyle,who invited canada,2,Peter,86.75,121.83,110.41,105.03,2015,1
+10,The Scientist,9,Kyle,Immortal Duffmen,11,Pat,102.59,134.67,97.43,79.2,2015,1
+11,The Scientist,9,Kyle,Victor Cruisin,13,unknown,104.17,52.73,80.36,92.43,2015,0
+12,The Scientist,9,Kyle,Thunder Crotches,7,Jake,96.27,87.2,106.15,93.5,2015,0
+13,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,105.16,95.53,100.41,67.83,2015,1
+14,The Scientist,9,Kyle,Starr is Born,12,Nick,105.34,111.7,121.99,135.03,2015,0
+15,The Scientist,9,Kyle,The fishingtons,10,Buddy,105.16,111.0,97.35,148.93,2015,0
+1,The fishingtons,10,Buddy,Starr is Born,12,Nick,105.02,71.23,101.42,116.8,2015,0
+2,The fishingtons,10,Buddy,John Brown's Army,8,Eric,100.12,112.97,93.83,116.43,2015,0
+3,The fishingtons,10,Buddy,The Scientist,9,Kyle,98.77,80.8,103.64,74.63,2015,1
+4,The fishingtons,10,Buddy,who invited canada,2,Peter,98.85,79.4,103.6,89.03,2015,0
+5,The fishingtons,10,Buddy,Kurtz' Horror,14,Jones,92.47,117.8,74.34,47.07,2015,1
+6,The fishingtons,10,Buddy,Lauren's Legit Team,6,Lauren,93.99,74.67,82.1,61.4,2015,1
+7,The fishingtons,10,Buddy,The Dirty Diapers,4,unknown,94.67,119.2,91.56,83.93,2015,1
+8,The fishingtons,10,Buddy,Lauren's Legit Team,6,Lauren,98.09,108.2,82.71,89.93,2015,1
+9,The fishingtons,10,Buddy,John Brown's Army,8,Eric,99.8,119.1,57.15,46.07,2015,1
+10,The fishingtons,10,Buddy,Jadeveon's Hit Men,3,Tim,97.49,122.93,107.95,82.13,2015,1
+11,The fishingtons,10,Buddy,Starr is Born,12,Nick,91.31,97.27,105.47,103.6,2015,0
+12,The fishingtons,10,Buddy,Kurtz' Horror,14,Jones,111.83,82.4,105.78,68.27,2015,1
+13,The fishingtons,10,Buddy,who invited canada,2,Peter,103.32,116.07,111.52,123.73,2015,0
+14,The fishingtons,10,Buddy,Thug Bungalow,5,Michael,110.15,91.33,100.66,101.97,2015,0
+15,The fishingtons,10,Buddy,The Scientist,9,Kyle,97.35,148.93,105.16,111.0,2015,1
+1,Immortal Duffmen,11,Pat,The Scientist,9,Kyle,98.74,100.97,101.93,127.17,2015,0
+2,Immortal Duffmen,11,Pat,Starr is Born,12,Nick,99.73,97.77,98.39,94.23,2015,1
+3,Immortal Duffmen,11,Pat,Jadeveon's Hit Men,3,Tim,91.63,104.63,98.63,59.4,2015,1
+4,Immortal Duffmen,11,Pat,Victor Cruisin,13,unknown,100.16,107.07,98.88,114.63,2015,0
+5,Immortal Duffmen,11,Pat,The Ice Cold Bruschi,1,Ricky,98.02,72.7,76.25,122.47,2015,0
+6,Immortal Duffmen,11,Pat,Thunder Crotches,7,Jake,85.01,83.13,101.19,137.8,2015,0
+7,Immortal Duffmen,11,Pat,Thug Bungalow,5,Michael,89.53,111.43,80.66,84.4,2015,1
+8,Immortal Duffmen,11,Pat,Victor Cruisin,13,unknown,100.13,84.87,103.2,64.87,2015,1
+9,Immortal Duffmen,11,Pat,Thunder Crotches,7,Jake,92.35,103.47,103.26,124.5,2015,0
+10,Immortal Duffmen,11,Pat,The Scientist,9,Kyle,97.43,79.2,102.59,134.67,2015,0
+11,Immortal Duffmen,11,Pat,The Dirty Diapers,4,unknown,108.06,89.67,99.09,79.7,2015,1
+12,Immortal Duffmen,11,Pat,Thug Bungalow,5,Michael,94.76,86.23,109.26,111.03,2015,0
+13,Immortal Duffmen,11,Pat,The Ice Cold Bruschi,1,Ricky,105.0,75.57,116.76,159.6,2015,0
+14,Immortal Duffmen,11,Pat,Kurtz' Horror,14,Jones,104.58,85.53,90.71,83.57,2015,1
+15,Immortal Duffmen,11,Pat,The Dirty Diapers,4,unknown,94.61,72.13,95.25,112.07,2015,0
+16,Immortal Duffmen,11,Pat,Jadeveon's Hit Men,3,Tim,91.44,83.03,93.41,87.63,2015,0
+1,Starr is Born,12,Nick,The fishingtons,10,Buddy,101.42,116.8,105.02,71.23,2015,1
+2,Starr is Born,12,Nick,Immortal Duffmen,11,Pat,98.39,94.23,99.73,97.77,2015,0
+3,Starr is Born,12,Nick,The Dirty Diapers,4,unknown,95.69,95.27,92.05,106.37,2015,0
+4,Starr is Born,12,Nick,Kurtz' Horror,14,Jones,85.79,93.8,101.58,86.23,2015,1
+5,Starr is Born,12,Nick,who invited canada,2,Peter,93.18,87.17,72.67,108.83,2015,0
+6,Starr is Born,12,Nick,John Brown's Army,8,Eric,98.37,101.5,96.98,87.87,2015,1
+7,Starr is Born,12,Nick,Lauren's Legit Team,6,Lauren,98.2,83.2,89.32,82.07,2015,1
+8,Starr is Born,12,Nick,The Dirty Diapers,4,unknown,91.77,82.9,94.48,104.3,2015,0
+9,Starr is Born,12,Nick,Lauren's Legit Team,6,Lauren,95.28,121.4,95.59,57.3,2015,1
+10,Starr is Born,12,Nick,John Brown's Army,8,Eric,99.81,103.23,99.65,90.87,2015,1
+11,Starr is Born,12,Nick,The fishingtons,10,Buddy,105.47,103.6,91.31,97.27,2015,1
+12,Starr is Born,12,Nick,The Ice Cold Bruschi,1,Ricky,101.99,112.0,99.42,88.23,2015,1
+13,Starr is Born,12,Nick,Kurtz' Horror,14,Jones,113.92,106.93,103.47,82.57,2015,1
+14,Starr is Born,12,Nick,The Scientist,9,Kyle,121.99,135.03,105.34,111.7,2015,1
+15,Starr is Born,12,Nick,who invited canada,2,Peter,110.02,114.93,113.1,104.4,2015,1
+16,Starr is Born,12,Nick,Thug Bungalow,5,Michael,108.18,105.43,103.23,104.63,2015,1
+1,Victor Cruisin,13,unknown,Kurtz' Horror,14,Jones,95.98,79.93,102.78,87.93,2015,0
+2,Victor Cruisin,13,unknown,Jadeveon's Hit Men,3,Tim,97.39,115.2,98.45,101.43,2015,1
+3,Victor Cruisin,13,unknown,Thug Bungalow,5,Michael,107.66,138.6,101.03,165.5,2015,0
+4,Victor Cruisin,13,unknown,Immortal Duffmen,11,Pat,98.88,114.63,100.16,107.07,2015,1
+5,Victor Cruisin,13,unknown,The Scientist,9,Kyle,78.67,101.93,96.25,136.13,2015,0
+6,Victor Cruisin,13,unknown,The Ice Cold Bruschi,1,Ricky,104.49,112.57,113.97,118.4,2015,0
+7,Victor Cruisin,13,unknown,Thunder Crotches,7,Jake,112.61,114.87,102.33,98.0,2015,1
+8,Victor Cruisin,13,unknown,Immortal Duffmen,11,Pat,103.2,64.87,100.13,84.87,2015,0
+9,Victor Cruisin,13,unknown,Thug Bungalow,5,Michael,67.06,75.0,107.53,120.5,2015,0
+10,Victor Cruisin,13,unknown,Thunder Crotches,7,Jake,98.14,98.8,98.29,86.07,2015,1
+11,Victor Cruisin,13,unknown,The Scientist,9,Kyle,80.36,92.43,104.17,52.73,2015,1
+12,Victor Cruisin,13,unknown,Jadeveon's Hit Men,3,Tim,92.29,76.57,95.2,100.9,2015,0
+13,Victor Cruisin,13,unknown,Lauren's Legit Team,6,Lauren,99.55,102.63,90.29,109.13,2015,0
+14,Victor Cruisin,13,unknown,Thunder Crotches,7,Jake,95.69,121.6,93.83,87.77,2015,1
+15,Victor Cruisin,13,unknown,Jadeveon's Hit Men,3,Tim,91.8,115.4,98.37,113.97,2015,1
+16,Victor Cruisin,13,unknown,The Dirty Diapers,4,unknown,90.83,129.8,92.63,101.23,2015,1
+1,Kurtz' Horror,14,Jones,Victor Cruisin,13,unknown,102.78,87.93,95.98,79.93,2015,1
+2,Kurtz' Horror,14,Jones,The Dirty Diapers,4,unknown,91.12,90.8,102.92,65.9,2015,1
+3,Kurtz' Horror,14,Jones,Lauren's Legit Team,6,Lauren,102.7,124.2,91.64,90.4,2015,1
+4,Kurtz' Horror,14,Jones,Starr is Born,12,Nick,101.58,86.23,85.79,93.8,2015,0
+5,Kurtz' Horror,14,Jones,The fishingtons,10,Buddy,74.34,47.07,92.47,117.8,2015,0
+6,Kurtz' Horror,14,Jones,who invited canada,2,Peter,101.05,101.73,99.89,132.87,2015,0
+7,Kurtz' Horror,14,Jones,John Brown's Army,8,Eric,90.86,89.37,91.79,69.9,2015,1
+8,Kurtz' Horror,14,Jones,who invited canada,2,Peter,99.73,95.33,102.23,119.23,2015,0
+9,Kurtz' Horror,14,Jones,The Dirty Diapers,4,unknown,97.85,104.5,106.15,118.7,2015,0
+10,Kurtz' Horror,14,Jones,Lauren's Legit Team,6,Lauren,90.83,101.07,85.64,72.13,2015,1
+11,Kurtz' Horror,14,Jones,John Brown's Army,8,Eric,90.85,67.53,68.05,46.9,2015,1
+12,Kurtz' Horror,14,Jones,The fishingtons,10,Buddy,105.78,68.27,111.83,82.4,2015,0
+13,Kurtz' Horror,14,Jones,Starr is Born,12,Nick,103.47,82.57,113.92,106.93,2015,0
+14,Kurtz' Horror,14,Jones,Immortal Duffmen,11,Pat,90.71,83.57,104.58,85.53,2015,0
+15,Kurtz' Horror,14,Jones,Thunder Crotches,7,Jake,104.62,94.0,95.99,127.77,2015,0
+1,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,104.46,108.7,108.96,109.13,2016,0
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,102.09,114.63,110.44,83.57,2016,1
+3,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,105.25,125.93,92.19,81.57,2016,1
+4,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,5,unknown,100.27,109.63,102.17,85.3,2016,1
+5,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,6,Lauren,99.08,128.73,89.9,75.1,2016,1
+6,The Ice Cold Bruschi,1,Ricky,Starr is Born,7,Nick,100.08,112.63,105.03,92.27,2016,1
+7,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,102.35,94.4,106.0,114.07,2016,0
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,102.47,90.3,85.21,110.5,2016,0
+9,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,10,Michael,115.74,138.17,101.2,120.9,2016,1
+10,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,11,Jake,104.22,137.33,95.3,82.8,2016,1
+11,The Ice Cold Bruschi,1,Ricky,Victor Cruisin,12,unknown,107.04,125.83,92.04,78.5,2016,1
+12,The Ice Cold Bruschi,1,Ricky,who invited canada,13,Peter,106.11,138.43,104.38,140.27,2016,0
+13,The Ice Cold Bruschi,1,Ricky,We're Back,14,Nate,105.42,82.97,75.03,83.07,2016,0
+14,The Ice Cold Bruschi,1,Ricky,We're Back,14,Nate,105.36,87.43,92.89,91.2,2016,0
+15,The Ice Cold Bruschi,1,Ricky,who invited canada,13,Peter,109.27,88.97,107.74,102.3,2016,0
+1,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,108.96,109.13,104.46,108.7,2016,1
+2,Immortal Duffmen,2,Pat,We're Back,14,Nate,106.39,126.0,102.65,119.03,2016,1
+3,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,115.66,105.13,113.08,86.1,2016,1
+4,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,100.93,88.67,79.01,52.7,2016,1
+5,Immortal Duffmen,2,Pat,The Twelve Apostles,5,unknown,112.1,121.73,101.46,120.57,2016,1
+6,Immortal Duffmen,2,Pat,SuperCam That Ho,6,Lauren,96.13,50.9,89.18,90.23,2016,0
+7,Immortal Duffmen,2,Pat,Starr is Born,7,Nick,92.97,115.47,102.0,84.33,2016,1
+8,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,101.71,121.5,98.95,138.0,2016,0
+9,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,111.78,97.7,105.45,98.67,2016,0
+10,Immortal Duffmen,2,Pat,Thug Bungalow,10,Michael,95.74,85.47,94.78,104.5,2016,0
+11,Immortal Duffmen,2,Pat,Thunder Crotches,11,Jake,93.13,97.0,96.53,83.3,2016,1
+12,Immortal Duffmen,2,Pat,Victor Cruisin,12,unknown,100.63,80.73,94.67,96.23,2016,0
+13,Immortal Duffmen,2,Pat,who invited canada,13,Peter,101.9,93.47,114.04,102.43,2016,0
+15,Immortal Duffmen,2,Pat,Thug Bungalow,10,Michael,74.93,52.3,91.43,100.47,2016,0
+16,Immortal Duffmen,2,Pat,Thunder Crotches,11,Jake,79.04,86.17,91.18,81.03,2016,1
+1,Jadeveon's Hit Men,3,Tim,who invited canada,13,Peter,103.99,122.1,100.46,100.07,2016,1
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,110.44,83.57,102.09,114.63,2016,0
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,113.08,86.1,115.66,105.13,2016,0
+4,Jadeveon's Hit Men,3,Tim,We're Back,14,Nate,100.15,108.2,103.13,74.3,2016,1
+5,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,106.54,77.1,49.87,21.7,2016,1
+6,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,5,unknown,103.74,70.7,93.51,144.5,2016,0
+7,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,6,Lauren,88.15,92.2,89.17,96.97,2016,0
+8,Jadeveon's Hit Men,3,Tim,Starr is Born,7,Nick,91.57,100.0,108.34,106.53,2016,0
+9,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,96.48,73.07,101.23,101.73,2016,0
+10,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,82.57,75.6,101.92,119.17,2016,0
+11,Jadeveon's Hit Men,3,Tim,Thug Bungalow,10,Michael,93.8,81.27,88.68,76.83,2016,1
+12,Jadeveon's Hit Men,3,Tim,Thunder Crotches,11,Jake,98.17,78.23,103.86,101.63,2016,0
+13,Jadeveon's Hit Men,3,Tim,Victor Cruisin,12,unknown,92.03,77.33,92.57,93.57,2016,0
+1,John Brown's Army,4,Eric,Victor Cruisin,12,unknown,97.58,100.53,82.04,106.5,2016,0
+2,John Brown's Army,4,Eric,who invited canada,13,Peter,104.83,71.03,101.12,97.87,2016,0
+3,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,92.19,81.57,105.25,125.93,2016,0
+4,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,79.01,52.7,100.93,88.67,2016,0
+5,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,49.87,21.7,106.54,77.1,2016,0
+6,John Brown's Army,4,Eric,We're Back,14,Nate,63.44,45.3,101.4,80.17,2016,0
+7,John Brown's Army,4,Eric,The Twelve Apostles,5,unknown,61.65,67.3,96.18,108.23,2016,0
+8,John Brown's Army,4,Eric,SuperCam That Ho,6,Lauren,55.19,54.5,75.75,89.77,2016,0
+9,John Brown's Army,4,Eric,Starr is Born,7,Nick,29.22,30.2,97.62,99.57,2016,0
+10,John Brown's Army,4,Eric,The fishingtons,8,Buddy,56.68,45.93,97.38,103.0,2016,0
+11,John Brown's Army,4,Eric,The Scientist,9,Kyle,58.04,44.8,105.1,129.33,2016,0
+12,John Brown's Army,4,Eric,Thug Bungalow,10,Michael,60.9,39.63,97.01,83.07,2016,0
+13,John Brown's Army,4,Eric,Thunder Crotches,11,Jake,70.76,54.2,99.62,70.17,2016,0
+1,The Twelve Apostles,5,unknown,Thunder Crotches,11,Jake,101.67,94.0,99.61,122.0,2016,0
+2,The Twelve Apostles,5,unknown,Victor Cruisin,12,unknown,99.82,112.73,87.94,93.97,2016,1
+3,The Twelve Apostles,5,unknown,who invited canada,13,Peter,106.03,95.87,102.58,116.87,2016,0
+4,The Twelve Apostles,5,unknown,The Ice Cold Bruschi,1,Ricky,102.17,85.3,100.27,109.63,2016,0
+5,The Twelve Apostles,5,unknown,Immortal Duffmen,2,Pat,101.46,120.57,112.1,121.73,2016,0
+6,The Twelve Apostles,5,unknown,Jadeveon's Hit Men,3,Tim,93.51,144.5,103.74,70.7,2016,1
+7,The Twelve Apostles,5,unknown,John Brown's Army,4,Eric,96.18,108.23,61.65,67.3,2016,1
+8,The Twelve Apostles,5,unknown,We're Back,14,Nate,84.46,93.9,80.05,57.47,2016,1
+9,The Twelve Apostles,5,unknown,SuperCam That Ho,6,Lauren,76.86,78.43,95.84,116.9,2016,0
+10,The Twelve Apostles,5,unknown,Starr is Born,7,Nick,100.56,94.33,96.03,90.13,2016,1
+11,The Twelve Apostles,5,unknown,The fishingtons,8,Buddy,92.05,101.47,104.12,102.03,2016,0
+12,The Twelve Apostles,5,unknown,The Scientist,9,Kyle,87.08,99.63,114.83,109.77,2016,0
+13,The Twelve Apostles,5,unknown,Thug Bungalow,10,Michael,83.81,112.23,88.85,69.9,2016,1
+14,The Twelve Apostles,5,unknown,Thug Bungalow,10,Michael,94.16,46.53,83.39,58.27,2016,0
+15,The Twelve Apostles,5,unknown,Starr is Born,7,Nick,89.73,68.53,99.99,108.1,2016,0
+1,SuperCam That Ho,6,Lauren,Thug Bungalow,10,Michael,100.07,94.07,104.23,82.0,2016,1
+2,SuperCam That Ho,6,Lauren,Thunder Crotches,11,Jake,100.21,132.67,97.2,113.4,2016,1
+3,SuperCam That Ho,6,Lauren,Victor Cruisin,12,unknown,94.78,91.93,90.02,143.03,2016,0
+4,SuperCam That Ho,6,Lauren,who invited canada,13,Peter,95.64,87.6,90.58,86.1,2016,1
+5,SuperCam That Ho,6,Lauren,The Ice Cold Bruschi,1,Ricky,89.9,75.1,99.08,128.73,2016,0
+6,SuperCam That Ho,6,Lauren,Immortal Duffmen,2,Pat,89.18,90.23,96.13,50.9,2016,1
+7,SuperCam That Ho,6,Lauren,Jadeveon's Hit Men,3,Tim,89.17,96.97,88.15,92.2,2016,1
+8,SuperCam That Ho,6,Lauren,John Brown's Army,4,Eric,75.75,89.77,55.19,54.5,2016,1
+9,SuperCam That Ho,6,Lauren,The Twelve Apostles,5,unknown,95.84,116.9,76.86,78.43,2016,1
+10,SuperCam That Ho,6,Lauren,We're Back,14,Nate,87.81,88.8,88.48,95.13,2016,0
+11,SuperCam That Ho,6,Lauren,Starr is Born,7,Nick,99.46,86.0,91.31,76.83,2016,1
+12,SuperCam That Ho,6,Lauren,The fishingtons,8,Buddy,89.87,90.1,107.37,74.87,2016,1
+13,SuperCam That Ho,6,Lauren,The Scientist,9,Kyle,85.53,100.77,106.72,103.07,2016,0
+15,SuperCam That Ho,6,Lauren,The Scientist,9,Kyle,89.28,96.3,109.82,91.83,2016,1
+16,SuperCam That Ho,6,Lauren,The fishingtons,8,Buddy,89.29,72.7,107.31,89.83,2016,0
+1,Starr is Born,7,Nick,The Scientist,9,Kyle,101.19,116.4,90.69,97.63,2016,1
+2,Starr is Born,7,Nick,Thug Bungalow,10,Michael,104.18,59.47,105.06,117.73,2016,0
+3,Starr is Born,7,Nick,Thunder Crotches,11,Jake,99.37,95.37,96.14,90.67,2016,1
+4,Starr is Born,7,Nick,Victor Cruisin,12,unknown,97.94,113.1,98.68,67.3,2016,1
+5,Starr is Born,7,Nick,who invited canada,13,Peter,89.77,109.13,94.73,90.77,2016,1
+6,Starr is Born,7,Nick,The Ice Cold Bruschi,1,Ricky,105.03,92.27,100.08,112.63,2016,0
+7,Starr is Born,7,Nick,Immortal Duffmen,2,Pat,102.0,84.33,92.97,115.47,2016,0
+8,Starr is Born,7,Nick,Jadeveon's Hit Men,3,Tim,108.34,106.53,91.57,100.0,2016,1
+9,Starr is Born,7,Nick,John Brown's Army,4,Eric,97.62,99.57,29.22,30.2,2016,1
+10,Starr is Born,7,Nick,The Twelve Apostles,5,unknown,96.03,90.13,100.56,94.33,2016,0
+11,Starr is Born,7,Nick,SuperCam That Ho,6,Lauren,91.31,76.83,99.46,86.0,2016,0
+12,Starr is Born,7,Nick,We're Back,14,Nate,88.35,121.0,102.88,78.67,2016,1
+13,Starr is Born,7,Nick,The fishingtons,8,Buddy,89.31,86.63,104.45,105.77,2016,0
+14,Starr is Born,7,Nick,Thunder Crotches,11,Jake,90.7,77.4,93.57,112.2,2016,0
+15,Starr is Born,7,Nick,The Twelve Apostles,5,unknown,99.99,108.1,89.73,68.53,2016,1
+1,The fishingtons,8,Buddy,We're Back,14,Nate,100.8,90.67,103.88,97.2,2016,0
+2,The fishingtons,8,Buddy,The Scientist,9,Kyle,96.39,93.07,86.65,59.57,2016,1
+3,The fishingtons,8,Buddy,Thug Bungalow,10,Michael,105.69,93.9,113.18,71.37,2016,1
+4,The fishingtons,8,Buddy,Thunder Crotches,11,Jake,104.69,99.73,106.98,90.37,2016,1
+5,The fishingtons,8,Buddy,Victor Cruisin,12,unknown,100.61,126.87,101.33,111.1,2016,1
+6,The fishingtons,8,Buddy,who invited canada,13,Peter,106.42,75.2,103.18,115.63,2016,0
+7,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,106.0,114.07,102.35,94.4,2016,1
+8,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,98.95,138.0,101.71,121.5,2016,1
+9,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,101.23,101.73,96.48,73.07,2016,1
+10,The fishingtons,8,Buddy,John Brown's Army,4,Eric,97.38,103.0,56.68,45.93,2016,1
+11,The fishingtons,8,Buddy,The Twelve Apostles,5,unknown,104.12,102.03,92.05,101.47,2016,1
+12,The fishingtons,8,Buddy,SuperCam That Ho,6,Lauren,107.37,74.87,89.87,90.1,2016,0
+13,The fishingtons,8,Buddy,Starr is Born,7,Nick,104.45,105.77,89.31,86.63,2016,1
+15,The fishingtons,8,Buddy,We're Back,14,Nate,97.0,63.4,96.63,60.5,2016,1
+16,The fishingtons,8,Buddy,SuperCam That Ho,6,Lauren,107.31,89.83,89.29,72.7,2016,1
+1,The Scientist,9,Kyle,Starr is Born,7,Nick,90.69,97.63,101.19,116.4,2016,0
+2,The Scientist,9,Kyle,The fishingtons,8,Buddy,86.65,59.57,96.39,93.07,2016,0
+3,The Scientist,9,Kyle,We're Back,14,Nate,90.95,81.63,90.14,124.67,2016,0
+4,The Scientist,9,Kyle,Thug Bungalow,10,Michael,101.74,128.9,111.88,126.0,2016,1
+5,The Scientist,9,Kyle,Thunder Crotches,11,Jake,107.11,81.8,100.45,86.37,2016,0
+6,The Scientist,9,Kyle,Victor Cruisin,12,unknown,93.0,74.63,112.84,127.3,2016,0
+7,The Scientist,9,Kyle,who invited canada,13,Peter,91.78,122.57,96.7,85.0,2016,1
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,85.21,110.5,102.47,90.3,2016,1
+9,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,105.45,98.67,111.78,97.7,2016,1
+10,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,101.92,119.17,82.57,75.6,2016,1
+11,The Scientist,9,Kyle,John Brown's Army,4,Eric,105.1,129.33,58.04,44.8,2016,1
+12,The Scientist,9,Kyle,The Twelve Apostles,5,unknown,114.83,109.77,87.08,99.63,2016,1
+13,The Scientist,9,Kyle,SuperCam That Ho,6,Lauren,106.72,103.07,85.53,100.77,2016,1
+14,The Scientist,9,Kyle,who invited canada,13,Peter,109.57,123.5,103.39,104.83,2016,1
+15,The Scientist,9,Kyle,SuperCam That Ho,6,Lauren,109.82,91.83,89.28,96.3,2016,0
+16,The Scientist,9,Kyle,We're Back,14,Nate,108.52,151.93,82.74,76.4,2016,1
+1,Thug Bungalow,10,Michael,SuperCam That Ho,6,Lauren,104.23,82.0,100.07,94.07,2016,0
+2,Thug Bungalow,10,Michael,Starr is Born,7,Nick,105.06,117.73,104.18,59.47,2016,1
+3,Thug Bungalow,10,Michael,The fishingtons,8,Buddy,113.18,71.37,105.69,93.9,2016,0
+4,Thug Bungalow,10,Michael,The Scientist,9,Kyle,111.88,126.0,101.74,128.9,2016,0
+5,Thug Bungalow,10,Michael,We're Back,14,Nate,103.01,92.67,96.83,97.77,2016,0
+6,Thug Bungalow,10,Michael,Thunder Crotches,11,Jake,98.51,112.93,104.75,102.37,2016,1
+7,Thug Bungalow,10,Michael,Victor Cruisin,12,unknown,99.69,117.57,110.1,109.53,2016,1
+8,Thug Bungalow,10,Michael,who invited canada,13,Peter,102.71,98.1,89.89,119.63,2016,0
+9,Thug Bungalow,10,Michael,The Ice Cold Bruschi,1,Ricky,101.2,120.9,115.74,138.17,2016,0
+10,Thug Bungalow,10,Michael,Immortal Duffmen,2,Pat,94.78,104.5,95.74,85.47,2016,1
+11,Thug Bungalow,10,Michael,Jadeveon's Hit Men,3,Tim,88.68,76.83,93.8,81.27,2016,0
+12,Thug Bungalow,10,Michael,John Brown's Army,4,Eric,97.01,83.07,60.9,39.63,2016,1
+13,Thug Bungalow,10,Michael,The Twelve Apostles,5,unknown,88.85,69.9,83.81,112.23,2016,0
+14,Thug Bungalow,10,Michael,The Twelve Apostles,5,unknown,83.39,58.27,94.16,46.53,2016,1
+15,Thug Bungalow,10,Michael,Immortal Duffmen,2,Pat,91.43,100.47,74.93,52.3,2016,1
+16,Thug Bungalow,10,Michael,Victor Cruisin,12,unknown,91.17,113.83,105.54,105.37,2016,1
+1,Thunder Crotches,11,Jake,The Twelve Apostles,5,unknown,99.61,122.0,101.67,94.0,2016,1
+2,Thunder Crotches,11,Jake,SuperCam That Ho,6,Lauren,97.2,113.4,100.21,132.67,2016,0
+3,Thunder Crotches,11,Jake,Starr is Born,7,Nick,96.14,90.67,99.37,95.37,2016,0
+4,Thunder Crotches,11,Jake,The fishingtons,8,Buddy,106.98,90.37,104.69,99.73,2016,0
+5,Thunder Crotches,11,Jake,The Scientist,9,Kyle,100.45,86.37,107.11,81.8,2016,1
+6,Thunder Crotches,11,Jake,Thug Bungalow,10,Michael,104.75,102.37,98.51,112.93,2016,0
+7,Thunder Crotches,11,Jake,We're Back,14,Nate,101.64,88.57,87.73,99.83,2016,0
+8,Thunder Crotches,11,Jake,Victor Cruisin,12,unknown,94.71,107.17,94.05,111.73,2016,0
+9,Thunder Crotches,11,Jake,who invited canada,13,Peter,91.93,99.67,111.14,109.7,2016,0
+10,Thunder Crotches,11,Jake,The Ice Cold Bruschi,1,Ricky,95.3,82.8,104.22,137.33,2016,0
+11,Thunder Crotches,11,Jake,Immortal Duffmen,2,Pat,96.53,83.3,93.13,97.0,2016,0
+12,Thunder Crotches,11,Jake,Jadeveon's Hit Men,3,Tim,103.86,101.63,98.17,78.23,2016,1
+13,Thunder Crotches,11,Jake,John Brown's Army,4,Eric,99.62,70.17,70.76,54.2,2016,1
+14,Thunder Crotches,11,Jake,Starr is Born,7,Nick,93.57,112.2,90.7,77.4,2016,1
+15,Thunder Crotches,11,Jake,Victor Cruisin,12,unknown,102.31,83.83,91.8,117.07,2016,0
+16,Thunder Crotches,11,Jake,Immortal Duffmen,2,Pat,91.18,81.03,79.04,86.17,2016,0
+1,Victor Cruisin,12,unknown,John Brown's Army,4,Eric,82.04,106.5,97.58,100.53,2016,1
+2,Victor Cruisin,12,unknown,The Twelve Apostles,5,unknown,87.94,93.97,99.82,112.73,2016,0
+3,Victor Cruisin,12,unknown,SuperCam That Ho,6,Lauren,90.02,143.03,94.78,91.93,2016,1
+4,Victor Cruisin,12,unknown,Starr is Born,7,Nick,98.68,67.3,97.94,113.1,2016,0
+5,Victor Cruisin,12,unknown,The fishingtons,8,Buddy,101.33,111.1,100.61,126.87,2016,0
+6,Victor Cruisin,12,unknown,The Scientist,9,Kyle,112.84,127.3,93.0,74.63,2016,1
+7,Victor Cruisin,12,unknown,Thug Bungalow,10,Michael,110.1,109.53,99.69,117.57,2016,0
+8,Victor Cruisin,12,unknown,Thunder Crotches,11,Jake,94.05,111.73,94.71,107.17,2016,1
+9,Victor Cruisin,12,unknown,We're Back,14,Nate,93.34,99.77,91.61,63.13,2016,1
+10,Victor Cruisin,12,unknown,who invited canada,13,Peter,90.58,100.13,94.92,115.13,2016,0
+11,Victor Cruisin,12,unknown,The Ice Cold Bruschi,1,Ricky,92.04,78.5,107.04,125.83,2016,0
+12,Victor Cruisin,12,unknown,Immortal Duffmen,2,Pat,94.67,96.23,100.63,80.73,2016,1
+13,Victor Cruisin,12,unknown,Jadeveon's Hit Men,3,Tim,92.57,93.57,92.03,77.33,2016,1
+15,Victor Cruisin,12,unknown,Thunder Crotches,11,Jake,91.8,117.07,102.31,83.83,2016,1
+16,Victor Cruisin,12,unknown,Thug Bungalow,10,Michael,105.54,105.37,91.17,113.83,2016,0
+1,who invited canada,13,Peter,Jadeveon's Hit Men,3,Tim,100.46,100.07,103.99,122.1,2016,0
+2,who invited canada,13,Peter,John Brown's Army,4,Eric,101.12,97.87,104.83,71.03,2016,1
+3,who invited canada,13,Peter,The Twelve Apostles,5,unknown,102.58,116.87,106.03,95.87,2016,1
+4,who invited canada,13,Peter,SuperCam That Ho,6,Lauren,90.58,86.1,95.64,87.6,2016,0
+5,who invited canada,13,Peter,Starr is Born,7,Nick,94.73,90.77,89.77,109.13,2016,0
+6,who invited canada,13,Peter,The fishingtons,8,Buddy,103.18,115.63,106.42,75.2,2016,1
+7,who invited canada,13,Peter,The Scientist,9,Kyle,96.7,85.0,91.78,122.57,2016,0
+8,who invited canada,13,Peter,Thug Bungalow,10,Michael,89.89,119.63,102.71,98.1,2016,1
+9,who invited canada,13,Peter,Thunder Crotches,11,Jake,111.14,109.7,91.93,99.67,2016,1
+10,who invited canada,13,Peter,Victor Cruisin,12,unknown,94.92,115.13,90.58,100.13,2016,1
+11,who invited canada,13,Peter,We're Back,14,Nate,108.93,89.03,106.46,127.7,2016,0
+12,who invited canada,13,Peter,The Ice Cold Bruschi,1,Ricky,104.38,140.27,106.11,138.43,2016,1
+13,who invited canada,13,Peter,Immortal Duffmen,2,Pat,114.04,102.43,101.9,93.47,2016,1
+14,who invited canada,13,Peter,The Scientist,9,Kyle,103.39,104.83,109.57,123.5,2016,0
+15,who invited canada,13,Peter,The Ice Cold Bruschi,1,Ricky,107.74,102.3,109.27,88.97,2016,1
+1,We're Back,14,Nate,The fishingtons,8,Buddy,103.88,97.2,100.8,90.67,2016,1
+2,We're Back,14,Nate,Immortal Duffmen,2,Pat,102.65,119.03,106.39,126.0,2016,0
+3,We're Back,14,Nate,The Scientist,9,Kyle,90.14,124.67,90.95,81.63,2016,1
+4,We're Back,14,Nate,Jadeveon's Hit Men,3,Tim,103.13,74.3,100.15,108.2,2016,0
+5,We're Back,14,Nate,Thug Bungalow,10,Michael,96.83,97.77,103.01,92.67,2016,1
+6,We're Back,14,Nate,John Brown's Army,4,Eric,101.4,80.17,63.44,45.3,2016,1
+7,We're Back,14,Nate,Thunder Crotches,11,Jake,87.73,99.83,101.64,88.57,2016,1
+8,We're Back,14,Nate,The Twelve Apostles,5,unknown,80.05,57.47,84.46,93.9,2016,0
+9,We're Back,14,Nate,Victor Cruisin,12,unknown,91.61,63.13,93.34,99.77,2016,0
+10,We're Back,14,Nate,SuperCam That Ho,6,Lauren,88.48,95.13,87.81,88.8,2016,1
+11,We're Back,14,Nate,who invited canada,13,Peter,106.46,127.7,108.93,89.03,2016,1
+12,We're Back,14,Nate,Starr is Born,7,Nick,102.88,78.67,88.35,121.0,2016,0
+13,We're Back,14,Nate,The Ice Cold Bruschi,1,Ricky,75.03,83.07,105.42,82.97,2016,1
+14,We're Back,14,Nate,The Ice Cold Bruschi,1,Ricky,92.89,91.2,105.36,87.43,2016,1
+15,We're Back,14,Nate,The fishingtons,8,Buddy,96.63,60.5,97.0,63.4,2016,0
+16,We're Back,14,Nate,The Scientist,9,Kyle,82.74,76.4,108.52,151.93,2016,0
+1,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,111.46,82.0,108.79,80.7,2017,1
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,113.73,75.07,103.24,63.2,2017,1
+3,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,105.3,100.87,110.13,115.6,2017,0
+4,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,5,unknown,112.18,127.43,105.6,68.03,2017,1
+5,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,6,Lauren,102.88,129.53,94.07,81.37,2017,1
+6,The Ice Cold Bruschi,1,Ricky,Starr is Born,7,Nick,108.96,103.6,100.66,107.9,2017,0
+7,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,109.52,104.8,108.36,70.37,2017,1
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,109.09,116.17,84.77,78.93,2017,1
+9,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,10,Michael,98.88,114.63,110.02,84.37,2017,1
+10,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,11,Jake,111.51,124.6,104.76,93.6,2017,1
+11,The Ice Cold Bruschi,1,Ricky,Big Blue,12,Frags,112.65,134.63,91.84,100.13,2017,1
+12,The Ice Cold Bruschi,1,Ricky,who invited canada,13,Peter,125.01,113.87,88.06,82.07,2017,1
+13,The Ice Cold Bruschi,1,Ricky,We're Back,14,Nate,119.77,124.17,108.94,99.1,2017,1
+15,The Ice Cold Bruschi,1,Ricky,Starr is Born,7,Nick,123.56,101.37,102.63,120.87,2017,0
+16,The Ice Cold Bruschi,1,Ricky,We're Back,14,Nate,123.73,110.27,106.53,63.33,2017,1
+1,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,108.79,80.7,111.46,82.0,2017,0
+2,Immortal Duffmen,2,Pat,We're Back,14,Nate,107.04,88.37,113.15,96.27,2017,0
+3,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,106.45,91.13,104.76,133.53,2017,0
+4,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,113.21,95.83,107.26,78.13,2017,1
+5,Immortal Duffmen,2,Pat,The Twelve Apostles,5,unknown,102.56,85.1,84.03,59.8,2017,1
+6,Immortal Duffmen,2,Pat,SuperCam That Ho,6,Lauren,97.86,78.5,102.85,97.5,2017,0
+7,Immortal Duffmen,2,Pat,Starr is Born,7,Nick,109.86,112.43,109.54,127.17,2017,0
+8,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,100.45,89.67,95.01,87.97,2017,1
+9,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,93.85,94.87,94.74,115.2,2017,0
+10,Immortal Duffmen,2,Pat,Thug Bungalow,10,Michael,95.42,89.73,84.47,72.3,2017,1
+11,Immortal Duffmen,2,Pat,Thunder Crotches,11,Jake,106.19,92.93,106.01,108.4,2017,0
+12,Immortal Duffmen,2,Pat,Big Blue,12,Frags,111.96,129.9,102.81,83.53,2017,1
+13,Immortal Duffmen,2,Pat,who invited canada,13,Peter,103.66,90.77,98.65,60.97,2017,1
+15,Immortal Duffmen,2,Pat,who invited canada,13,Peter,88.64,84.77,100.55,79.17,2017,1
+16,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,104.6,89.87,105.38,97.2,2017,0
+1,Jadeveon's Hit Men,3,Tim,who invited canada,13,Peter,103.6,99.17,104.4,120.7,2017,0
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,103.24,63.2,113.73,75.07,2017,0
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,104.76,133.53,106.45,91.13,2017,1
+4,Jadeveon's Hit Men,3,Tim,We're Back,14,Nate,112.43,109.67,110.73,95.7,2017,1
+5,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,102.93,71.63,109.19,84.3,2017,0
+6,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,5,unknown,103.67,86.73,76.88,61.93,2017,1
+7,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,6,Lauren,94.57,86.13,90.97,65.73,2017,1
+8,Jadeveon's Hit Men,3,Tim,Starr is Born,7,Nick,86.22,102.6,111.67,135.5,2017,0
+9,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,95.87,113.5,76.82,75.83,2017,1
+10,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,104.05,108.27,95.04,70.5,2017,1
+11,Jadeveon's Hit Men,3,Tim,Thug Bungalow,10,Michael,95.42,105.43,105.56,80.07,2017,1
+12,Jadeveon's Hit Men,3,Tim,Thunder Crotches,11,Jake,105.17,114.3,114.85,99.77,2017,1
+13,Jadeveon's Hit Men,3,Tim,Big Blue,12,Frags,99.66,107.07,104.05,153.6,2017,0
+14,Jadeveon's Hit Men,3,Tim,Starr is Born,7,Nick,98.53,89.33,99.41,122.27,2017,0
+15,Jadeveon's Hit Men,3,Tim,Big Blue,12,Frags,110.29,135.17,102.24,75.67,2017,1
+1,John Brown's Army,4,Eric,Big Blue,12,Frags,100.82,67.0,100.8,82.27,2017,0
+2,John Brown's Army,4,Eric,who invited canada,13,Peter,107.23,123.9,103.33,55.53,2017,1
+3,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,110.13,115.6,105.3,100.87,2017,1
+4,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,107.26,78.13,113.21,95.83,2017,0
+5,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,109.19,84.3,102.93,71.63,2017,1
+6,John Brown's Army,4,Eric,We're Back,14,Nate,100.98,73.07,105.78,99.63,2017,0
+7,John Brown's Army,4,Eric,The Twelve Apostles,5,unknown,100.89,82.6,97.85,119.13,2017,0
+8,John Brown's Army,4,Eric,SuperCam That Ho,6,Lauren,91.58,87.2,75.2,64.07,2017,1
+9,John Brown's Army,4,Eric,Starr is Born,7,Nick,31.6,14.3,98.17,111.57,2017,0
+10,John Brown's Army,4,Eric,The fishingtons,8,Buddy,83.97,93.37,98.72,94.37,2017,0
+11,John Brown's Army,4,Eric,The Scientist,9,Kyle,87.36,134.53,97.06,110.5,2017,1
+12,John Brown's Army,4,Eric,Thug Bungalow,10,Michael,96.07,89.87,110.45,116.33,2017,0
+13,John Brown's Army,4,Eric,Thunder Crotches,11,Jake,87.48,81.6,109.98,109.5,2017,0
+14,John Brown's Army,4,Eric,who invited canada,13,Peter,85.01,103.27,92.36,120.73,2017,0
+15,John Brown's Army,4,Eric,The Scientist,9,Kyle,82.78,56.23,102.85,111.43,2017,0
+1,The Twelve Apostles,5,unknown,Thunder Crotches,11,Jake,103.76,90.17,103.79,117.33,2017,0
+2,The Twelve Apostles,5,unknown,Big Blue,12,Frags,107.48,96.0,105.54,116.4,2017,0
+3,The Twelve Apostles,5,unknown,who invited canada,13,Peter,99.43,91.13,98.7,115.3,2017,0
+4,The Twelve Apostles,5,unknown,The Ice Cold Bruschi,1,Ricky,105.6,68.03,112.18,127.43,2017,0
+5,The Twelve Apostles,5,unknown,Immortal Duffmen,2,Pat,84.03,59.8,102.56,85.1,2017,0
+6,The Twelve Apostles,5,unknown,Jadeveon's Hit Men,3,Tim,76.88,61.93,103.67,86.73,2017,0
+7,The Twelve Apostles,5,unknown,John Brown's Army,4,Eric,97.85,119.13,100.89,82.6,2017,1
+8,The Twelve Apostles,5,unknown,We're Back,14,Nate,98.73,132.37,108.89,96.97,2017,1
+9,The Twelve Apostles,5,unknown,SuperCam That Ho,6,Lauren,91.29,99.4,86.01,116.67,2017,0
+10,The Twelve Apostles,5,unknown,Starr is Born,7,Nick,88.85,100.53,94.56,91.27,2017,1
+11,The Twelve Apostles,5,unknown,The fishingtons,8,Buddy,103.01,107.4,96.02,92.2,2017,1
+12,The Twelve Apostles,5,unknown,The Scientist,9,Kyle,96.91,100.5,105.69,100.23,2017,1
+13,The Twelve Apostles,5,unknown,Thug Bungalow,10,Michael,103.98,106.67,99.24,95.03,2017,1
+15,The Twelve Apostles,5,unknown,The fishingtons,8,Buddy,95.18,58.53,103.04,135.87,2017,0
+16,The Twelve Apostles,5,unknown,who invited canada,13,Peter,83.18,83.8,92.88,113.47,2017,0
+1,SuperCam That Ho,6,Lauren,Thug Bungalow,10,Michael,112.18,59.27,103.11,113.63,2017,0
+2,SuperCam That Ho,6,Lauren,Thunder Crotches,11,Jake,103.65,73.53,99.82,120.27,2017,0
+3,SuperCam That Ho,6,Lauren,Big Blue,12,Frags,96.66,95.23,112.74,88.53,2017,1
+4,SuperCam That Ho,6,Lauren,who invited canada,13,Peter,97.85,80.07,106.93,91.87,2017,0
+5,SuperCam That Ho,6,Lauren,The Ice Cold Bruschi,1,Ricky,94.07,81.37,102.88,129.53,2017,0
+6,SuperCam That Ho,6,Lauren,Immortal Duffmen,2,Pat,102.85,97.5,97.86,78.5,2017,1
+7,SuperCam That Ho,6,Lauren,Jadeveon's Hit Men,3,Tim,90.97,65.73,94.57,86.13,2017,0
+8,SuperCam That Ho,6,Lauren,John Brown's Army,4,Eric,75.2,64.07,91.58,87.2,2017,0
+9,SuperCam That Ho,6,Lauren,The Twelve Apostles,5,unknown,86.01,116.67,91.29,99.4,2017,1
+10,SuperCam That Ho,6,Lauren,We're Back,14,Nate,92.33,107.93,104.8,106.17,2017,1
+11,SuperCam That Ho,6,Lauren,Starr is Born,7,Nick,88.28,50.0,100.8,115.47,2017,0
+12,SuperCam That Ho,6,Lauren,The fishingtons,8,Buddy,99.61,73.1,91.01,105.97,2017,0
+13,SuperCam That Ho,6,Lauren,The Scientist,9,Kyle,93.56,65.43,102.75,113.1,2017,0
+1,Starr is Born,7,Nick,The Scientist,9,Kyle,99.08,88.33,99.95,100.03,2017,0
+2,Starr is Born,7,Nick,Thug Bungalow,10,Michael,115.98,111.07,107.02,151.97,2017,0
+3,Starr is Born,7,Nick,Thunder Crotches,11,Jake,105.03,80.53,109.69,107.4,2017,0
+4,Starr is Born,7,Nick,Big Blue,12,Frags,98.44,112.87,124.65,131.2,2017,0
+5,Starr is Born,7,Nick,who invited canada,13,Peter,110.46,91.9,98.48,108.1,2017,0
+6,Starr is Born,7,Nick,The Ice Cold Bruschi,1,Ricky,100.66,107.9,108.96,103.6,2017,1
+7,Starr is Born,7,Nick,Immortal Duffmen,2,Pat,109.54,127.17,109.86,112.43,2017,1
+8,Starr is Born,7,Nick,Jadeveon's Hit Men,3,Tim,111.67,135.5,86.22,102.6,2017,1
+9,Starr is Born,7,Nick,John Brown's Army,4,Eric,98.17,111.57,31.6,14.3,2017,1
+10,Starr is Born,7,Nick,The Twelve Apostles,5,unknown,94.56,91.27,88.85,100.53,2017,0
+11,Starr is Born,7,Nick,SuperCam That Ho,6,Lauren,100.8,115.47,88.28,50.0,2017,1
+12,Starr is Born,7,Nick,We're Back,14,Nate,100.78,80.9,117.86,120.13,2017,0
+13,Starr is Born,7,Nick,The fishingtons,8,Buddy,97.17,100.57,109.4,90.57,2017,1
+14,Starr is Born,7,Nick,Jadeveon's Hit Men,3,Tim,99.41,122.27,98.53,89.33,2017,1
+15,Starr is Born,7,Nick,The Ice Cold Bruschi,1,Ricky,102.63,120.87,123.56,101.37,2017,1
+16,Starr is Born,7,Nick,Thunder Crotches,11,Jake,105.8,88.23,109.7,103.13,2017,0
+1,The fishingtons,8,Buddy,We're Back,14,Nate,106.09,87.5,111.5,107.43,2017,0
+2,The fishingtons,8,Buddy,The Scientist,9,Kyle,111.57,112.0,104.97,63.37,2017,1
+3,The fishingtons,8,Buddy,Thug Bungalow,10,Michael,110.54,96.5,113.33,74.27,2017,1
+4,The fishingtons,8,Buddy,Thunder Crotches,11,Jake,106.5,54.77,114.13,87.47,2017,0
+5,The fishingtons,8,Buddy,Big Blue,12,Frags,78.75,93.1,119.6,86.1,2017,1
+6,The fishingtons,8,Buddy,who invited canada,13,Peter,112.73,116.87,100.59,116.03,2017,1
+7,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,108.36,70.37,109.52,104.8,2017,0
+8,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,95.01,87.97,100.45,89.67,2017,0
+9,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,76.82,75.83,95.87,113.5,2017,0
+10,The fishingtons,8,Buddy,John Brown's Army,4,Eric,98.72,94.37,83.97,93.37,2017,1
+11,The fishingtons,8,Buddy,The Twelve Apostles,5,unknown,96.02,92.2,103.01,107.4,2017,0
+12,The fishingtons,8,Buddy,SuperCam That Ho,6,Lauren,91.01,105.97,99.61,73.1,2017,1
+13,The fishingtons,8,Buddy,Starr is Born,7,Nick,109.4,90.57,97.17,100.57,2017,0
+14,The fishingtons,8,Buddy,The Scientist,9,Kyle,93.39,89.77,97.7,87.3,2017,1
+15,The fishingtons,8,Buddy,The Twelve Apostles,5,unknown,103.04,135.87,95.18,58.53,2017,1
+16,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,105.38,97.2,104.6,89.87,2017,1
+1,The Scientist,9,Kyle,Starr is Born,7,Nick,99.95,100.03,99.08,88.33,2017,1
+2,The Scientist,9,Kyle,The fishingtons,8,Buddy,104.97,63.37,111.57,112.0,2017,0
+3,The Scientist,9,Kyle,We're Back,14,Nate,96.12,101.1,112.07,153.9,2017,0
+4,The Scientist,9,Kyle,Thug Bungalow,10,Michael,110.94,97.1,117.96,90.97,2017,1
+5,The Scientist,9,Kyle,Thunder Crotches,11,Jake,94.8,107.67,87.5,113.33,2017,0
+6,The Scientist,9,Kyle,Big Blue,12,Frags,97.8,68.8,114.21,107.7,2017,0
+7,The Scientist,9,Kyle,who invited canada,13,Peter,89.47,98.57,85.38,97.3,2017,1
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,84.77,78.93,109.09,116.17,2017,0
+9,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,94.74,115.2,93.85,94.87,2017,1
+10,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,95.04,70.5,104.05,108.27,2017,0
+11,The Scientist,9,Kyle,John Brown's Army,4,Eric,97.06,110.5,87.36,134.53,2017,0
+12,The Scientist,9,Kyle,The Twelve Apostles,5,unknown,105.69,100.23,96.91,100.5,2017,0
+13,The Scientist,9,Kyle,SuperCam That Ho,6,Lauren,102.75,113.1,93.56,65.43,2017,1
+14,The Scientist,9,Kyle,The fishingtons,8,Buddy,97.7,87.3,93.39,89.77,2017,0
+15,The Scientist,9,Kyle,John Brown's Army,4,Eric,102.85,111.43,82.78,56.23,2017,1
+1,Thug Bungalow,10,Michael,SuperCam That Ho,6,Lauren,103.11,113.63,112.18,59.27,2017,1
+2,Thug Bungalow,10,Michael,Starr is Born,7,Nick,107.02,151.97,115.98,111.07,2017,1
+3,Thug Bungalow,10,Michael,The fishingtons,8,Buddy,113.33,74.27,110.54,96.5,2017,0
+4,Thug Bungalow,10,Michael,The Scientist,9,Kyle,117.96,90.97,110.94,97.1,2017,0
+5,Thug Bungalow,10,Michael,We're Back,14,Nate,98.97,93.6,106.77,114.37,2017,0
+6,Thug Bungalow,10,Michael,Thunder Crotches,11,Jake,112.76,97.6,106.91,108.3,2017,0
+7,Thug Bungalow,10,Michael,Big Blue,12,Frags,106.33,99.1,101.55,87.5,2017,1
+8,Thug Bungalow,10,Michael,who invited canada,13,Peter,104.95,91.03,94.64,104.27,2017,0
+9,Thug Bungalow,10,Michael,The Ice Cold Bruschi,1,Ricky,110.02,84.37,98.88,114.63,2017,0
+10,Thug Bungalow,10,Michael,Immortal Duffmen,2,Pat,84.47,72.3,95.42,89.73,2017,0
+11,Thug Bungalow,10,Michael,Jadeveon's Hit Men,3,Tim,105.56,80.07,95.42,105.43,2017,0
+12,Thug Bungalow,10,Michael,John Brown's Army,4,Eric,110.45,116.33,96.07,89.87,2017,1
+13,Thug Bungalow,10,Michael,The Twelve Apostles,5,unknown,99.24,95.03,103.98,106.67,2017,0
+1,Thunder Crotches,11,Jake,The Twelve Apostles,5,unknown,103.79,117.33,103.76,90.17,2017,1
+2,Thunder Crotches,11,Jake,SuperCam That Ho,6,Lauren,99.82,120.27,103.65,73.53,2017,1
+3,Thunder Crotches,11,Jake,Starr is Born,7,Nick,109.69,107.4,105.03,80.53,2017,1
+4,Thunder Crotches,11,Jake,The fishingtons,8,Buddy,114.13,87.47,106.5,54.77,2017,1
+5,Thunder Crotches,11,Jake,The Scientist,9,Kyle,87.5,113.33,94.8,107.67,2017,1
+6,Thunder Crotches,11,Jake,Thug Bungalow,10,Michael,106.91,108.3,112.76,97.6,2017,1
+7,Thunder Crotches,11,Jake,We're Back,14,Nate,95.75,110.23,115.24,106.4,2017,1
+8,Thunder Crotches,11,Jake,Big Blue,12,Frags,97.91,101.43,106.65,117.4,2017,0
+9,Thunder Crotches,11,Jake,who invited canada,13,Peter,103.52,94.33,87.61,71.43,2017,1
+10,Thunder Crotches,11,Jake,The Ice Cold Bruschi,1,Ricky,104.76,93.6,111.51,124.6,2017,0
+11,Thunder Crotches,11,Jake,Immortal Duffmen,2,Pat,106.01,108.4,106.19,92.93,2017,1
+12,Thunder Crotches,11,Jake,Jadeveon's Hit Men,3,Tim,114.85,99.77,105.17,114.3,2017,0
+13,Thunder Crotches,11,Jake,John Brown's Army,4,Eric,109.98,109.5,87.48,81.6,2017,1
+15,Thunder Crotches,11,Jake,We're Back,14,Nate,103.48,136.37,111.99,84.77,2017,1
+16,Thunder Crotches,11,Jake,Starr is Born,7,Nick,109.7,103.13,105.8,88.23,2017,1
+1,Big Blue,12,Frags,John Brown's Army,4,Eric,100.8,82.27,100.82,67.0,2017,1
+2,Big Blue,12,Frags,The Twelve Apostles,5,unknown,105.54,116.4,107.48,96.0,2017,1
+3,Big Blue,12,Frags,SuperCam That Ho,6,Lauren,112.74,88.53,96.66,95.23,2017,0
+4,Big Blue,12,Frags,Starr is Born,7,Nick,124.65,131.2,98.44,112.87,2017,1
+5,Big Blue,12,Frags,The fishingtons,8,Buddy,119.6,86.1,78.75,93.1,2017,0
+6,Big Blue,12,Frags,The Scientist,9,Kyle,114.21,107.7,97.8,68.8,2017,1
+7,Big Blue,12,Frags,Thug Bungalow,10,Michael,101.55,87.5,106.33,99.1,2017,0
+8,Big Blue,12,Frags,Thunder Crotches,11,Jake,106.65,117.4,97.91,101.43,2017,1
+9,Big Blue,12,Frags,We're Back,14,Nate,92.84,57.83,89.02,89.9,2017,0
+10,Big Blue,12,Frags,who invited canada,13,Peter,88.32,64.33,91.24,103.13,2017,0
+11,Big Blue,12,Frags,The Ice Cold Bruschi,1,Ricky,91.84,100.13,112.65,134.63,2017,0
+12,Big Blue,12,Frags,Immortal Duffmen,2,Pat,102.81,83.53,111.96,129.9,2017,0
+13,Big Blue,12,Frags,Jadeveon's Hit Men,3,Tim,104.05,153.6,99.66,107.07,2017,1
+14,Big Blue,12,Frags,We're Back,14,Nate,107.94,93.3,110.99,105.77,2017,0
+15,Big Blue,12,Frags,Jadeveon's Hit Men,3,Tim,102.24,75.67,110.29,135.17,2017,0
+1,who invited canada,13,Peter,Jadeveon's Hit Men,3,Tim,104.4,120.7,103.6,99.17,2017,1
+2,who invited canada,13,Peter,John Brown's Army,4,Eric,103.33,55.53,107.23,123.9,2017,0
+3,who invited canada,13,Peter,The Twelve Apostles,5,unknown,98.7,115.3,99.43,91.13,2017,1
+4,who invited canada,13,Peter,SuperCam That Ho,6,Lauren,106.93,91.87,97.85,80.07,2017,1
+5,who invited canada,13,Peter,Starr is Born,7,Nick,98.48,108.1,110.46,91.9,2017,1
+6,who invited canada,13,Peter,The fishingtons,8,Buddy,100.59,116.03,112.73,116.87,2017,0
+7,who invited canada,13,Peter,The Scientist,9,Kyle,85.38,97.3,89.47,98.57,2017,0
+8,who invited canada,13,Peter,Thug Bungalow,10,Michael,94.64,104.27,104.95,91.03,2017,1
+9,who invited canada,13,Peter,Thunder Crotches,11,Jake,87.61,71.43,103.52,94.33,2017,0
+10,who invited canada,13,Peter,Big Blue,12,Frags,91.24,103.13,88.32,64.33,2017,1
+11,who invited canada,13,Peter,We're Back,14,Nate,94.37,80.67,106.77,110.13,2017,0
+12,who invited canada,13,Peter,The Ice Cold Bruschi,1,Ricky,88.06,82.07,125.01,113.87,2017,0
+13,who invited canada,13,Peter,Immortal Duffmen,2,Pat,98.65,60.97,103.66,90.77,2017,0
+14,who invited canada,13,Peter,John Brown's Army,4,Eric,92.36,120.73,85.01,103.27,2017,1
+15,who invited canada,13,Peter,Immortal Duffmen,2,Pat,100.55,79.17,88.64,84.77,2017,0
+16,who invited canada,13,Peter,The Twelve Apostles,5,unknown,92.88,113.47,83.18,83.8,2017,1
+1,We're Back,14,Nate,The fishingtons,8,Buddy,111.5,107.43,106.09,87.5,2017,1
+2,We're Back,14,Nate,Immortal Duffmen,2,Pat,113.15,96.27,107.04,88.37,2017,1
+3,We're Back,14,Nate,The Scientist,9,Kyle,112.07,153.9,96.12,101.1,2017,1
+4,We're Back,14,Nate,Jadeveon's Hit Men,3,Tim,110.73,95.7,112.43,109.67,2017,0
+5,We're Back,14,Nate,Thug Bungalow,10,Michael,106.77,114.37,98.97,93.6,2017,1
+6,We're Back,14,Nate,John Brown's Army,4,Eric,105.78,99.63,100.98,73.07,2017,1
+7,We're Back,14,Nate,Thunder Crotches,11,Jake,115.24,106.4,95.75,110.23,2017,0
+8,We're Back,14,Nate,The Twelve Apostles,5,unknown,108.89,96.97,98.73,132.37,2017,0
+9,We're Back,14,Nate,Big Blue,12,Frags,89.02,89.9,92.84,57.83,2017,1
+10,We're Back,14,Nate,SuperCam That Ho,6,Lauren,104.8,106.17,92.33,107.93,2017,0
+11,We're Back,14,Nate,who invited canada,13,Peter,106.77,110.13,94.37,80.67,2017,1
+12,We're Back,14,Nate,Starr is Born,7,Nick,117.86,120.13,100.78,80.9,2017,1
+13,We're Back,14,Nate,The Ice Cold Bruschi,1,Ricky,108.94,99.1,119.77,124.17,2017,0
+14,We're Back,14,Nate,Big Blue,12,Frags,110.99,105.77,107.94,93.3,2017,1
+15,We're Back,14,Nate,Thunder Crotches,11,Jake,111.99,84.77,103.48,136.37,2017,0
+16,We're Back,14,Nate,The Ice Cold Bruschi,1,Ricky,106.53,63.33,123.73,110.27,2017,0
+1,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,116.06,111.24,108.51,83.52,2018,1
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,118.05,134.78,114.76,134.5,2018,1
+3,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,111.85,111.08,121.98,103.62,2018,1
+4,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,5,unknown,113.3,104.78,126.44,110.92,2018,0
+5,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,6,Lauren,109.55,102.92,117.47,126.24,2018,0
+6,The Ice Cold Bruschi,1,Ricky,Starr is Born,7,Nick,121.33,134.0,114.81,125.18,2018,1
+7,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,111.18,78.2,112.37,83.38,2018,0
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,116.01,85.54,123.63,130.62,2018,0
+9,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,10,Michael,117.83,126.92,102.09,127.24,2018,0
+10,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,11,Jake,132.73,184.52,110.61,86.6,2018,1
+11,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,12,Frags,130.12,157.24,94.22,76.88,2018,1
+12,The Ice Cold Bruschi,1,Ricky,who invited canada,13,Peter,132.41,159.06,127.85,150.58,2018,1
+13,The Ice Cold Bruschi,1,Ricky,We're Back,14,Nate,99.56,90.46,116.01,105.66,2018,0
+14,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,10,Michael,133.07,115.1,125.41,133.3,2018,0
+15,The Ice Cold Bruschi,1,Ricky,We're Back,14,Nate,119.36,91.22,116.92,82.84,2018,1
+1,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,108.51,83.52,116.06,111.24,2018,0
+2,Immortal Duffmen,2,Pat,We're Back,14,Nate,110.52,129.04,112.65,90.4,2018,1
+3,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,108.34,80.58,129.82,125.1,2018,0
+4,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,102.45,126.38,118.08,117.56,2018,1
+5,Immortal Duffmen,2,Pat,The Twelve Apostles,5,unknown,107.12,103.2,114.05,92.08,2018,1
+6,Immortal Duffmen,2,Pat,SuperCam That Ho,6,Lauren,108.55,87.08,118.62,107.32,2018,0
+7,Immortal Duffmen,2,Pat,Starr is Born,7,Nick,103.92,82.76,109.84,138.44,2018,0
+8,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,104.06,132.72,105.83,96.9,2018,1
+9,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,97.83,99.3,119.35,124.4,2018,0
+10,Immortal Duffmen,2,Pat,Thug Bungalow,10,Michael,98.67,106.04,118.99,129.72,2018,0
+11,Immortal Duffmen,2,Pat,Thunder Crotches,11,Jake,115.26,133.2,104.26,51.74,2018,1
+12,Immortal Duffmen,2,Pat,Saquon These Nuts,12,Frags,109.72,103.28,112.12,102.14,2018,1
+13,Immortal Duffmen,2,Pat,who invited canada,13,Peter,118.39,152.34,133.36,124.34,2018,1
+15,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,109.23,106.38,89.48,91.36,2018,1
+16,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,116.43,85.34,118.05,114.44,2018,0
+1,Jadeveon's Hit Men,3,Tim,who invited canada,13,Peter,117.21,113.94,128.18,124.9,2018,0
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,114.76,134.5,118.05,134.78,2018,0
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,129.82,125.1,108.34,80.58,2018,1
+4,Jadeveon's Hit Men,3,Tim,We're Back,14,Nate,113.52,120.3,104.62,121.96,2018,0
+5,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,114.75,142.5,117.91,164.64,2018,0
+6,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,5,unknown,131.59,140.38,110.51,104.0,2018,1
+7,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,6,Lauren,128.37,132.16,124.33,128.8,2018,1
+8,Jadeveon's Hit Men,3,Tim,Starr is Born,7,Nick,131.68,164.26,117.39,79.76,2018,1
+9,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,129.78,98.22,103.73,119.54,2018,0
+10,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,110.98,96.42,127.68,138.76,2018,0
+11,Jadeveon's Hit Men,3,Tim,Thug Bungalow,10,Michael,124.51,89.02,115.42,151.02,2018,0
+12,Jadeveon's Hit Men,3,Tim,Thunder Crotches,11,Jake,104.24,144.2,110.23,72.58,2018,1
+13,Jadeveon's Hit Men,3,Tim,Saquon These Nuts,12,Frags,132.97,112.76,121.41,84.6,2018,1
+14,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,117.94,90.68,98.12,94.32,2018,0
+15,Jadeveon's Hit Men,3,Tim,Thunder Crotches,11,Jake,122.85,119.06,92.98,105.94,2018,1
+1,John Brown's Army,4,Eric,Saquon These Nuts,12,Frags,125.81,125.58,121.53,111.44,2018,1
+2,John Brown's Army,4,Eric,who invited canada,13,Peter,110.33,117.66,123.04,145.28,2018,0
+3,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,121.98,103.62,111.85,111.08,2018,0
+4,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,118.08,117.56,102.45,126.38,2018,0
+5,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,117.91,164.64,114.75,142.5,2018,1
+6,John Brown's Army,4,Eric,We're Back,14,Nate,129.83,121.2,100.29,133.84,2018,0
+7,John Brown's Army,4,Eric,The Twelve Apostles,5,unknown,113.16,105.18,95.26,108.36,2018,0
+8,John Brown's Army,4,Eric,SuperCam That Ho,6,Lauren,118.12,130.66,119.63,110.94,2018,1
+9,John Brown's Army,4,Eric,Starr is Born,7,Nick,109.67,117.34,106.29,133.52,2018,0
+10,John Brown's Army,4,Eric,The fishingtons,8,Buddy,110.62,120.2,114.25,137.7,2018,0
+11,John Brown's Army,4,Eric,The Scientist,9,Kyle,106.56,98.6,118.08,154.72,2018,0
+12,John Brown's Army,4,Eric,Thug Bungalow,10,Michael,100.18,105.32,116.76,118.9,2018,0
+13,John Brown's Army,4,Eric,Thunder Crotches,11,Jake,100.76,102.04,93.97,65.8,2018,1
+14,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,98.12,94.32,117.94,90.68,2018,1
+15,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,89.48,91.36,109.23,106.38,2018,0
+16,John Brown's Army,4,Eric,SuperCam That Ho,6,Lauren,85.49,77.14,108.75,85.44,2018,0
+1,The Twelve Apostles,5,unknown,Thunder Crotches,11,Jake,126.9,133.24,119.73,87.44,2018,1
+2,The Twelve Apostles,5,unknown,Saquon These Nuts,12,Frags,121.21,80.24,116.82,131.0,2018,0
+3,The Twelve Apostles,5,unknown,who invited canada,13,Peter,127.57,119.5,119.59,106.92,2018,1
+4,The Twelve Apostles,5,unknown,The Ice Cold Bruschi,1,Ricky,126.44,110.92,113.3,104.78,2018,1
+5,The Twelve Apostles,5,unknown,Immortal Duffmen,2,Pat,114.05,92.08,107.12,103.2,2018,0
+6,The Twelve Apostles,5,unknown,Jadeveon's Hit Men,3,Tim,110.51,104.0,131.59,140.38,2018,0
+7,The Twelve Apostles,5,unknown,John Brown's Army,4,Eric,95.26,108.36,113.16,105.18,2018,1
+8,The Twelve Apostles,5,unknown,We're Back,14,Nate,120.03,130.24,109.25,100.5,2018,1
+9,The Twelve Apostles,5,unknown,SuperCam That Ho,6,Lauren,108.27,119.26,96.92,112.34,2018,1
+10,The Twelve Apostles,5,unknown,Starr is Born,7,Nick,103.5,91.36,112.78,77.64,2018,1
+11,The Twelve Apostles,5,unknown,The fishingtons,8,Buddy,102.73,113.98,121.76,114.82,2018,0
+12,The Twelve Apostles,5,unknown,The Scientist,9,Kyle,116.52,82.62,108.39,108.08,2018,0
+13,The Twelve Apostles,5,unknown,Thug Bungalow,10,Michael,117.42,110.92,126.38,87.78,2018,1
+14,The Twelve Apostles,5,unknown,We're Back,14,Nate,106.04,97.34,113.47,82.3,2018,1
+15,The Twelve Apostles,5,unknown,The Scientist,9,Kyle,115.11,77.76,115.16,119.12,2018,0
+16,The Twelve Apostles,5,unknown,Thug Bungalow,10,Michael,113.86,145.08,121.04,115.94,2018,1
+1,SuperCam That Ho,6,Lauren,Thug Bungalow,10,Michael,123.9,130.36,113.53,137.64,2018,0
+2,SuperCam That Ho,6,Lauren,Thunder Crotches,11,Jake,113.87,107.88,113.39,118.28,2018,0
+3,SuperCam That Ho,6,Lauren,Saquon These Nuts,12,Frags,115.59,111.0,112.97,147.2,2018,0
+4,SuperCam That Ho,6,Lauren,who invited canada,13,Peter,113.43,164.92,119.39,96.46,2018,1
+5,SuperCam That Ho,6,Lauren,The Ice Cold Bruschi,1,Ricky,117.47,126.24,109.55,102.92,2018,1
+6,SuperCam That Ho,6,Lauren,Immortal Duffmen,2,Pat,118.62,107.32,108.55,87.08,2018,1
+7,SuperCam That Ho,6,Lauren,Jadeveon's Hit Men,3,Tim,124.33,128.8,128.37,132.16,2018,0
+8,SuperCam That Ho,6,Lauren,John Brown's Army,4,Eric,119.63,110.94,118.12,130.66,2018,0
+9,SuperCam That Ho,6,Lauren,The Twelve Apostles,5,unknown,96.92,112.34,108.27,119.26,2018,0
+10,SuperCam That Ho,6,Lauren,We're Back,14,Nate,119.48,109.2,113.04,164.7,2018,0
+11,SuperCam That Ho,6,Lauren,Starr is Born,7,Nick,106.38,102.94,108.0,94.18,2018,1
+12,SuperCam That Ho,6,Lauren,The fishingtons,8,Buddy,115.57,139.94,126.07,103.04,2018,1
+13,SuperCam That Ho,6,Lauren,The Scientist,9,Kyle,122.09,104.44,120.12,120.4,2018,0
+14,SuperCam That Ho,6,Lauren,Thunder Crotches,11,Jake,113.29,171.42,100.62,86.58,2018,1
+15,SuperCam That Ho,6,Lauren,The fishingtons,8,Buddy,108.99,58.12,104.88,114.02,2018,0
+16,SuperCam That Ho,6,Lauren,John Brown's Army,4,Eric,108.75,85.44,85.49,77.14,2018,1
+1,Starr is Born,7,Nick,The Scientist,9,Kyle,113.7,97.36,119.61,137.96,2018,0
+2,Starr is Born,7,Nick,Thug Bungalow,10,Michael,111.39,100.84,118.8,112.74,2018,0
+3,Starr is Born,7,Nick,Thunder Crotches,11,Jake,116.34,90.76,115.16,108.76,2018,0
+4,Starr is Born,7,Nick,Saquon These Nuts,12,Frags,108.6,117.9,113.4,124.58,2018,0
+5,Starr is Born,7,Nick,who invited canada,13,Peter,111.91,109.96,127.72,141.6,2018,0
+6,Starr is Born,7,Nick,The Ice Cold Bruschi,1,Ricky,114.81,125.18,121.33,134.0,2018,0
+7,Starr is Born,7,Nick,Immortal Duffmen,2,Pat,109.84,138.44,103.92,82.76,2018,1
+8,Starr is Born,7,Nick,Jadeveon's Hit Men,3,Tim,117.39,79.76,131.68,164.26,2018,0
+9,Starr is Born,7,Nick,John Brown's Army,4,Eric,106.29,133.52,109.67,117.34,2018,1
+10,Starr is Born,7,Nick,The Twelve Apostles,5,unknown,112.78,77.64,103.5,91.36,2018,0
+11,Starr is Born,7,Nick,SuperCam That Ho,6,Lauren,108.0,94.18,106.38,102.94,2018,0
+12,Starr is Born,7,Nick,We're Back,14,Nate,98.67,110.72,119.32,123.06,2018,0
+13,Starr is Born,7,Nick,The fishingtons,8,Buddy,102.62,85.92,112.91,103.08,2018,0
+1,The fishingtons,8,Buddy,We're Back,14,Nate,117.29,96.86,122.06,117.8,2018,0
+2,The fishingtons,8,Buddy,The Scientist,9,Kyle,108.96,86.32,120.52,141.3,2018,0
+3,The fishingtons,8,Buddy,Thug Bungalow,10,Michael,108.82,115.44,109.39,97.74,2018,1
+4,The fishingtons,8,Buddy,Thunder Crotches,11,Jake,123.17,112.78,118.81,114.06,2018,0
+5,The fishingtons,8,Buddy,Saquon These Nuts,12,Frags,110.66,122.22,117.14,110.78,2018,1
+6,The fishingtons,8,Buddy,who invited canada,13,Peter,107.07,111.54,119.2,147.56,2018,0
+7,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,112.37,83.38,111.18,78.2,2018,1
+8,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,105.83,96.9,104.06,132.72,2018,0
+9,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,103.73,119.54,129.78,98.22,2018,1
+10,The fishingtons,8,Buddy,John Brown's Army,4,Eric,114.25,137.7,110.62,120.2,2018,1
+11,The fishingtons,8,Buddy,The Twelve Apostles,5,unknown,121.76,114.82,102.73,113.98,2018,1
+12,The fishingtons,8,Buddy,SuperCam That Ho,6,Lauren,126.07,103.04,115.57,139.94,2018,0
+13,The fishingtons,8,Buddy,Starr is Born,7,Nick,112.91,103.08,102.62,85.92,2018,1
+15,The fishingtons,8,Buddy,SuperCam That Ho,6,Lauren,104.88,114.02,108.99,58.12,2018,1
+16,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,118.05,114.44,116.43,85.34,2018,1
+1,The Scientist,9,Kyle,Starr is Born,7,Nick,119.61,137.96,113.7,97.36,2018,1
+2,The Scientist,9,Kyle,The fishingtons,8,Buddy,120.52,141.3,108.96,86.32,2018,1
+3,The Scientist,9,Kyle,We're Back,14,Nate,115.25,136.74,111.08,70.4,2018,1
+4,The Scientist,9,Kyle,Thug Bungalow,10,Michael,118.0,122.16,107.13,126.94,2018,0
+5,The Scientist,9,Kyle,Thunder Crotches,11,Jake,114.32,91.04,100.69,89.08,2018,1
+6,The Scientist,9,Kyle,Saquon These Nuts,12,Frags,113.53,132.32,102.17,98.4,2018,1
+7,The Scientist,9,Kyle,who invited canada,13,Peter,115.22,138.42,112.86,107.32,2018,1
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,123.63,130.62,116.01,85.54,2018,1
+9,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,119.35,124.4,97.83,99.3,2018,1
+10,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,127.68,138.76,110.98,96.42,2018,1
+11,The Scientist,9,Kyle,John Brown's Army,4,Eric,118.08,154.72,106.56,98.6,2018,1
+12,The Scientist,9,Kyle,The Twelve Apostles,5,unknown,108.39,108.08,116.52,82.62,2018,1
+13,The Scientist,9,Kyle,SuperCam That Ho,6,Lauren,120.12,120.4,122.09,104.44,2018,1
+15,The Scientist,9,Kyle,The Twelve Apostles,5,unknown,115.16,119.12,115.11,77.76,2018,1
+16,The Scientist,9,Kyle,who invited canada,13,Peter,111.65,128.82,123.0,157.8,2018,0
+1,Thug Bungalow,10,Michael,SuperCam That Ho,6,Lauren,113.53,137.64,123.9,130.36,2018,1
+2,Thug Bungalow,10,Michael,Starr is Born,7,Nick,118.8,112.74,111.39,100.84,2018,1
+3,Thug Bungalow,10,Michael,The fishingtons,8,Buddy,109.39,97.74,108.82,115.44,2018,0
+4,Thug Bungalow,10,Michael,The Scientist,9,Kyle,107.13,126.94,118.0,122.16,2018,1
+5,Thug Bungalow,10,Michael,We're Back,14,Nate,111.11,69.74,102.48,91.32,2018,0
+6,Thug Bungalow,10,Michael,Thunder Crotches,11,Jake,112.56,83.44,112.82,90.3,2018,0
+7,Thug Bungalow,10,Michael,Saquon These Nuts,12,Frags,115.71,139.18,109.08,121.26,2018,1
+8,Thug Bungalow,10,Michael,who invited canada,13,Peter,108.26,100.1,131.09,166.78,2018,0
+9,Thug Bungalow,10,Michael,The Ice Cold Bruschi,1,Ricky,102.09,127.24,117.83,126.92,2018,1
+10,Thug Bungalow,10,Michael,Immortal Duffmen,2,Pat,118.99,129.72,98.67,106.04,2018,1
+11,Thug Bungalow,10,Michael,Jadeveon's Hit Men,3,Tim,115.42,151.02,124.51,89.02,2018,1
+12,Thug Bungalow,10,Michael,John Brown's Army,4,Eric,116.76,118.9,100.18,105.32,2018,1
+13,Thug Bungalow,10,Michael,The Twelve Apostles,5,unknown,126.38,87.78,117.42,110.92,2018,0
+14,Thug Bungalow,10,Michael,The Ice Cold Bruschi,1,Ricky,125.41,133.3,133.07,115.1,2018,1
+15,Thug Bungalow,10,Michael,who invited canada,13,Peter,125.42,71.06,128.36,117.5,2018,0
+16,Thug Bungalow,10,Michael,The Twelve Apostles,5,unknown,121.04,115.94,113.86,145.08,2018,0
+1,Thunder Crotches,11,Jake,The Twelve Apostles,5,unknown,119.73,87.44,126.9,133.24,2018,0
+2,Thunder Crotches,11,Jake,SuperCam That Ho,6,Lauren,113.39,118.28,113.87,107.88,2018,1
+3,Thunder Crotches,11,Jake,Starr is Born,7,Nick,115.16,108.76,116.34,90.76,2018,1
+4,Thunder Crotches,11,Jake,The fishingtons,8,Buddy,118.81,114.06,123.17,112.78,2018,1
+5,Thunder Crotches,11,Jake,The Scientist,9,Kyle,100.69,89.08,114.32,91.04,2018,0
+6,Thunder Crotches,11,Jake,Thug Bungalow,10,Michael,112.82,90.3,112.56,83.44,2018,1
+7,Thunder Crotches,11,Jake,We're Back,14,Nate,105.34,100.36,91.67,142.82,2018,0
+8,Thunder Crotches,11,Jake,Saquon These Nuts,12,Frags,97.74,114.1,109.01,100.56,2018,1
+9,Thunder Crotches,11,Jake,who invited canada,13,Peter,99.14,97.5,122.73,149.4,2018,0
+10,Thunder Crotches,11,Jake,The Ice Cold Bruschi,1,Ricky,110.61,86.6,132.73,184.52,2018,0
+11,Thunder Crotches,11,Jake,Immortal Duffmen,2,Pat,104.26,51.74,115.26,133.2,2018,0
+12,Thunder Crotches,11,Jake,Jadeveon's Hit Men,3,Tim,110.23,72.58,104.24,144.2,2018,0
+13,Thunder Crotches,11,Jake,John Brown's Army,4,Eric,93.97,65.8,100.76,102.04,2018,0
+14,Thunder Crotches,11,Jake,SuperCam That Ho,6,Lauren,100.62,86.58,113.29,171.42,2018,0
+15,Thunder Crotches,11,Jake,Jadeveon's Hit Men,3,Tim,92.98,105.94,122.85,119.06,2018,0
+1,Saquon These Nuts,12,Frags,John Brown's Army,4,Eric,121.53,111.44,125.81,125.58,2018,0
+2,Saquon These Nuts,12,Frags,The Twelve Apostles,5,unknown,116.82,131.0,121.21,80.24,2018,1
+3,Saquon These Nuts,12,Frags,SuperCam That Ho,6,Lauren,112.97,147.2,115.59,111.0,2018,1
+4,Saquon These Nuts,12,Frags,Starr is Born,7,Nick,113.4,124.58,108.6,117.9,2018,1
+5,Saquon These Nuts,12,Frags,The fishingtons,8,Buddy,117.14,110.78,110.66,122.22,2018,0
+6,Saquon These Nuts,12,Frags,The Scientist,9,Kyle,102.17,98.4,113.53,132.32,2018,0
+7,Saquon These Nuts,12,Frags,Thug Bungalow,10,Michael,109.08,121.26,115.71,139.18,2018,0
+8,Saquon These Nuts,12,Frags,Thunder Crotches,11,Jake,109.01,100.56,97.74,114.1,2018,0
+9,Saquon These Nuts,12,Frags,We're Back,14,Nate,105.23,110.68,109.2,77.4,2018,1
+10,Saquon These Nuts,12,Frags,who invited canada,13,Peter,99.81,98.52,136.39,127.12,2018,0
+11,Saquon These Nuts,12,Frags,The Ice Cold Bruschi,1,Ricky,94.22,76.88,130.12,157.24,2018,0
+12,Saquon These Nuts,12,Frags,Immortal Duffmen,2,Pat,112.12,102.14,109.72,103.28,2018,0
+13,Saquon These Nuts,12,Frags,Jadeveon's Hit Men,3,Tim,121.41,84.6,132.97,112.76,2018,0
+1,who invited canada,13,Peter,Jadeveon's Hit Men,3,Tim,128.18,124.9,117.21,113.94,2018,1
+2,who invited canada,13,Peter,John Brown's Army,4,Eric,123.04,145.28,110.33,117.66,2018,1
+3,who invited canada,13,Peter,The Twelve Apostles,5,unknown,119.59,106.92,127.57,119.5,2018,0
+4,who invited canada,13,Peter,SuperCam That Ho,6,Lauren,119.39,96.46,113.43,164.92,2018,0
+5,who invited canada,13,Peter,Starr is Born,7,Nick,127.72,141.6,111.91,109.96,2018,1
+6,who invited canada,13,Peter,The fishingtons,8,Buddy,119.2,147.56,107.07,111.54,2018,1
+7,who invited canada,13,Peter,The Scientist,9,Kyle,112.86,107.32,115.22,138.42,2018,0
+8,who invited canada,13,Peter,Thug Bungalow,10,Michael,131.09,166.78,108.26,100.1,2018,1
+9,who invited canada,13,Peter,Thunder Crotches,11,Jake,122.73,149.4,99.14,97.5,2018,1
+10,who invited canada,13,Peter,Saquon These Nuts,12,Frags,136.39,127.12,99.81,98.52,2018,1
+11,who invited canada,13,Peter,We're Back,14,Nate,130.62,110.86,116.03,96.7,2018,1
+12,who invited canada,13,Peter,The Ice Cold Bruschi,1,Ricky,127.85,150.58,132.41,159.06,2018,0
+13,who invited canada,13,Peter,Immortal Duffmen,2,Pat,133.36,124.34,118.39,152.34,2018,0
+15,who invited canada,13,Peter,Thug Bungalow,10,Michael,128.36,117.5,125.42,71.06,2018,1
+16,who invited canada,13,Peter,The Scientist,9,Kyle,123.0,157.8,111.65,128.82,2018,1
+1,We're Back,14,Nate,The fishingtons,8,Buddy,122.06,117.8,117.29,96.86,2018,1
+2,We're Back,14,Nate,Immortal Duffmen,2,Pat,112.65,90.4,110.52,129.04,2018,0
+3,We're Back,14,Nate,The Scientist,9,Kyle,111.08,70.4,115.25,136.74,2018,0
+4,We're Back,14,Nate,Jadeveon's Hit Men,3,Tim,104.62,121.96,113.52,120.3,2018,1
+5,We're Back,14,Nate,Thug Bungalow,10,Michael,102.48,91.32,111.11,69.74,2018,1
+6,We're Back,14,Nate,John Brown's Army,4,Eric,100.29,133.84,129.83,121.2,2018,1
+7,We're Back,14,Nate,Thunder Crotches,11,Jake,91.67,142.82,105.34,100.36,2018,1
+8,We're Back,14,Nate,The Twelve Apostles,5,unknown,109.25,100.5,120.03,130.24,2018,0
+9,We're Back,14,Nate,Saquon These Nuts,12,Frags,109.2,77.4,105.23,110.68,2018,0
+10,We're Back,14,Nate,SuperCam That Ho,6,Lauren,113.04,164.7,119.48,109.2,2018,1
+11,We're Back,14,Nate,who invited canada,13,Peter,116.03,96.7,130.62,110.86,2018,0
+12,We're Back,14,Nate,Starr is Born,7,Nick,119.32,123.06,98.67,110.72,2018,1
+13,We're Back,14,Nate,The Ice Cold Bruschi,1,Ricky,116.01,105.66,99.56,90.46,2018,1
+14,We're Back,14,Nate,The Twelve Apostles,5,unknown,113.47,82.3,106.04,97.34,2018,0
+15,We're Back,14,Nate,The Ice Cold Bruschi,1,Ricky,116.92,82.84,119.36,91.22,2018,0
+1,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,151.28,144.06,134.26,105.66,2019,1
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,145.56,145.58,133.23,145.76,2019,0
+3,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,173.17,158.68,143.04,159.66,2019,0
+4,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,146.0,150.98,122.85,154.9,2019,0
+5,The Ice Cold Bruschi,1,Ricky,Starr is Born,6,Nick,145.99,120.64,127.76,150.66,2019,0
+6,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,7,Lauren,136.33,135.24,120.78,123.22,2019,1
+7,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,139.01,102.52,124.44,135.26,2019,0
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,139.06,165.66,124.65,164.82,2019,1
+9,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,10,unknown,148.8,121.0,119.33,158.12,2019,0
+10,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,142.54,109.42,135.29,168.12,2019,0
+11,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,12,Jake,142.64,129.08,113.29,125.56,2019,1
+12,The Ice Cold Bruschi,1,Ricky,We're Back,13,Nate,148.38,177.96,123.12,126.58,2019,1
+13,The Ice Cold Bruschi,1,Ricky,who invited canada,14,Peter,148.33,149.3,117.43,123.52,2019,1
+15,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,150.18,168.98,141.77,106.74,2019,1
+16,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,157.95,179.92,123.52,132.46,2019,1
+1,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,134.26,105.66,151.28,144.06,2019,0
+2,Immortal Duffmen,2,Pat,who invited canada,14,Peter,141.39,165.8,132.85,114.26,2019,1
+3,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,141.26,107.66,146.59,141.34,2019,0
+4,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,119.62,109.08,141.18,140.7,2019,0
+5,Immortal Duffmen,2,Pat,Saquon These Nuts,5,Frags,133.39,102.5,139.24,185.92,2019,0
+6,Immortal Duffmen,2,Pat,Starr is Born,6,Nick,130.96,188.74,112.36,113.3,2019,1
+7,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,131.32,102.96,102.19,81.14,2019,1
+8,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,121.5,144.54,121.71,122.9,2019,1
+9,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,122.47,90.36,125.91,134.12,2019,0
+10,Immortal Duffmen,2,Pat,The Twelve Apostles,10,unknown,119.13,91.78,137.41,152.48,2019,0
+11,Immortal Duffmen,2,Pat,Thug Bungalow,11,Michael,131.66,126.74,131.38,118.96,2019,1
+12,Immortal Duffmen,2,Pat,Thunder Crotches,12,Jake,124.93,94.84,106.2,86.18,2019,1
+13,Immortal Duffmen,2,Pat,We're Back,13,Nate,108.62,121.68,154.9,124.54,2019,0
+14,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,130.79,118.22,116.85,107.16,2019,1
+15,Immortal Duffmen,2,Pat,Saquon These Nuts,5,Frags,122.54,129.8,102.29,106.72,2019,1
+16,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,123.52,132.46,157.95,179.92,2019,0
+1,Jadeveon's Hit Men,3,Tim,We're Back,13,Nate,136.83,142.7,143.49,144.54,2019,0
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,133.23,145.76,145.56,145.58,2019,1
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,146.59,141.34,141.26,107.66,2019,1
+4,Jadeveon's Hit Men,3,Tim,who invited canada,14,Peter,133.16,125.2,124.52,143.3,2019,0
+5,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,142.1,142.34,142.53,140.1,2019,1
+6,Jadeveon's Hit Men,3,Tim,Saquon These Nuts,5,Frags,137.81,165.6,126.54,140.96,2019,1
+7,Jadeveon's Hit Men,3,Tim,Starr is Born,6,Nick,127.04,125.12,126.92,152.96,2019,0
+8,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,7,Lauren,134.48,157.56,135.91,116.9,2019,1
+9,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,129.35,135.74,127.09,118.54,2019,1
+10,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,124.37,136.52,129.0,127.18,2019,1
+11,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,135.75,91.36,95.7,112.62,2019,0
+12,Jadeveon's Hit Men,3,Tim,Thug Bungalow,11,Michael,136.0,141.02,133.02,120.44,2019,1
+13,Jadeveon's Hit Men,3,Tim,Thunder Crotches,12,Jake,133.25,107.22,112.68,105.4,2019,1
+15,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,146.36,126.62,132.93,130.02,2019,0
+16,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,139.2,113.96,135.9,157.96,2019,0
+1,John Brown's Army,4,Eric,Thunder Crotches,12,Jake,134.37,174.72,139.15,140.8,2019,1
+2,John Brown's Army,4,Eric,We're Back,13,Nate,141.51,173.62,144.74,103.52,2019,1
+3,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,143.04,159.66,173.17,158.68,2019,1
+4,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,141.18,140.7,119.62,109.08,2019,1
+5,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,142.53,140.1,142.1,142.34,2019,0
+6,John Brown's Army,4,Eric,who invited canada,14,Peter,148.44,165.52,136.9,144.0,2019,1
+7,John Brown's Army,4,Eric,Saquon These Nuts,5,Frags,152.45,124.14,135.5,93.36,2019,1
+8,John Brown's Army,4,Eric,Starr is Born,6,Nick,139.05,192.26,135.01,108.58,2019,1
+9,John Brown's Army,4,Eric,SuperCam That Ho,7,Lauren,129.69,95.56,109.68,141.28,2019,0
+10,John Brown's Army,4,Eric,The fishingtons,8,Buddy,149.37,136.84,110.88,110.22,2019,1
+11,John Brown's Army,4,Eric,The Scientist,9,Kyle,146.26,130.78,118.18,143.82,2019,0
+12,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,129.02,101.5,142.86,103.5,2019,0
+13,John Brown's Army,4,Eric,Thug Bungalow,11,Michael,145.52,131.1,140.58,155.9,2019,0
+14,John Brown's Army,4,Eric,Starr is Born,6,Nick,132.7,110.62,133.6,123.24,2019,0
+15,John Brown's Army,4,Eric,We're Back,13,Nate,111.89,110.1,142.3,131.08,2019,0
+1,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,137.37,161.64,141.33,146.92,2019,1
+2,Saquon These Nuts,5,Frags,Thunder Crotches,12,Jake,142.69,146.76,138.28,70.82,2019,1
+3,Saquon These Nuts,5,Frags,We're Back,13,Nate,143.81,136.04,128.46,150.42,2019,0
+4,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,122.85,154.9,146.0,150.98,2019,1
+5,Saquon These Nuts,5,Frags,Immortal Duffmen,2,Pat,139.24,185.92,133.39,102.5,2019,1
+6,Saquon These Nuts,5,Frags,Jadeveon's Hit Men,3,Tim,126.54,140.96,137.81,165.6,2019,0
+7,Saquon These Nuts,5,Frags,John Brown's Army,4,Eric,135.5,93.36,152.45,124.14,2019,0
+8,Saquon These Nuts,5,Frags,who invited canada,14,Peter,145.13,121.96,121.59,73.8,2019,1
+9,Saquon These Nuts,5,Frags,Starr is Born,6,Nick,127.77,107.4,116.09,141.44,2019,0
+10,Saquon These Nuts,5,Frags,SuperCam That Ho,7,Lauren,98.48,87.38,116.72,144.72,2019,0
+11,Saquon These Nuts,5,Frags,The fishingtons,8,Buddy,122.02,83.94,120.5,172.54,2019,0
+12,Saquon These Nuts,5,Frags,The Scientist,9,Kyle,117.68,107.5,125.97,86.84,2019,1
+13,Saquon These Nuts,5,Frags,The Twelve Apostles,10,unknown,127.92,93.54,138.42,116.3,2019,0
+15,Saquon These Nuts,5,Frags,Immortal Duffmen,2,Pat,102.29,106.72,122.54,129.8,2019,0
+16,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,85.82,74.94,135.42,132.06,2019,0
+1,Starr is Born,6,Nick,The Twelve Apostles,10,unknown,132.57,164.24,138.04,141.9,2019,1
+2,Starr is Born,6,Nick,Thug Bungalow,11,Michael,132.81,97.0,143.26,137.94,2019,0
+3,Starr is Born,6,Nick,Thunder Crotches,12,Jake,136.97,136.84,135.24,159.04,2019,0
+4,Starr is Born,6,Nick,We're Back,13,Nate,132.51,132.44,133.64,133.98,2019,0
+5,Starr is Born,6,Nick,The Ice Cold Bruschi,1,Ricky,127.76,150.66,145.99,120.64,2019,1
+6,Starr is Born,6,Nick,Immortal Duffmen,2,Pat,112.36,113.3,130.96,188.74,2019,0
+7,Starr is Born,6,Nick,Jadeveon's Hit Men,3,Tim,126.92,152.96,127.04,125.12,2019,1
+8,Starr is Born,6,Nick,John Brown's Army,4,Eric,135.01,108.58,139.05,192.26,2019,0
+9,Starr is Born,6,Nick,Saquon These Nuts,5,Frags,116.09,141.44,127.77,107.4,2019,1
+10,Starr is Born,6,Nick,who invited canada,14,Peter,119.76,107.14,113.7,90.86,2019,1
+11,Starr is Born,6,Nick,SuperCam That Ho,7,Lauren,129.47,124.84,131.56,88.86,2019,1
+12,Starr is Born,6,Nick,The fishingtons,8,Buddy,123.28,148.16,131.13,161.86,2019,0
+13,Starr is Born,6,Nick,The Scientist,9,Kyle,135.85,114.26,136.6,102.06,2019,1
+14,Starr is Born,6,Nick,John Brown's Army,4,Eric,133.6,123.24,132.7,110.62,2019,1
+15,Starr is Born,6,Nick,The Twelve Apostles,10,unknown,134.22,136.86,141.44,129.54,2019,1
+16,Starr is Born,6,Nick,The fishingtons,8,Buddy,143.93,140.78,135.99,123.14,2019,1
+1,SuperCam That Ho,7,Lauren,The Scientist,9,Kyle,134.61,93.86,126.25,64.7,2019,1
+2,SuperCam That Ho,7,Lauren,The Twelve Apostles,10,unknown,119.94,87.82,140.06,143.5,2019,0
+3,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,121.02,115.78,134.15,143.46,2019,0
+4,SuperCam That Ho,7,Lauren,Thunder Crotches,12,Jake,119.63,102.84,133.07,81.32,2019,1
+5,SuperCam That Ho,7,Lauren,We're Back,13,Nate,119.27,135.64,131.16,150.2,2019,0
+6,SuperCam That Ho,7,Lauren,The Ice Cold Bruschi,1,Ricky,120.78,123.22,136.33,135.24,2019,0
+7,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,102.19,81.14,131.32,102.96,2019,0
+8,SuperCam That Ho,7,Lauren,Jadeveon's Hit Men,3,Tim,135.91,116.9,134.48,157.56,2019,0
+9,SuperCam That Ho,7,Lauren,John Brown's Army,4,Eric,109.68,141.28,129.69,95.56,2019,1
+10,SuperCam That Ho,7,Lauren,Saquon These Nuts,5,Frags,116.72,144.72,98.48,87.38,2019,1
+11,SuperCam That Ho,7,Lauren,Starr is Born,6,Nick,131.56,88.86,129.47,124.84,2019,0
+12,SuperCam That Ho,7,Lauren,who invited canada,14,Peter,104.06,102.52,114.76,81.78,2019,1
+13,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,109.43,115.1,124.04,145.08,2019,0
+14,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,116.85,107.16,130.79,118.22,2019,0
+15,SuperCam That Ho,7,Lauren,The Scientist,9,Kyle,120.6,124.2,106.16,114.48,2019,1
+1,The fishingtons,8,Buddy,who invited canada,14,Peter,139.82,147.92,125.45,103.32,2019,1
+2,The fishingtons,8,Buddy,The Scientist,9,Kyle,138.73,120.26,135.6,133.5,2019,0
+3,The fishingtons,8,Buddy,The Twelve Apostles,10,unknown,134.63,129.8,134.98,133.14,2019,0
+4,The fishingtons,8,Buddy,Thug Bungalow,11,Michael,137.09,105.68,141.95,94.6,2019,1
+5,The fishingtons,8,Buddy,Thunder Crotches,12,Jake,129.51,151.02,123.14,130.32,2019,1
+6,The fishingtons,8,Buddy,We're Back,13,Nate,131.25,125.82,146.27,119.92,2019,1
+7,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,124.44,135.26,139.01,102.52,2019,1
+8,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,121.71,122.9,121.5,144.54,2019,0
+9,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,127.09,118.54,129.35,135.74,2019,0
+10,The fishingtons,8,Buddy,John Brown's Army,4,Eric,110.88,110.22,149.37,136.84,2019,0
+11,The fishingtons,8,Buddy,Saquon These Nuts,5,Frags,120.5,172.54,122.02,83.94,2019,1
+12,The fishingtons,8,Buddy,Starr is Born,6,Nick,131.13,161.86,123.28,148.16,2019,1
+13,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,124.04,145.08,109.43,115.1,2019,1
+14,The fishingtons,8,Buddy,We're Back,13,Nate,139.19,136.2,150.06,124.48,2019,1
+15,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,132.93,130.02,146.36,126.62,2019,1
+16,The fishingtons,8,Buddy,Starr is Born,6,Nick,135.99,123.14,143.93,140.78,2019,0
+1,The Scientist,9,Kyle,SuperCam That Ho,7,Lauren,126.25,64.7,134.61,93.86,2019,0
+2,The Scientist,9,Kyle,The fishingtons,8,Buddy,135.6,133.5,138.73,120.26,2019,1
+3,The Scientist,9,Kyle,who invited canada,14,Peter,132.87,116.1,125.26,163.42,2019,0
+4,The Scientist,9,Kyle,The Twelve Apostles,10,unknown,124.11,102.98,136.79,139.7,2019,0
+5,The Scientist,9,Kyle,Thug Bungalow,11,Michael,116.55,110.9,130.15,144.48,2019,0
+6,The Scientist,9,Kyle,Thunder Crotches,12,Jake,114.02,99.06,112.81,83.62,2019,1
+7,The Scientist,9,Kyle,We're Back,13,Nate,128.07,119.52,122.72,105.52,2019,1
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,124.65,164.82,139.06,165.66,2019,0
+9,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,125.91,134.12,122.47,90.36,2019,1
+10,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,129.0,127.18,124.37,136.52,2019,0
+11,The Scientist,9,Kyle,John Brown's Army,4,Eric,118.18,143.82,146.26,130.78,2019,1
+12,The Scientist,9,Kyle,Saquon These Nuts,5,Frags,125.97,86.84,117.68,107.5,2019,0
+13,The Scientist,9,Kyle,Starr is Born,6,Nick,136.6,102.06,135.85,114.26,2019,0
+14,The Scientist,9,Kyle,Thug Bungalow,11,Michael,124.3,114.36,138.4,122.1,2019,0
+15,The Scientist,9,Kyle,SuperCam That Ho,7,Lauren,106.16,114.48,120.6,124.2,2019,0
+1,The Twelve Apostles,10,unknown,Starr is Born,6,Nick,138.04,141.9,132.57,164.24,2019,0
+2,The Twelve Apostles,10,unknown,SuperCam That Ho,7,Lauren,140.06,143.5,119.94,87.82,2019,1
+3,The Twelve Apostles,10,unknown,The fishingtons,8,Buddy,134.98,133.14,134.63,129.8,2019,1
+4,The Twelve Apostles,10,unknown,The Scientist,9,Kyle,136.79,139.7,124.11,102.98,2019,1
+5,The Twelve Apostles,10,unknown,who invited canada,14,Peter,124.71,166.22,122.31,137.34,2019,1
+6,The Twelve Apostles,10,unknown,Thug Bungalow,11,Michael,135.24,128.3,130.4,107.14,2019,1
+7,The Twelve Apostles,10,unknown,Thunder Crotches,12,Jake,134.85,121.54,112.54,115.56,2019,1
+8,The Twelve Apostles,10,unknown,We're Back,13,Nate,142.85,145.18,137.15,126.28,2019,1
+9,The Twelve Apostles,10,unknown,The Ice Cold Bruschi,1,Ricky,119.33,158.12,148.8,121.0,2019,1
+10,The Twelve Apostles,10,unknown,Immortal Duffmen,2,Pat,137.41,152.48,119.13,91.78,2019,1
+11,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,95.7,112.62,135.75,91.36,2019,1
+12,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,142.86,103.5,129.02,101.5,2019,1
+13,The Twelve Apostles,10,unknown,Saquon These Nuts,5,Frags,138.42,116.3,127.92,93.54,2019,1
+15,The Twelve Apostles,10,unknown,Starr is Born,6,Nick,141.44,129.54,134.22,136.86,2019,0
+16,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,135.9,157.96,139.2,113.96,2019,1
+1,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,141.33,146.92,137.37,161.64,2019,0
+2,Thug Bungalow,11,Michael,Starr is Born,6,Nick,143.26,137.94,132.81,97.0,2019,1
+3,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,134.15,143.46,121.02,115.78,2019,1
+4,Thug Bungalow,11,Michael,The fishingtons,8,Buddy,141.95,94.6,137.09,105.68,2019,0
+5,Thug Bungalow,11,Michael,The Scientist,9,Kyle,130.15,144.48,116.55,110.9,2019,1
+6,Thug Bungalow,11,Michael,The Twelve Apostles,10,unknown,130.4,107.14,135.24,128.3,2019,0
+7,Thug Bungalow,11,Michael,who invited canada,14,Peter,119.71,85.24,132.51,101.16,2019,0
+8,Thug Bungalow,11,Michael,Thunder Crotches,12,Jake,116.47,99.38,101.06,125.9,2019,0
+9,Thug Bungalow,11,Michael,We're Back,13,Nate,115.32,100.26,139.74,142.0,2019,0
+10,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,135.29,168.12,142.54,109.42,2019,1
+11,Thug Bungalow,11,Michael,Immortal Duffmen,2,Pat,131.38,118.96,131.66,126.74,2019,0
+12,Thug Bungalow,11,Michael,Jadeveon's Hit Men,3,Tim,133.02,120.44,136.0,141.02,2019,0
+13,Thug Bungalow,11,Michael,John Brown's Army,4,Eric,140.58,155.9,145.52,131.1,2019,1
+14,Thug Bungalow,11,Michael,The Scientist,9,Kyle,138.4,122.1,124.3,114.36,2019,1
+15,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,141.77,106.74,150.18,168.98,2019,0
+16,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,135.42,132.06,85.82,74.94,2019,1
+1,Thunder Crotches,12,Jake,John Brown's Army,4,Eric,139.15,140.8,134.37,174.72,2019,0
+2,Thunder Crotches,12,Jake,Saquon These Nuts,5,Frags,138.28,70.82,142.69,146.76,2019,0
+3,Thunder Crotches,12,Jake,Starr is Born,6,Nick,135.24,159.04,136.97,136.84,2019,1
+4,Thunder Crotches,12,Jake,SuperCam That Ho,7,Lauren,133.07,81.32,119.63,102.84,2019,0
+5,Thunder Crotches,12,Jake,The fishingtons,8,Buddy,123.14,130.32,129.51,151.02,2019,0
+6,Thunder Crotches,12,Jake,The Scientist,9,Kyle,112.81,83.62,114.02,99.06,2019,0
+7,Thunder Crotches,12,Jake,The Twelve Apostles,10,unknown,112.54,115.56,134.85,121.54,2019,0
+8,Thunder Crotches,12,Jake,Thug Bungalow,11,Michael,101.06,125.9,116.47,99.38,2019,1
+9,Thunder Crotches,12,Jake,who invited canada,14,Peter,108.79,83.68,108.85,144.04,2019,0
+10,Thunder Crotches,12,Jake,We're Back,13,Nate,103.93,116.78,122.25,139.3,2019,0
+11,Thunder Crotches,12,Jake,The Ice Cold Bruschi,1,Ricky,113.29,125.56,142.64,129.08,2019,0
+12,Thunder Crotches,12,Jake,Immortal Duffmen,2,Pat,106.2,86.18,124.93,94.84,2019,0
+13,Thunder Crotches,12,Jake,Jadeveon's Hit Men,3,Tim,112.68,105.4,133.25,107.22,2019,0
+1,We're Back,13,Nate,Jadeveon's Hit Men,3,Tim,143.49,144.54,136.83,142.7,2019,1
+2,We're Back,13,Nate,John Brown's Army,4,Eric,144.74,103.52,141.51,173.62,2019,0
+3,We're Back,13,Nate,Saquon These Nuts,5,Frags,128.46,150.42,143.81,136.04,2019,1
+4,We're Back,13,Nate,Starr is Born,6,Nick,133.64,133.98,132.51,132.44,2019,1
+5,We're Back,13,Nate,SuperCam That Ho,7,Lauren,131.16,150.2,119.27,135.64,2019,1
+6,We're Back,13,Nate,The fishingtons,8,Buddy,146.27,119.92,131.25,125.82,2019,0
+7,We're Back,13,Nate,The Scientist,9,Kyle,122.72,105.52,128.07,119.52,2019,0
+8,We're Back,13,Nate,The Twelve Apostles,10,unknown,137.15,126.28,142.85,145.18,2019,0
+9,We're Back,13,Nate,Thug Bungalow,11,Michael,139.74,142.0,115.32,100.26,2019,1
+10,We're Back,13,Nate,Thunder Crotches,12,Jake,122.25,139.3,103.93,116.78,2019,1
+11,We're Back,13,Nate,who invited canada,14,Peter,128.61,143.76,114.29,86.98,2019,1
+12,We're Back,13,Nate,The Ice Cold Bruschi,1,Ricky,123.12,126.58,148.38,177.96,2019,0
+13,We're Back,13,Nate,Immortal Duffmen,2,Pat,154.9,124.54,108.62,121.68,2019,1
+14,We're Back,13,Nate,The fishingtons,8,Buddy,150.06,124.48,139.19,136.2,2019,0
+15,We're Back,13,Nate,John Brown's Army,4,Eric,142.3,131.08,111.89,110.1,2019,1
+1,who invited canada,14,Peter,The fishingtons,8,Buddy,125.45,103.32,139.82,147.92,2019,0
+2,who invited canada,14,Peter,Immortal Duffmen,2,Pat,132.85,114.26,141.39,165.8,2019,0
+3,who invited canada,14,Peter,The Scientist,9,Kyle,125.26,163.42,132.87,116.1,2019,1
+4,who invited canada,14,Peter,Jadeveon's Hit Men,3,Tim,124.52,143.3,133.16,125.2,2019,1
+5,who invited canada,14,Peter,The Twelve Apostles,10,unknown,122.31,137.34,124.71,166.22,2019,0
+6,who invited canada,14,Peter,John Brown's Army,4,Eric,136.9,144.0,148.44,165.52,2019,0
+7,who invited canada,14,Peter,Thug Bungalow,11,Michael,132.51,101.16,119.71,85.24,2019,1
+8,who invited canada,14,Peter,Saquon These Nuts,5,Frags,121.59,73.8,145.13,121.96,2019,0
+9,who invited canada,14,Peter,Thunder Crotches,12,Jake,108.85,144.04,108.79,83.68,2019,1
+10,who invited canada,14,Peter,Starr is Born,6,Nick,113.7,90.86,119.76,107.14,2019,0
+11,who invited canada,14,Peter,We're Back,13,Nate,114.29,86.98,128.61,143.76,2019,0
+12,who invited canada,14,Peter,SuperCam That Ho,7,Lauren,114.76,81.78,104.06,102.52,2019,0
+13,who invited canada,14,Peter,The Ice Cold Bruschi,1,Ricky,117.43,123.52,148.33,149.3,2019,0
+1,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,138.1,148.98,144.68,158.92,2020,0
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,134.73,142.4,130.45,121.98,2020,1
+3,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,141.26,164.74,145.94,133.58,2020,1
+4,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,143.28,147.62,117.85,120.04,2020,1
+5,The Ice Cold Bruschi,1,Ricky,Starr is Born,6,Nick,146.58,137.32,121.36,126.32,2020,1
+6,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,7,Lauren,144.67,106.18,114.56,122.76,2020,0
+7,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,142.08,107.88,96.84,99.08,2020,1
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,148.23,174.44,127.62,102.82,2020,1
+9,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,10,unknown,131.43,132.08,87.8,83.8,2020,1
+10,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,127.57,95.22,122.68,120.1,2020,0
+11,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,12,Jake,144.07,162.82,131.14,119.28,2020,1
+12,The Ice Cold Bruschi,1,Ricky,We're Back,13,Nate,152.87,197.38,132.88,94.02,2020,1
+13,The Ice Cold Bruschi,1,Ricky,who invited canada,14,Peter,153.57,102.22,156.21,170.5,2020,0
+14,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,152.25,162.92,130.18,91.66,2020,1
+15,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,152.73,143.76,145.65,134.12,2020,1
+16,The Ice Cold Bruschi,1,Ricky,who invited canada,14,Peter,140.48,116.62,144.0,122.78,2020,0
+1,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,144.68,158.92,138.1,148.98,2020,1
+2,Immortal Duffmen,2,Pat,who invited canada,14,Peter,133.42,100.2,142.03,154.18,2020,0
+3,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,119.79,119.56,133.36,117.1,2020,1
+4,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,121.54,118.8,134.59,132.46,2020,0
+5,Immortal Duffmen,2,Pat,Saquon These Nuts,5,Frags,128.21,145.36,113.15,95.06,2020,1
+6,Immortal Duffmen,2,Pat,Starr is Born,6,Nick,134.91,129.6,128.25,92.44,2020,1
+7,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,123.49,179.96,139.09,155.22,2020,1
+8,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,136.07,133.24,110.34,100.7,2020,1
+9,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,143.94,136.44,122.99,107.9,2020,1
+10,Immortal Duffmen,2,Pat,The Twelve Apostles,10,unknown,133.45,121.22,114.22,114.2,2020,1
+11,Immortal Duffmen,2,Pat,Thug Bungalow,11,Michael,141.04,170.66,121.93,78.16,2020,1
+12,Immortal Duffmen,2,Pat,Thunder Crotches,12,Jake,134.98,164.12,127.99,106.34,2020,1
+13,Immortal Duffmen,2,Pat,We're Back,13,Nate,143.75,135.14,132.56,167.96,2020,0
+15,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,145.65,134.12,152.73,143.76,2020,0
+16,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,135.79,144.76,131.83,101.06,2020,1
+1,Jadeveon's Hit Men,3,Tim,We're Back,13,Nate,141.38,122.94,129.09,126.6,2020,0
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,130.45,121.98,134.73,142.4,2020,0
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,133.36,117.1,119.79,119.56,2020,0
+4,Jadeveon's Hit Men,3,Tim,who invited canada,14,Peter,130.09,137.04,145.68,125.2,2020,1
+5,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,116.77,133.4,123.56,129.82,2020,1
+6,Jadeveon's Hit Men,3,Tim,Saquon These Nuts,5,Frags,119.4,76.02,114.55,84.62,2020,0
+7,Jadeveon's Hit Men,3,Tim,Starr is Born,6,Nick,129.14,123.0,126.39,121.06,2020,1
+8,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,7,Lauren,123.73,89.16,142.05,147.04,2020,0
+9,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,128.28,101.8,111.34,127.38,2020,0
+10,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,118.8,128.36,122.79,129.16,2020,0
+11,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,117.07,102.06,116.01,107.64,2020,0
+12,Jadeveon's Hit Men,3,Tim,Thug Bungalow,11,Michael,120.78,125.28,136.45,88.0,2020,1
+13,Jadeveon's Hit Men,3,Tim,Thunder Crotches,12,Jake,112.93,140.7,123.77,111.9,2020,1
+14,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,108.47,84.52,118.72,121.4,2020,0
+15,Jadeveon's Hit Men,3,Tim,We're Back,13,Nate,122.43,139.56,117.69,106.12,2020,1
+1,John Brown's Army,4,Eric,Thunder Crotches,12,Jake,141.86,150.74,140.86,142.16,2020,1
+2,John Brown's Army,4,Eric,We're Back,13,Nate,140.32,150.28,121.6,142.88,2020,1
+3,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,145.94,133.58,141.26,164.74,2020,0
+4,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,134.59,132.46,121.54,118.8,2020,1
+5,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,123.56,129.82,116.77,133.4,2020,0
+6,John Brown's Army,4,Eric,who invited canada,14,Peter,139.95,156.88,131.71,110.68,2020,1
+7,John Brown's Army,4,Eric,Saquon These Nuts,5,Frags,135.41,106.12,102.49,86.7,2020,1
+8,John Brown's Army,4,Eric,Starr is Born,6,Nick,113.62,112.06,119.49,110.46,2020,1
+9,John Brown's Army,4,Eric,SuperCam That Ho,7,Lauren,138.15,159.76,137.53,107.0,2020,1
+10,John Brown's Army,4,Eric,The fishingtons,8,Buddy,127.31,129.12,129.04,105.94,2020,1
+11,John Brown's Army,4,Eric,The Scientist,9,Kyle,133.98,152.46,126.34,127.94,2020,1
+12,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,134.85,157.86,113.15,114.64,2020,1
+13,John Brown's Army,4,Eric,Thug Bungalow,11,Michael,126.95,154.06,119.0,73.42,2020,1
+15,John Brown's Army,4,Eric,who invited canada,14,Peter,130.89,135.36,145.05,174.26,2020,0
+16,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,131.83,101.06,135.79,144.76,2020,0
+1,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,132.3,118.18,138.64,145.1,2020,0
+2,Saquon These Nuts,5,Frags,Thunder Crotches,12,Jake,126.59,106.56,144.47,149.5,2020,0
+3,Saquon These Nuts,5,Frags,We're Back,13,Nate,112.47,108.9,132.19,101.64,2020,1
+4,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,117.85,120.04,143.28,147.62,2020,0
+5,Saquon These Nuts,5,Frags,Immortal Duffmen,2,Pat,113.15,95.06,128.21,145.36,2020,0
+6,Saquon These Nuts,5,Frags,Jadeveon's Hit Men,3,Tim,114.55,84.62,119.4,76.02,2020,1
+7,Saquon These Nuts,5,Frags,John Brown's Army,4,Eric,102.49,86.7,135.41,106.12,2020,0
+8,Saquon These Nuts,5,Frags,who invited canada,14,Peter,122.66,136.64,138.56,177.52,2020,0
+9,Saquon These Nuts,5,Frags,Starr is Born,6,Nick,119.89,108.84,126.69,119.06,2020,0
+10,Saquon These Nuts,5,Frags,SuperCam That Ho,7,Lauren,118.68,134.84,139.24,94.48,2020,1
+11,Saquon These Nuts,5,Frags,The fishingtons,8,Buddy,113.04,132.22,119.25,132.92,2020,0
+12,Saquon These Nuts,5,Frags,The Scientist,9,Kyle,117.82,86.2,125.36,100.72,2020,0
+13,Saquon These Nuts,5,Frags,The Twelve Apostles,10,unknown,110.27,105.08,109.78,91.2,2020,1
+1,Starr is Born,6,Nick,The Twelve Apostles,10,unknown,121.69,107.36,137.96,118.8,2020,0
+2,Starr is Born,6,Nick,Thug Bungalow,11,Michael,125.28,137.28,145.71,141.14,2020,0
+3,Starr is Born,6,Nick,Thunder Crotches,12,Jake,101.69,95.28,138.55,144.88,2020,0
+4,Starr is Born,6,Nick,We're Back,13,Nate,130.46,154.96,126.63,129.3,2020,1
+5,Starr is Born,6,Nick,The Ice Cold Bruschi,1,Ricky,121.36,126.32,146.58,137.32,2020,0
+6,Starr is Born,6,Nick,Immortal Duffmen,2,Pat,128.25,92.44,134.91,129.6,2020,0
+7,Starr is Born,6,Nick,Jadeveon's Hit Men,3,Tim,126.39,121.06,129.14,123.0,2020,0
+8,Starr is Born,6,Nick,John Brown's Army,4,Eric,119.49,110.46,113.62,112.06,2020,0
+9,Starr is Born,6,Nick,Saquon These Nuts,5,Frags,126.69,119.06,119.89,108.84,2020,1
+10,Starr is Born,6,Nick,who invited canada,14,Peter,119.52,126.44,140.42,91.18,2020,1
+11,Starr is Born,6,Nick,SuperCam That Ho,7,Lauren,123.3,99.54,137.29,140.28,2020,0
+12,Starr is Born,6,Nick,The fishingtons,8,Buddy,104.22,124.6,136.68,133.2,2020,0
+13,Starr is Born,6,Nick,The Scientist,9,Kyle,98.65,83.56,115.68,139.58,2020,0
+1,SuperCam That Ho,7,Lauren,The Scientist,9,Kyle,137.7,101.28,131.32,127.2,2020,0
+2,SuperCam That Ho,7,Lauren,The Twelve Apostles,10,unknown,130.0,132.72,119.7,135.72,2020,0
+3,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,140.24,144.2,142.38,180.7,2020,0
+4,SuperCam That Ho,7,Lauren,Thunder Crotches,12,Jake,126.65,102.3,153.22,140.58,2020,0
+5,SuperCam That Ho,7,Lauren,We're Back,13,Nate,138.32,135.98,134.68,135.06,2020,1
+6,SuperCam That Ho,7,Lauren,The Ice Cold Bruschi,1,Ricky,114.56,122.76,144.67,106.18,2020,1
+7,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,139.09,155.22,123.49,179.96,2020,0
+8,SuperCam That Ho,7,Lauren,Jadeveon's Hit Men,3,Tim,142.05,147.04,123.73,89.16,2020,1
+9,SuperCam That Ho,7,Lauren,John Brown's Army,4,Eric,137.53,107.0,138.15,159.76,2020,0
+10,SuperCam That Ho,7,Lauren,Saquon These Nuts,5,Frags,139.24,94.48,118.68,134.84,2020,0
+11,SuperCam That Ho,7,Lauren,Starr is Born,6,Nick,137.29,140.28,123.3,99.54,2020,1
+12,SuperCam That Ho,7,Lauren,who invited canada,14,Peter,130.58,119.0,151.13,112.26,2020,1
+13,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,119.1,108.62,133.91,136.0,2020,0
+14,SuperCam That Ho,7,Lauren,We're Back,13,Nate,132.04,145.84,135.9,133.18,2020,1
+15,SuperCam That Ho,7,Lauren,The Scientist,9,Kyle,138.91,128.24,133.13,113.12,2020,1
+16,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,139.32,103.2,136.24,147.04,2020,0
+1,The fishingtons,8,Buddy,who invited canada,14,Peter,136.05,108.5,131.9,130.9,2020,0
+2,The fishingtons,8,Buddy,The Scientist,9,Kyle,139.88,149.88,139.64,128.36,2020,1
+3,The fishingtons,8,Buddy,The Twelve Apostles,10,unknown,141.3,128.72,121.4,94.52,2020,1
+4,The fishingtons,8,Buddy,Thug Bungalow,11,Michael,130.05,108.64,132.72,111.22,2020,0
+5,The fishingtons,8,Buddy,Thunder Crotches,12,Jake,112.91,99.7,134.74,119.44,2020,0
+6,The fishingtons,8,Buddy,We're Back,13,Nate,124.63,66.44,125.33,124.46,2020,0
+7,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,96.84,99.08,142.08,107.88,2020,0
+8,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,110.34,100.7,136.07,133.24,2020,0
+9,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,111.34,127.38,128.28,101.8,2020,1
+10,The fishingtons,8,Buddy,John Brown's Army,4,Eric,129.04,105.94,127.31,129.12,2020,0
+11,The fishingtons,8,Buddy,Saquon These Nuts,5,Frags,119.25,132.92,113.04,132.22,2020,1
+12,The fishingtons,8,Buddy,Starr is Born,6,Nick,136.68,133.2,104.22,124.6,2020,1
+13,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,133.91,136.0,119.1,108.62,2020,1
+15,The fishingtons,8,Buddy,The Twelve Apostles,10,unknown,130.2,117.52,116.8,104.32,2020,1
+16,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,136.24,147.04,139.32,103.2,2020,1
+1,The Scientist,9,Kyle,SuperCam That Ho,7,Lauren,131.32,127.2,137.7,101.28,2020,1
+2,The Scientist,9,Kyle,The fishingtons,8,Buddy,139.64,128.36,139.88,149.88,2020,0
+3,The Scientist,9,Kyle,who invited canada,14,Peter,143.75,135.58,147.86,120.9,2020,1
+4,The Scientist,9,Kyle,The Twelve Apostles,10,unknown,133.51,125.42,139.52,159.68,2020,0
+5,The Scientist,9,Kyle,Thug Bungalow,11,Michael,129.76,107.8,138.56,117.9,2020,0
+6,The Scientist,9,Kyle,Thunder Crotches,12,Jake,126.32,137.54,124.87,134.14,2020,1
+7,The Scientist,9,Kyle,We're Back,13,Nate,112.24,75.42,124.74,131.7,2020,0
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,127.62,102.82,148.23,174.44,2020,0
+9,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,122.99,107.9,143.94,136.44,2020,0
+10,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,122.79,129.16,118.8,128.36,2020,1
+11,The Scientist,9,Kyle,John Brown's Army,4,Eric,126.34,127.94,133.98,152.46,2020,0
+12,The Scientist,9,Kyle,Saquon These Nuts,5,Frags,125.36,100.72,117.82,86.2,2020,1
+13,The Scientist,9,Kyle,Starr is Born,6,Nick,115.68,139.58,98.65,83.56,2020,1
+15,The Scientist,9,Kyle,SuperCam That Ho,7,Lauren,133.13,113.12,138.91,128.24,2020,0
+16,The Scientist,9,Kyle,The Twelve Apostles,10,unknown,127.85,183.82,93.97,92.84,2020,1
+1,The Twelve Apostles,10,unknown,Starr is Born,6,Nick,137.96,118.8,121.69,107.36,2020,1
+2,The Twelve Apostles,10,unknown,SuperCam That Ho,7,Lauren,119.7,135.72,130.0,132.72,2020,1
+3,The Twelve Apostles,10,unknown,The fishingtons,8,Buddy,121.4,94.52,141.3,128.72,2020,0
+4,The Twelve Apostles,10,unknown,The Scientist,9,Kyle,139.52,159.68,133.51,125.42,2020,1
+5,The Twelve Apostles,10,unknown,who invited canada,14,Peter,119.03,108.8,138.05,144.86,2020,0
+6,The Twelve Apostles,10,unknown,Thug Bungalow,11,Michael,139.5,135.1,133.69,105.42,2020,1
+7,The Twelve Apostles,10,unknown,Thunder Crotches,12,Jake,127.91,107.32,128.97,155.8,2020,0
+8,The Twelve Apostles,10,unknown,We're Back,13,Nate,108.71,101.14,117.92,68.42,2020,1
+9,The Twelve Apostles,10,unknown,The Ice Cold Bruschi,1,Ricky,87.8,83.8,131.43,132.08,2020,0
+10,The Twelve Apostles,10,unknown,Immortal Duffmen,2,Pat,114.22,114.2,133.45,121.22,2020,0
+11,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,116.01,107.64,117.07,102.06,2020,1
+12,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,113.15,114.64,134.85,157.86,2020,0
+13,The Twelve Apostles,10,unknown,Saquon These Nuts,5,Frags,109.78,91.2,110.27,105.08,2020,0
+14,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,118.72,121.4,108.47,84.52,2020,1
+15,The Twelve Apostles,10,unknown,The fishingtons,8,Buddy,116.8,104.32,130.2,117.52,2020,0
+16,The Twelve Apostles,10,unknown,The Scientist,9,Kyle,93.97,92.84,127.85,183.82,2020,0
+1,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,138.64,145.1,132.3,118.18,2020,1
+2,Thug Bungalow,11,Michael,Starr is Born,6,Nick,145.71,141.14,125.28,137.28,2020,1
+3,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,142.38,180.7,140.24,144.2,2020,1
+4,Thug Bungalow,11,Michael,The fishingtons,8,Buddy,132.72,111.22,130.05,108.64,2020,1
+5,Thug Bungalow,11,Michael,The Scientist,9,Kyle,138.56,117.9,129.76,107.8,2020,1
+6,Thug Bungalow,11,Michael,The Twelve Apostles,10,unknown,133.69,105.42,139.5,135.1,2020,0
+7,Thug Bungalow,11,Michael,who invited canada,14,Peter,127.71,170.6,125.86,124.48,2020,1
+8,Thug Bungalow,11,Michael,Thunder Crotches,12,Jake,109.51,93.96,131.64,101.72,2020,0
+9,Thug Bungalow,11,Michael,We're Back,13,Nate,131.16,94.92,131.15,108.02,2020,0
+10,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,122.68,120.1,127.57,95.22,2020,1
+11,Thug Bungalow,11,Michael,Immortal Duffmen,2,Pat,121.93,78.16,141.04,170.66,2020,0
+12,Thug Bungalow,11,Michael,Jadeveon's Hit Men,3,Tim,136.45,88.0,120.78,125.28,2020,0
+13,Thug Bungalow,11,Michael,John Brown's Army,4,Eric,119.0,73.42,126.95,154.06,2020,0
+14,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,130.18,91.66,152.25,162.92,2020,0
+15,Thug Bungalow,11,Michael,Thunder Crotches,12,Jake,123.28,140.64,125.39,105.3,2020,1
+1,Thunder Crotches,12,Jake,John Brown's Army,4,Eric,140.86,142.16,141.86,150.74,2020,0
+2,Thunder Crotches,12,Jake,Saquon These Nuts,5,Frags,144.47,149.5,126.59,106.56,2020,1
+3,Thunder Crotches,12,Jake,Starr is Born,6,Nick,138.55,144.88,101.69,95.28,2020,1
+4,Thunder Crotches,12,Jake,SuperCam That Ho,7,Lauren,153.22,140.58,126.65,102.3,2020,1
+5,Thunder Crotches,12,Jake,The fishingtons,8,Buddy,134.74,119.44,112.91,99.7,2020,1
+6,Thunder Crotches,12,Jake,The Scientist,9,Kyle,124.87,134.14,126.32,137.54,2020,0
+7,Thunder Crotches,12,Jake,The Twelve Apostles,10,unknown,128.97,155.8,127.91,107.32,2020,1
+8,Thunder Crotches,12,Jake,Thug Bungalow,11,Michael,131.64,101.72,109.51,93.96,2020,1
+9,Thunder Crotches,12,Jake,who invited canada,14,Peter,122.57,111.34,123.12,124.54,2020,0
+10,Thunder Crotches,12,Jake,We're Back,13,Nate,125.87,112.62,129.43,102.78,2020,1
+11,Thunder Crotches,12,Jake,The Ice Cold Bruschi,1,Ricky,131.14,119.28,144.07,162.82,2020,0
+12,Thunder Crotches,12,Jake,Immortal Duffmen,2,Pat,127.99,106.34,134.98,164.12,2020,0
+13,Thunder Crotches,12,Jake,Jadeveon's Hit Men,3,Tim,123.77,111.9,112.93,140.7,2020,0
+14,Thunder Crotches,12,Jake,who invited canada,14,Peter,125.23,143.48,143.9,157.6,2020,0
+15,Thunder Crotches,12,Jake,Thug Bungalow,11,Michael,125.39,105.3,123.28,140.64,2020,0
+1,We're Back,13,Nate,Jadeveon's Hit Men,3,Tim,129.09,126.6,141.38,122.94,2020,1
+2,We're Back,13,Nate,John Brown's Army,4,Eric,121.6,142.88,140.32,150.28,2020,0
+3,We're Back,13,Nate,Saquon These Nuts,5,Frags,132.19,101.64,112.47,108.9,2020,0
+4,We're Back,13,Nate,Starr is Born,6,Nick,126.63,129.3,130.46,154.96,2020,0
+5,We're Back,13,Nate,SuperCam That Ho,7,Lauren,134.68,135.06,138.32,135.98,2020,0
+6,We're Back,13,Nate,The fishingtons,8,Buddy,125.33,124.46,124.63,66.44,2020,1
+7,We're Back,13,Nate,The Scientist,9,Kyle,124.74,131.7,112.24,75.42,2020,1
+8,We're Back,13,Nate,The Twelve Apostles,10,unknown,117.92,68.42,108.71,101.14,2020,0
+9,We're Back,13,Nate,Thug Bungalow,11,Michael,131.15,108.02,131.16,94.92,2020,1
+10,We're Back,13,Nate,Thunder Crotches,12,Jake,129.43,102.78,125.87,112.62,2020,0
+11,We're Back,13,Nate,who invited canada,14,Peter,126.61,131.26,148.72,143.54,2020,0
+12,We're Back,13,Nate,The Ice Cold Bruschi,1,Ricky,132.88,94.02,152.87,197.38,2020,0
+13,We're Back,13,Nate,Immortal Duffmen,2,Pat,132.56,167.96,143.75,135.14,2020,1
+14,We're Back,13,Nate,SuperCam That Ho,7,Lauren,135.9,133.18,132.04,145.84,2020,0
+15,We're Back,13,Nate,Jadeveon's Hit Men,3,Tim,117.69,106.12,122.43,139.56,2020,0
+1,who invited canada,14,Peter,The fishingtons,8,Buddy,131.9,130.9,136.05,108.5,2020,1
+2,who invited canada,14,Peter,Immortal Duffmen,2,Pat,142.03,154.18,133.42,100.2,2020,1
+3,who invited canada,14,Peter,The Scientist,9,Kyle,147.86,120.9,143.75,135.58,2020,0
+4,who invited canada,14,Peter,Jadeveon's Hit Men,3,Tim,145.68,125.2,130.09,137.04,2020,0
+5,who invited canada,14,Peter,The Twelve Apostles,10,unknown,138.05,144.86,119.03,108.8,2020,1
+6,who invited canada,14,Peter,John Brown's Army,4,Eric,131.71,110.68,139.95,156.88,2020,0
+7,who invited canada,14,Peter,Thug Bungalow,11,Michael,125.86,124.48,127.71,170.6,2020,0
+8,who invited canada,14,Peter,Saquon These Nuts,5,Frags,138.56,177.52,122.66,136.64,2020,1
+9,who invited canada,14,Peter,Thunder Crotches,12,Jake,123.12,124.54,122.57,111.34,2020,1
+10,who invited canada,14,Peter,Starr is Born,6,Nick,140.42,91.18,119.52,126.44,2020,0
+11,who invited canada,14,Peter,We're Back,13,Nate,148.72,143.54,126.61,131.26,2020,1
+12,who invited canada,14,Peter,SuperCam That Ho,7,Lauren,151.13,112.26,130.58,119.0,2020,0
+13,who invited canada,14,Peter,The Ice Cold Bruschi,1,Ricky,156.21,170.5,153.57,102.22,2020,1
+14,who invited canada,14,Peter,Thunder Crotches,12,Jake,143.9,157.6,125.23,143.48,2020,1
+15,who invited canada,14,Peter,John Brown's Army,4,Eric,145.05,174.26,130.89,135.36,2020,1
+16,who invited canada,14,Peter,The Ice Cold Bruschi,1,Ricky,144.0,122.78,140.48,116.62,2020,1
+1,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,122.88,117.06,124.83,123.34,2021,0
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,124.89,128.1,121.13,90.12,2021,1
+3,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,131.36,109.34,113.5,117.84,2021,0
+4,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,135.01,123.38,120.6,113.42,2021,1
+5,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,10,unknown,130.86,131.52,114.74,103.88,2021,1
+6,The Ice Cold Bruschi,1,Ricky,We're Back,13,Nate,120.15,108.7,119.47,106.58,2021,1
+7,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,111.54,122.24,121.99,113.04,2021,1
+8,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,119.87,83.82,119.55,86.06,2021,0
+9,The Ice Cold Bruschi,1,Ricky,#1 Patriots Fan,6,Nick,125.64,109.9,109.95,115.86,2021,0
+10,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,12,Jake,130.7,121.38,116.13,83.44,2021,1
+11,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,7,Lauren,121.45,128.28,98.18,75.28,2021,1
+12,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,113.57,81.16,114.41,140.5,2021,0
+13,The Ice Cold Bruschi,1,Ricky,who invited canada,14,Peter,109.2,86.86,116.49,93.6,2021,0
+14,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,114.02,137.6,107.69,102.02,2021,1
+15,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,125.29,93.24,109.77,93.38,2021,0
+16,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,127.95,141.96,114.66,126.36,2021,1
+1,Immortal Duffmen,2,Pat,We're Back,13,Nate,131.82,128.46,120.94,112.26,2021,1
+2,Immortal Duffmen,2,Pat,who invited canada,14,Peter,111.89,109.2,119.11,121.82,2021,0
+3,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,123.79,108.64,118.04,79.92,2021,1
+4,Immortal Duffmen,2,Pat,Thunder Crotches,12,Jake,116.59,116.52,124.37,124.42,2021,0
+5,Immortal Duffmen,2,Pat,Saquon These Nuts,5,Frags,126.89,82.46,127.76,136.34,2021,0
+6,Immortal Duffmen,2,Pat,Thug Bungalow,11,Michael,114.22,134.96,127.94,128.4,2021,1
+7,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,126.77,146.04,126.25,98.48,2021,1
+8,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,117.56,116.46,125.19,130.16,2021,0
+9,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,94.98,75.06,107.84,100.12,2021,0
+10,Immortal Duffmen,2,Pat,The Twelve Apostles,10,unknown,98.38,74.68,116.73,138.54,2021,0
+11,Immortal Duffmen,2,Pat,#1 Patriots Fan,6,Nick,112.39,108.16,111.25,92.02,2021,1
+12,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,112.98,71.48,118.78,108.32,2021,0
+13,Immortal Duffmen,2,Pat,We're Back,13,Nate,111.79,115.92,110.0,115.32,2021,1
+14,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,107.69,102.02,114.02,137.6,2021,0
+15,Immortal Duffmen,2,Pat,#1 Patriots Fan,6,Nick,99.69,82.08,105.07,99.54,2021,0
+16,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,108.47,94.1,101.35,82.08,2021,1
+1,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,125.78,114.16,129.91,78.98,2021,1
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,121.13,90.12,124.89,128.1,2021,0
+3,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,118.04,79.92,123.79,108.64,2021,0
+4,Jadeveon's Hit Men,3,Tim,We're Back,13,Nate,115.32,127.16,129.46,109.06,2021,1
+5,Jadeveon's Hit Men,3,Tim,who invited canada,14,Peter,115.77,94.58,111.11,96.7,2021,0
+6,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,101.09,90.46,128.05,116.52,2021,0
+7,Jadeveon's Hit Men,3,Tim,#1 Patriots Fan,6,Nick,84.1,89.9,92.47,79.58,2021,1
+8,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,7,Lauren,96.06,93.04,123.89,82.98,2021,1
+9,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,97.71,71.68,109.16,107.24,2021,0
+10,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,110.0,78.64,113.21,130.32,2021,0
+11,Jadeveon's Hit Men,3,Tim,Saquon These Nuts,5,Frags,113.2,110.68,115.21,108.64,2021,1
+12,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,103.16,108.58,112.52,108.72,2021,0
+13,Jadeveon's Hit Men,3,Tim,Thunder Crotches,12,Jake,110.53,93.24,125.67,131.82,2021,0
+14,Jadeveon's Hit Men,3,Tim,Thug Bungalow,11,Michael,102.28,115.3,129.75,152.94,2021,0
+1,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,129.91,78.98,125.78,114.16,2021,0
+2,John Brown's Army,4,Eric,We're Back,13,Nate,122.51,88.72,127.89,120.14,2021,0
+3,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,113.5,117.84,131.36,109.34,2021,1
+4,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,112.23,102.28,120.21,118.02,2021,0
+5,John Brown's Army,4,Eric,SuperCam That Ho,7,Lauren,105.25,161.22,130.47,156.28,2021,1
+6,John Brown's Army,4,Eric,The Scientist,9,Kyle,105.09,99.6,104.58,125.44,2021,0
+7,John Brown's Army,4,Eric,Saquon These Nuts,5,Frags,92.49,121.68,101.22,126.64,2021,0
+8,John Brown's Army,4,Eric,#1 Patriots Fan,6,Nick,115.71,80.22,111.88,83.16,2021,0
+9,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,109.16,107.24,97.71,71.68,2021,1
+10,John Brown's Army,4,Eric,The fishingtons,8,Buddy,111.13,87.9,121.02,125.14,2021,0
+11,John Brown's Army,4,Eric,who invited canada,14,Peter,113.27,113.38,119.32,88.56,2021,1
+12,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,118.78,108.32,112.98,71.48,2021,1
+13,John Brown's Army,4,Eric,Thug Bungalow,11,Michael,111.69,115.18,122.51,124.86,2021,0
+14,John Brown's Army,4,Eric,Thunder Crotches,12,Jake,112.13,115.9,111.12,100.84,2021,1
+16,John Brown's Army,4,Eric,We're Back,13,Nate,117.67,106.04,116.85,123.08,2021,0
+17,John Brown's Army,4,Eric,#1 Patriots Fan,6,Nick,112.83,121.28,106.54,54.4,2021,1
+1,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,124.83,123.34,122.88,117.06,2021,1
+2,Saquon These Nuts,5,Frags,Thunder Crotches,12,Jake,127.65,101.48,114.6,76.98,2021,1
+3,Saquon These Nuts,5,Frags,We're Back,13,Nate,124.23,104.08,121.95,137.18,2021,0
+4,Saquon These Nuts,5,Frags,The Scientist,9,Kyle,121.25,130.62,128.51,87.52,2021,1
+5,Saquon These Nuts,5,Frags,Immortal Duffmen,2,Pat,127.76,136.34,126.89,82.46,2021,1
+6,Saquon These Nuts,5,Frags,The Twelve Apostles,10,unknown,116.01,121.74,111.87,110.78,2021,1
+7,Saquon These Nuts,5,Frags,John Brown's Army,4,Eric,101.22,126.64,92.49,121.68,2021,1
+8,Saquon These Nuts,5,Frags,who invited canada,14,Peter,130.95,134.46,123.5,127.6,2021,1
+9,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,119.92,69.28,122.6,101.2,2021,0
+10,Saquon These Nuts,5,Frags,SuperCam That Ho,7,Lauren,119.56,99.74,112.84,100.62,2021,0
+11,Saquon These Nuts,5,Frags,Jadeveon's Hit Men,3,Tim,115.21,108.64,113.2,110.68,2021,0
+12,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,114.41,140.5,113.57,81.16,2021,1
+13,Saquon These Nuts,5,Frags,#1 Patriots Fan,6,Nick,112.84,121.0,97.97,94.12,2021,1
+14,Saquon These Nuts,5,Frags,The fishingtons,8,Buddy,118.0,101.82,125.23,123.12,2021,0
+15,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,109.77,93.38,125.29,93.24,2021,1
+16,Saquon These Nuts,5,Frags,Thunder Crotches,12,Jake,115.0,136.9,131.7,114.9,2021,1
+17,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,120.63,134.44,137.82,127.52,2021,1
+1,#1 Patriots Fan,6,Nick,who invited canada,14,Peter,120.8,92.86,125.06,135.94,2021,0
+2,#1 Patriots Fan,6,Nick,Thug Bungalow,11,Michael,118.19,94.9,122.95,115.3,2021,0
+3,#1 Patriots Fan,6,Nick,Thunder Crotches,12,Jake,103.37,124.12,119.42,92.02,2021,1
+4,#1 Patriots Fan,6,Nick,The fishingtons,8,Buddy,116.43,112.74,123.49,104.62,2021,1
+5,#1 Patriots Fan,6,Nick,The Scientist,9,Kyle,113.71,84.88,125.34,115.78,2021,0
+6,#1 Patriots Fan,6,Nick,SuperCam That Ho,7,Lauren,118.51,106.68,125.28,131.38,2021,0
+7,#1 Patriots Fan,6,Nick,Jadeveon's Hit Men,3,Tim,92.47,79.58,84.1,89.9,2021,0
+8,#1 Patriots Fan,6,Nick,John Brown's Army,4,Eric,111.88,83.16,115.71,80.22,2021,1
+9,#1 Patriots Fan,6,Nick,The Ice Cold Bruschi,1,Ricky,109.95,115.86,125.64,109.9,2021,1
+10,#1 Patriots Fan,6,Nick,who invited canada,14,Peter,105.92,101.34,120.71,77.72,2021,1
+11,#1 Patriots Fan,6,Nick,Immortal Duffmen,2,Pat,111.25,92.02,112.39,108.16,2021,0
+12,#1 Patriots Fan,6,Nick,We're Back,13,Nate,113.39,103.3,122.61,114.54,2021,0
+13,#1 Patriots Fan,6,Nick,Saquon These Nuts,5,Frags,97.97,94.12,112.84,121.0,2021,0
+14,#1 Patriots Fan,6,Nick,The Twelve Apostles,10,unknown,100.5,99.32,110.33,104.22,2021,0
+15,#1 Patriots Fan,6,Nick,Immortal Duffmen,2,Pat,105.07,99.54,99.69,82.08,2021,1
+16,#1 Patriots Fan,6,Nick,The Twelve Apostles,10,unknown,102.17,89.52,114.69,95.22,2021,0
+17,#1 Patriots Fan,6,Nick,John Brown's Army,4,Eric,106.54,54.4,112.83,121.28,2021,0
+1,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,120.48,97.4,118.5,108.5,2021,0
+2,SuperCam That Ho,7,Lauren,The Twelve Apostles,10,unknown,119.24,173.06,127.31,125.12,2021,1
+3,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,123.01,105.18,116.43,109.64,2021,0
+4,SuperCam That Ho,7,Lauren,who invited canada,14,Peter,123.84,111.14,110.32,59.0,2021,1
+5,SuperCam That Ho,7,Lauren,John Brown's Army,4,Eric,130.47,156.28,105.25,161.22,2021,0
+6,SuperCam That Ho,7,Lauren,#1 Patriots Fan,6,Nick,125.28,131.38,118.51,106.68,2021,1
+7,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,126.25,98.48,126.77,146.04,2021,0
+8,SuperCam That Ho,7,Lauren,Jadeveon's Hit Men,3,Tim,123.89,82.98,96.06,93.04,2021,0
+9,SuperCam That Ho,7,Lauren,We're Back,13,Nate,111.94,99.84,117.29,94.24,2021,1
+10,SuperCam That Ho,7,Lauren,Saquon These Nuts,5,Frags,112.84,100.62,119.56,99.74,2021,1
+11,SuperCam That Ho,7,Lauren,The Ice Cold Bruschi,1,Ricky,98.18,75.28,121.45,128.28,2021,0
+12,SuperCam That Ho,7,Lauren,Thunder Crotches,12,Jake,111.51,75.9,114.16,105.3,2021,0
+13,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,110.44,90.42,126.93,100.0,2021,0
+14,SuperCam That Ho,7,Lauren,The Scientist,9,Kyle,106.56,73.48,122.24,114.64,2021,0
+15,SuperCam That Ho,7,Lauren,We're Back,13,Nate,104.18,62.1,125.6,125.16,2021,0
+16,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,101.35,82.08,108.47,94.1,2021,0
+1,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,118.5,108.5,120.48,97.4,2021,1
+2,The fishingtons,8,Buddy,The Scientist,9,Kyle,126.27,118.16,131.0,100.48,2021,1
+3,The fishingtons,8,Buddy,The Twelve Apostles,10,unknown,123.94,104.02,114.98,87.5,2021,1
+4,The fishingtons,8,Buddy,#1 Patriots Fan,6,Nick,123.49,104.62,116.43,112.74,2021,0
+5,The fishingtons,8,Buddy,Thug Bungalow,11,Michael,122.7,157.2,118.85,128.56,2021,1
+6,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,128.05,116.52,101.09,90.46,2021,1
+7,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,121.99,113.04,111.54,122.24,2021,0
+8,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,125.19,130.16,117.56,116.46,2021,1
+9,The fishingtons,8,Buddy,Thunder Crotches,12,Jake,123.37,103.36,101.06,144.78,2021,0
+10,The fishingtons,8,Buddy,John Brown's Army,4,Eric,121.02,125.14,111.13,87.9,2021,1
+11,The fishingtons,8,Buddy,We're Back,13,Nate,130.8,120.36,114.23,70.78,2021,1
+12,The fishingtons,8,Buddy,who invited canada,14,Peter,114.88,131.1,117.59,97.68,2021,1
+13,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,126.93,100.0,110.44,90.42,2021,1
+14,The fishingtons,8,Buddy,Saquon These Nuts,5,Frags,125.23,123.12,118.0,101.82,2021,1
+16,The fishingtons,8,Buddy,Thug Bungalow,11,Michael,118.51,124.26,127.8,158.68,2021,0
+17,The fishingtons,8,Buddy,Thunder Crotches,12,Jake,129.44,104.8,123.14,163.34,2021,0
+1,The Scientist,9,Kyle,Thunder Crotches,12,Jake,116.07,132.12,119.39,113.02,2021,1
+2,The Scientist,9,Kyle,The fishingtons,8,Buddy,131.0,100.48,126.27,118.16,2021,0
+3,The Scientist,9,Kyle,who invited canada,14,Peter,130.76,130.58,130.48,89.42,2021,1
+4,The Scientist,9,Kyle,Saquon These Nuts,5,Frags,128.51,87.52,121.25,130.62,2021,0
+5,The Scientist,9,Kyle,#1 Patriots Fan,6,Nick,125.34,115.78,113.71,84.88,2021,1
+6,The Scientist,9,Kyle,John Brown's Army,4,Eric,104.58,125.44,105.09,99.6,2021,1
+7,The Scientist,9,Kyle,We're Back,13,Nate,94.84,102.2,114.24,120.94,2021,0
+8,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,119.55,86.06,119.87,83.82,2021,1
+9,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,107.84,100.12,94.98,75.06,2021,1
+10,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,113.21,130.32,110.0,78.64,2021,1
+11,The Scientist,9,Kyle,Thunder Crotches,12,Jake,120.57,109.32,105.9,119.54,2021,0
+12,The Scientist,9,Kyle,Thug Bungalow,11,Michael,102.04,73.68,125.12,114.28,2021,0
+13,The Scientist,9,Kyle,The Twelve Apostles,10,unknown,102.12,127.18,107.74,79.86,2021,1
+14,The Scientist,9,Kyle,SuperCam That Ho,7,Lauren,122.24,114.64,106.56,73.48,2021,1
+15,The Scientist,9,Kyle,Thug Bungalow,11,Michael,119.78,81.32,133.4,106.72,2021,0
+16,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,114.66,126.36,127.95,141.96,2021,0
+1,The Twelve Apostles,10,unknown,Thug Bungalow,11,Michael,113.17,111.98,119.73,81.72,2021,1
+2,The Twelve Apostles,10,unknown,SuperCam That Ho,7,Lauren,127.31,125.12,119.24,173.06,2021,0
+3,The Twelve Apostles,10,unknown,The fishingtons,8,Buddy,114.98,87.5,123.94,104.02,2021,0
+4,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,120.21,118.02,112.23,102.28,2021,1
+5,The Twelve Apostles,10,unknown,The Ice Cold Bruschi,1,Ricky,114.74,103.88,130.86,131.52,2021,0
+6,The Twelve Apostles,10,unknown,Saquon These Nuts,5,Frags,111.87,110.78,116.01,121.74,2021,0
+7,The Twelve Apostles,10,unknown,Thunder Crotches,12,Jake,112.35,74.94,117.68,119.24,2021,0
+8,The Twelve Apostles,10,unknown,We're Back,13,Nate,110.97,112.1,105.33,98.8,2021,1
+9,The Twelve Apostles,10,unknown,who invited canada,14,Peter,120.34,101.24,109.52,83.76,2021,1
+10,The Twelve Apostles,10,unknown,Immortal Duffmen,2,Pat,116.73,138.54,98.38,74.68,2021,1
+11,The Twelve Apostles,10,unknown,Thug Bungalow,11,Michael,111.0,92.6,123.4,129.3,2021,0
+12,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,112.52,108.72,103.16,108.58,2021,1
+13,The Twelve Apostles,10,unknown,The Scientist,9,Kyle,107.74,79.86,102.12,127.18,2021,0
+14,The Twelve Apostles,10,unknown,#1 Patriots Fan,6,Nick,110.33,104.22,100.5,99.32,2021,1
+16,The Twelve Apostles,10,unknown,#1 Patriots Fan,6,Nick,114.69,95.22,102.17,89.52,2021,1
+17,The Twelve Apostles,10,unknown,We're Back,13,Nate,120.64,130.16,128.24,125.6,2021,1
+1,Thug Bungalow,11,Michael,The Twelve Apostles,10,unknown,119.73,81.72,113.17,111.98,2021,0
+2,Thug Bungalow,11,Michael,#1 Patriots Fan,6,Nick,122.95,115.3,118.19,94.9,2021,1
+3,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,116.43,109.64,123.01,105.18,2021,1
+4,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,120.6,113.42,135.01,123.38,2021,0
+5,Thug Bungalow,11,Michael,The fishingtons,8,Buddy,118.85,128.56,122.7,157.2,2021,0
+6,Thug Bungalow,11,Michael,Immortal Duffmen,2,Pat,127.94,128.4,114.22,134.96,2021,0
+7,Thug Bungalow,11,Michael,who invited canada,14,Peter,109.06,122.76,104.7,113.76,2021,1
+8,Thug Bungalow,11,Michael,Thunder Crotches,12,Jake,110.88,84.66,114.9,110.0,2021,0
+9,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,122.6,101.2,119.92,69.28,2021,1
+10,Thug Bungalow,11,Michael,We're Back,13,Nate,135.19,108.58,110.74,105.6,2021,1
+11,Thug Bungalow,11,Michael,The Twelve Apostles,10,unknown,123.4,129.3,111.0,92.6,2021,1
+12,Thug Bungalow,11,Michael,The Scientist,9,Kyle,125.12,114.28,102.04,73.68,2021,1
+13,Thug Bungalow,11,Michael,John Brown's Army,4,Eric,122.51,124.86,111.69,115.18,2021,1
+14,Thug Bungalow,11,Michael,Jadeveon's Hit Men,3,Tim,129.75,152.94,102.28,115.3,2021,1
+15,Thug Bungalow,11,Michael,The Scientist,9,Kyle,133.4,106.72,119.78,81.32,2021,1
+16,Thug Bungalow,11,Michael,The fishingtons,8,Buddy,127.8,158.68,118.51,124.26,2021,1
+17,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,137.82,127.52,120.63,134.44,2021,0
+1,Thunder Crotches,12,Jake,The Scientist,9,Kyle,119.39,113.02,116.07,132.12,2021,0
+2,Thunder Crotches,12,Jake,Saquon These Nuts,5,Frags,114.6,76.98,127.65,101.48,2021,0
+3,Thunder Crotches,12,Jake,#1 Patriots Fan,6,Nick,119.42,92.02,103.37,124.12,2021,0
+4,Thunder Crotches,12,Jake,Immortal Duffmen,2,Pat,124.37,124.42,116.59,116.52,2021,1
+5,Thunder Crotches,12,Jake,We're Back,13,Nate,120.78,175.28,112.16,158.24,2021,1
+6,Thunder Crotches,12,Jake,who invited canada,14,Peter,114.26,132.9,106.47,114.54,2021,1
+7,Thunder Crotches,12,Jake,The Twelve Apostles,10,unknown,117.68,119.24,112.35,74.94,2021,1
+8,Thunder Crotches,12,Jake,Thug Bungalow,11,Michael,114.9,110.0,110.88,84.66,2021,1
+9,Thunder Crotches,12,Jake,The fishingtons,8,Buddy,101.06,144.78,123.37,103.36,2021,1
+10,Thunder Crotches,12,Jake,The Ice Cold Bruschi,1,Ricky,116.13,83.44,130.7,121.38,2021,0
+11,Thunder Crotches,12,Jake,The Scientist,9,Kyle,105.9,119.54,120.57,109.32,2021,1
+12,Thunder Crotches,12,Jake,SuperCam That Ho,7,Lauren,114.16,105.3,111.51,75.9,2021,1
+13,Thunder Crotches,12,Jake,Jadeveon's Hit Men,3,Tim,125.67,131.82,110.53,93.24,2021,1
+14,Thunder Crotches,12,Jake,John Brown's Army,4,Eric,111.12,100.84,112.13,115.9,2021,0
+16,Thunder Crotches,12,Jake,Saquon These Nuts,5,Frags,131.7,114.9,115.0,136.9,2021,0
+17,Thunder Crotches,12,Jake,The fishingtons,8,Buddy,123.14,163.34,129.44,104.8,2021,1
+1,We're Back,13,Nate,Immortal Duffmen,2,Pat,120.94,112.26,131.82,128.46,2021,0
+2,We're Back,13,Nate,John Brown's Army,4,Eric,127.89,120.14,122.51,88.72,2021,1
+3,We're Back,13,Nate,Saquon These Nuts,5,Frags,121.95,137.18,124.23,104.08,2021,1
+4,We're Back,13,Nate,Jadeveon's Hit Men,3,Tim,129.46,109.06,115.32,127.16,2021,0
+5,We're Back,13,Nate,Thunder Crotches,12,Jake,112.16,158.24,120.78,175.28,2021,0
+6,We're Back,13,Nate,The Ice Cold Bruschi,1,Ricky,119.47,106.58,120.15,108.7,2021,0
+7,We're Back,13,Nate,The Scientist,9,Kyle,114.24,120.94,94.84,102.2,2021,1
+8,We're Back,13,Nate,The Twelve Apostles,10,unknown,105.33,98.8,110.97,112.1,2021,0
+9,We're Back,13,Nate,SuperCam That Ho,7,Lauren,117.29,94.24,111.94,99.84,2021,0
+10,We're Back,13,Nate,Thug Bungalow,11,Michael,110.74,105.6,135.19,108.58,2021,0
+11,We're Back,13,Nate,The fishingtons,8,Buddy,114.23,70.78,130.8,120.36,2021,0
+12,We're Back,13,Nate,#1 Patriots Fan,6,Nick,122.61,114.54,113.39,103.3,2021,1
+13,We're Back,13,Nate,Immortal Duffmen,2,Pat,110.0,115.32,111.79,115.92,2021,0
+14,We're Back,13,Nate,who invited canada,14,Peter,115.25,128.12,106.02,121.48,2021,1
+15,We're Back,13,Nate,SuperCam That Ho,7,Lauren,125.6,125.16,104.18,62.1,2021,1
+16,We're Back,13,Nate,John Brown's Army,4,Eric,116.85,123.08,117.67,106.04,2021,1
+17,We're Back,13,Nate,The Twelve Apostles,10,unknown,128.24,125.6,120.64,130.16,2021,0
+1,who invited canada,14,Peter,#1 Patriots Fan,6,Nick,125.06,135.94,120.8,92.86,2021,1
+2,who invited canada,14,Peter,Immortal Duffmen,2,Pat,119.11,121.82,111.89,109.2,2021,1
+3,who invited canada,14,Peter,The Scientist,9,Kyle,130.48,89.42,130.76,130.58,2021,0
+4,who invited canada,14,Peter,SuperCam That Ho,7,Lauren,110.32,59.0,123.84,111.14,2021,0
+5,who invited canada,14,Peter,Jadeveon's Hit Men,3,Tim,111.11,96.7,115.77,94.58,2021,1
+6,who invited canada,14,Peter,Thunder Crotches,12,Jake,106.47,114.54,114.26,132.9,2021,0
+7,who invited canada,14,Peter,Thug Bungalow,11,Michael,104.7,113.76,109.06,122.76,2021,0
+8,who invited canada,14,Peter,Saquon These Nuts,5,Frags,123.5,127.6,130.95,134.46,2021,0
+9,who invited canada,14,Peter,The Twelve Apostles,10,unknown,109.52,83.76,120.34,101.24,2021,0
+10,who invited canada,14,Peter,#1 Patriots Fan,6,Nick,120.71,77.72,105.92,101.34,2021,0
+11,who invited canada,14,Peter,John Brown's Army,4,Eric,119.32,88.56,113.27,113.38,2021,0
+12,who invited canada,14,Peter,The fishingtons,8,Buddy,117.59,97.68,114.88,131.1,2021,0
+13,who invited canada,14,Peter,The Ice Cold Bruschi,1,Ricky,116.49,93.6,109.2,86.86,2021,1
+14,who invited canada,14,Peter,We're Back,13,Nate,106.02,121.48,115.25,128.12,2021,0
+1,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,118.13,86.76,113.27,137.28,2022,0
+2,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,114.13,93.84,118.1,130.6,2022,0
+3,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,117.47,129.9,115.91,103.16,2022,1
+4,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,12,Jake,113.29,98.32,109.03,103.2,2022,0
+5,The Ice Cold Bruschi,1,Ricky,Starr is Born,6,Nick,107.05,144.14,105.15,113.68,2022,1
+6,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,97.73,61.7,113.1,102.92,2022,0
+7,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,10,unknown,104.05,49.38,101.37,111.04,2022,0
+8,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,109.07,136.78,96.76,77.78,2022,1
+9,The Ice Cold Bruschi,1,Ricky,The Scientist,9,Kyle,105.15,97.9,86.51,102.0,2022,0
+10,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,99.75,100.7,114.32,136.18,2022,0
+11,The Ice Cold Bruschi,1,Ricky,We're Back,13,Nate,101.9,105.9,107.87,123.28,2022,0
+12,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,7,Lauren,115.94,91.14,104.23,143.96,2022,0
+13,The Ice Cold Bruschi,1,Ricky,who invited canada,14,Peter,104.28,106.6,118.39,126.86,2022,0
+14,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,114.14,95.56,101.63,131.78,2022,0
+15,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,115.66,98.24,102.55,106.68,2022,0
+16,The Ice Cold Bruschi,1,Ricky,Starr is Born,6,Nick,106.41,119.88,107.85,121.22,2022,0
+1,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,113.27,137.28,118.13,86.76,2022,1
+2,Immortal Duffmen,2,Pat,who invited canada,14,Peter,117.03,94.48,115.97,99.58,2022,0
+3,Immortal Duffmen,2,Pat,Starr is Born,6,Nick,113.37,106.1,103.88,77.9,2022,1
+4,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,112.54,92.92,109.28,106.56,2022,0
+5,Immortal Duffmen,2,Pat,We're Back,13,Nate,105.91,103.46,107.03,112.16,2022,0
+6,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,115.47,134.76,94.12,70.52,2022,1
+7,Immortal Duffmen,2,Pat,Thunder Crotches,12,Jake,102.52,90.78,92.28,151.68,2022,0
+8,Immortal Duffmen,2,Pat,The Scientist,9,Kyle,113.99,95.32,100.03,85.84,2022,1
+9,Immortal Duffmen,2,Pat,Saquon These Nuts,5,Frags,106.61,98.7,87.62,69.0,2022,1
+10,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,103.21,83.1,97.62,100.4,2022,0
+11,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,102.91,96.38,102.14,127.16,2022,0
+12,Immortal Duffmen,2,Pat,Thug Bungalow,11,Michael,113.32,106.82,99.88,80.44,2022,1
+13,Immortal Duffmen,2,Pat,The Twelve Apostles,10,unknown,106.32,83.42,122.05,125.64,2022,0
+14,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,101.63,131.78,114.14,95.56,2022,1
+16,Immortal Duffmen,2,Pat,Thug Bungalow,11,Michael,104.7,80.28,107.51,110.56,2022,0
+17,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,102.74,87.4,114.38,117.32,2022,0
+1,Jadeveon's Hit Men,3,Tim,Thunder Crotches,12,Jake,115.27,113.0,112.07,100.16,2022,1
+2,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,118.1,130.6,114.13,93.84,2022,1
+3,Jadeveon's Hit Men,3,Tim,We're Back,13,Nate,111.77,109.98,114.78,92.86,2022,1
+4,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,7,Lauren,114.71,91.16,106.17,104.3,2022,0
+5,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,121.32,120.68,98.37,68.42,2022,1
+6,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,112.0,103.22,104.73,82.34,2022,1
+7,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,85.04,66.02,125.67,88.2,2022,0
+8,Jadeveon's Hit Men,3,Tim,Starr is Born,6,Nick,93.69,85.82,97.47,117.22,2022,0
+9,Jadeveon's Hit Men,3,Tim,who invited canada,14,Peter,95.63,101.44,110.29,112.88,2022,0
+10,Jadeveon's Hit Men,3,Tim,Saquon These Nuts,5,Frags,105.4,124.24,87.7,49.42,2022,1
+11,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,102.14,127.16,102.91,96.38,2022,1
+12,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,110.7,97.7,117.23,133.3,2022,0
+13,Jadeveon's Hit Men,3,Tim,Thug Bungalow,11,Michael,99.05,111.42,91.04,115.14,2022,0
+14,Jadeveon's Hit Men,3,Tim,Thunder Crotches,12,Jake,112.01,104.68,94.86,75.82,2022,1
+16,Jadeveon's Hit Men,3,Tim,The Scientist,9,Kyle,104.68,125.76,104.47,128.56,2022,0
+17,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,114.38,117.32,102.74,87.4,2022,1
+1,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,114.15,123.22,115.84,115.62,2022,1
+2,John Brown's Army,4,Eric,We're Back,13,Nate,117.62,152.02,116.66,106.36,2022,1
+3,John Brown's Army,4,Eric,SuperCam That Ho,7,Lauren,115.17,149.42,106.38,94.56,2022,1
+4,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,109.28,106.56,112.54,92.92,2022,1
+5,John Brown's Army,4,Eric,Thunder Crotches,12,Jake,119.84,126.76,102.5,71.36,2022,1
+6,John Brown's Army,4,Eric,who invited canada,14,Peter,107.63,114.6,116.26,127.3,2022,0
+7,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,125.67,88.2,85.04,66.02,2022,1
+8,John Brown's Army,4,Eric,Thug Bungalow,11,Michael,118.2,117.92,108.83,118.94,2022,0
+9,John Brown's Army,4,Eric,The fishingtons,8,Buddy,119.89,155.32,103.49,108.44,2022,1
+10,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,114.32,136.18,99.75,100.7,2022,1
+11,John Brown's Army,4,Eric,Starr is Born,6,Nick,119.07,151.76,108.39,84.78,2022,1
+12,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,126.12,102.86,107.69,159.92,2022,0
+13,John Brown's Army,4,Eric,The Scientist,9,Kyle,127.87,118.04,114.62,114.46,2022,1
+14,John Brown's Army,4,Eric,Saquon These Nuts,5,Frags,116.28,104.9,97.8,87.52,2022,1
+16,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,115.54,129.4,103.32,98.5,2022,1
+17,John Brown's Army,4,Eric,who invited canada,14,Peter,122.24,143.9,120.93,83.1,2022,1
+1,Saquon These Nuts,5,Frags,Starr is Born,6,Nick,118.93,114.68,121.83,80.1,2022,1
+2,Saquon These Nuts,5,Frags,The Twelve Apostles,10,unknown,110.18,134.0,122.66,139.42,2022,0
+3,Saquon These Nuts,5,Frags,who invited canada,14,Peter,106.68,92.84,113.14,114.92,2022,0
+4,Saquon These Nuts,5,Frags,The fishingtons,8,Buddy,100.27,118.4,113.69,134.08,2022,0
+5,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,109.77,90.54,120.82,94.4,2022,0
+6,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,113.1,102.92,97.73,61.7,2022,1
+7,Saquon These Nuts,5,Frags,SuperCam That Ho,7,Lauren,103.23,76.2,104.27,121.72,2022,0
+8,Saquon These Nuts,5,Frags,We're Back,13,Nate,92.02,117.56,114.79,144.64,2022,0
+9,Saquon These Nuts,5,Frags,Immortal Duffmen,2,Pat,87.62,69.0,106.61,98.7,2022,0
+10,Saquon These Nuts,5,Frags,Jadeveon's Hit Men,3,Tim,87.7,49.42,105.4,124.24,2022,0
+11,Saquon These Nuts,5,Frags,Thunder Crotches,12,Jake,41.59,38.8,93.99,103.34,2022,0
+12,Saquon These Nuts,5,Frags,The Scientist,9,Kyle,110.78,94.14,105.88,115.44,2022,0
+13,Saquon These Nuts,5,Frags,Starr is Born,6,Nick,110.73,90.64,105.84,85.58,2022,1
+14,Saquon These Nuts,5,Frags,John Brown's Army,4,Eric,97.8,87.52,116.28,104.9,2022,0
+1,Starr is Born,6,Nick,Saquon These Nuts,5,Frags,121.83,80.1,118.93,114.68,2022,0
+2,Starr is Born,6,Nick,The fishingtons,8,Buddy,95.68,78.06,112.77,106.46,2022,0
+3,Starr is Born,6,Nick,Immortal Duffmen,2,Pat,103.88,77.9,113.37,106.1,2022,0
+4,Starr is Born,6,Nick,who invited canada,14,Peter,97.97,70.94,114.61,125.52,2022,0
+5,Starr is Born,6,Nick,The Ice Cold Bruschi,1,Ricky,105.15,113.68,107.05,144.14,2022,0
+6,Starr is Born,6,Nick,The Scientist,9,Kyle,113.52,106.24,100.49,90.82,2022,1
+7,Starr is Born,6,Nick,Thug Bungalow,11,Michael,103.95,116.76,109.48,84.86,2022,1
+8,Starr is Born,6,Nick,Jadeveon's Hit Men,3,Tim,97.47,117.22,93.69,85.82,2022,1
+9,Starr is Born,6,Nick,We're Back,13,Nate,98.33,73.14,100.23,102.96,2022,0
+10,Starr is Born,6,Nick,SuperCam That Ho,7,Lauren,101.46,115.16,104.44,86.74,2022,1
+11,Starr is Born,6,Nick,John Brown's Army,4,Eric,108.39,84.78,119.07,151.76,2022,0
+12,Starr is Born,6,Nick,Thunder Crotches,12,Jake,113.05,105.9,107.09,89.62,2022,1
+13,Starr is Born,6,Nick,Saquon These Nuts,5,Frags,105.84,85.58,110.73,90.64,2022,0
+14,Starr is Born,6,Nick,The Twelve Apostles,10,unknown,100.78,87.64,110.09,123.88,2022,0
+15,Starr is Born,6,Nick,The Scientist,9,Kyle,114.03,105.64,104.45,118.72,2022,0
+16,Starr is Born,6,Nick,The Ice Cold Bruschi,1,Ricky,107.85,121.22,106.41,119.88,2022,1
+1,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,112.59,120.86,121.92,112.52,2022,1
+2,SuperCam That Ho,7,Lauren,The Scientist,9,Kyle,111.34,124.26,108.42,82.98,2022,1
+3,SuperCam That Ho,7,Lauren,John Brown's Army,4,Eric,106.38,94.56,115.17,149.42,2022,0
+4,SuperCam That Ho,7,Lauren,Jadeveon's Hit Men,3,Tim,106.17,104.3,114.71,91.16,2022,1
+5,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,98.1,108.62,110.74,138.98,2022,0
+6,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,94.12,70.52,115.47,134.76,2022,0
+7,SuperCam That Ho,7,Lauren,Saquon These Nuts,5,Frags,104.27,121.72,103.23,76.2,2022,1
+8,SuperCam That Ho,7,Lauren,who invited canada,14,Peter,114.64,145.42,119.7,118.08,2022,1
+9,SuperCam That Ho,7,Lauren,Thunder Crotches,12,Jake,99.88,66.1,98.42,61.0,2022,1
+10,SuperCam That Ho,7,Lauren,Starr is Born,6,Nick,104.44,86.74,101.46,115.16,2022,0
+11,SuperCam That Ho,7,Lauren,The Twelve Apostles,10,unknown,102.83,101.3,106.15,127.06,2022,0
+12,SuperCam That Ho,7,Lauren,The Ice Cold Bruschi,1,Ricky,104.23,143.96,115.94,91.14,2022,1
+13,SuperCam That Ho,7,Lauren,We're Back,13,Nate,108.55,98.5,110.95,124.7,2022,0
+14,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,114.7,112.48,105.34,85.16,2022,1
+15,SuperCam That Ho,7,Lauren,The Twelve Apostles,10,unknown,108.35,91.92,115.32,111.1,2022,0
+16,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,100.48,74.4,111.57,107.5,2022,0
+1,The fishingtons,8,Buddy,who invited canada,14,Peter,120.97,70.22,117.55,124.2,2022,0
+2,The fishingtons,8,Buddy,Starr is Born,6,Nick,112.77,106.46,95.68,78.06,2022,1
+3,The fishingtons,8,Buddy,The Twelve Apostles,10,unknown,114.07,89.7,114.17,97.6,2022,0
+4,The fishingtons,8,Buddy,Saquon These Nuts,5,Frags,113.69,134.08,100.27,118.4,2022,1
+5,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,110.74,138.98,98.1,108.62,2022,1
+6,The fishingtons,8,Buddy,Thug Bungalow,11,Michael,112.17,97.0,119.36,94.08,2022,1
+7,The fishingtons,8,Buddy,We're Back,13,Nate,104.09,133.54,103.38,98.04,2022,1
+8,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,96.76,77.78,109.07,136.78,2022,0
+9,The fishingtons,8,Buddy,John Brown's Army,4,Eric,103.49,108.44,119.89,155.32,2022,0
+10,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,97.62,100.4,103.21,83.1,2022,1
+11,The fishingtons,8,Buddy,The Scientist,9,Kyle,105.31,144.3,94.78,87.86,2022,1
+12,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,117.23,133.3,110.7,97.7,2022,1
+13,The fishingtons,8,Buddy,Thunder Crotches,12,Jake,117.12,138.24,99.81,70.5,2022,1
+14,The fishingtons,8,Buddy,who invited canada,14,Peter,123.83,110.56,106.21,117.0,2022,0
+15,The fishingtons,8,Buddy,We're Back,13,Nate,118.32,93.1,111.07,145.54,2022,0
+16,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,111.57,107.5,100.48,74.4,2022,1
+1,The Scientist,9,Kyle,We're Back,13,Nate,115.47,67.9,115.61,110.9,2022,0
+2,The Scientist,9,Kyle,SuperCam That Ho,7,Lauren,108.42,82.98,111.34,124.26,2022,0
+3,The Scientist,9,Kyle,Thunder Crotches,12,Jake,105.13,87.46,104.0,52.34,2022,1
+4,The Scientist,9,Kyle,Thug Bungalow,11,Michael,101.48,107.46,115.43,106.78,2022,1
+5,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,98.37,68.42,121.32,120.68,2022,0
+6,The Scientist,9,Kyle,Starr is Born,6,Nick,100.49,90.82,113.52,106.24,2022,0
+7,The Scientist,9,Kyle,who invited canada,14,Peter,97.71,86.22,115.61,122.24,2022,0
+8,The Scientist,9,Kyle,Immortal Duffmen,2,Pat,100.03,85.84,113.99,95.32,2022,0
+9,The Scientist,9,Kyle,The Ice Cold Bruschi,1,Ricky,86.51,102.0,105.15,97.9,2022,1
+10,The Scientist,9,Kyle,The Twelve Apostles,10,unknown,101.65,112.24,110.28,87.2,2022,1
+11,The Scientist,9,Kyle,The fishingtons,8,Buddy,94.78,87.86,105.31,144.3,2022,0
+12,The Scientist,9,Kyle,Saquon These Nuts,5,Frags,105.88,115.44,110.78,94.14,2022,1
+13,The Scientist,9,Kyle,John Brown's Army,4,Eric,114.62,114.46,127.87,118.04,2022,0
+14,The Scientist,9,Kyle,We're Back,13,Nate,92.07,85.52,106.07,98.68,2022,0
+15,The Scientist,9,Kyle,Starr is Born,6,Nick,104.45,118.72,114.03,105.64,2022,1
+16,The Scientist,9,Kyle,Jadeveon's Hit Men,3,Tim,104.47,128.56,104.68,125.76,2022,1
+17,The Scientist,9,Kyle,Thug Bungalow,11,Michael,107.74,103.28,109.24,69.06,2022,1
+1,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,115.84,115.62,114.15,123.22,2022,0
+2,The Twelve Apostles,10,unknown,Saquon These Nuts,5,Frags,122.66,139.42,110.18,134.0,2022,1
+3,The Twelve Apostles,10,unknown,The fishingtons,8,Buddy,114.17,97.6,114.07,89.7,2022,1
+4,The Twelve Apostles,10,unknown,We're Back,13,Nate,120.32,153.86,110.57,119.58,2022,1
+5,The Twelve Apostles,10,unknown,who invited canada,14,Peter,128.38,118.96,115.66,131.68,2022,0
+6,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,104.73,82.34,112.0,103.22,2022,0
+7,The Twelve Apostles,10,unknown,The Ice Cold Bruschi,1,Ricky,101.37,111.04,104.05,49.38,2022,1
+8,The Twelve Apostles,10,unknown,Thunder Crotches,12,Jake,121.48,134.78,95.39,105.04,2022,1
+9,The Twelve Apostles,10,unknown,Thug Bungalow,11,Michael,125.84,103.04,111.66,138.9,2022,0
+10,The Twelve Apostles,10,unknown,The Scientist,9,Kyle,110.28,87.2,101.65,112.24,2022,0
+11,The Twelve Apostles,10,unknown,SuperCam That Ho,7,Lauren,106.15,127.06,102.83,101.3,2022,1
+12,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,107.69,159.92,126.12,102.86,2022,1
+13,The Twelve Apostles,10,unknown,Immortal Duffmen,2,Pat,122.05,125.64,106.32,83.42,2022,1
+14,The Twelve Apostles,10,unknown,Starr is Born,6,Nick,110.09,123.88,100.78,87.64,2022,1
+15,The Twelve Apostles,10,unknown,SuperCam That Ho,7,Lauren,115.32,111.1,108.35,91.92,2022,1
+16,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,103.32,98.5,115.54,129.4,2022,0
+17,The Twelve Apostles,10,unknown,We're Back,13,Nate,84.43,61.36,88.9,91.88,2022,0
+1,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,121.92,112.52,112.59,120.86,2022,0
+2,Thug Bungalow,11,Michael,Thunder Crotches,12,Jake,123.51,113.88,106.47,113.78,2022,1
+3,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,115.91,103.16,117.47,129.9,2022,0
+4,Thug Bungalow,11,Michael,The Scientist,9,Kyle,115.43,106.78,101.48,107.46,2022,0
+5,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,120.82,94.4,109.77,90.54,2022,1
+6,Thug Bungalow,11,Michael,The fishingtons,8,Buddy,119.36,94.08,112.17,97.0,2022,0
+7,Thug Bungalow,11,Michael,Starr is Born,6,Nick,109.48,84.86,103.95,116.76,2022,0
+8,Thug Bungalow,11,Michael,John Brown's Army,4,Eric,108.83,118.94,118.2,117.92,2022,1
+9,Thug Bungalow,11,Michael,The Twelve Apostles,10,unknown,111.66,138.9,125.84,103.04,2022,1
+10,Thug Bungalow,11,Michael,We're Back,13,Nate,96.45,86.56,114.88,98.14,2022,0
+11,Thug Bungalow,11,Michael,who invited canada,14,Peter,100.72,77.9,123.41,100.42,2022,0
+12,Thug Bungalow,11,Michael,Immortal Duffmen,2,Pat,99.88,80.44,113.32,106.82,2022,0
+13,Thug Bungalow,11,Michael,Jadeveon's Hit Men,3,Tim,91.04,115.14,99.05,111.42,2022,1
+14,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,105.34,85.16,114.7,112.48,2022,0
+15,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,102.55,106.68,115.66,98.24,2022,1
+16,Thug Bungalow,11,Michael,Immortal Duffmen,2,Pat,107.51,110.56,104.7,80.28,2022,1
+17,Thug Bungalow,11,Michael,The Scientist,9,Kyle,109.24,69.06,107.74,103.28,2022,0
+1,Thunder Crotches,12,Jake,Jadeveon's Hit Men,3,Tim,112.07,100.16,115.27,113.0,2022,0
+2,Thunder Crotches,12,Jake,Thug Bungalow,11,Michael,106.47,113.78,123.51,113.88,2022,0
+3,Thunder Crotches,12,Jake,The Scientist,9,Kyle,104.0,52.34,105.13,87.46,2022,0
+4,Thunder Crotches,12,Jake,The Ice Cold Bruschi,1,Ricky,109.03,103.2,113.29,98.32,2022,1
+5,Thunder Crotches,12,Jake,John Brown's Army,4,Eric,102.5,71.36,119.84,126.76,2022,0
+6,Thunder Crotches,12,Jake,We're Back,13,Nate,98.46,62.06,96.39,109.42,2022,0
+7,Thunder Crotches,12,Jake,Immortal Duffmen,2,Pat,92.28,151.68,102.52,90.78,2022,1
+8,Thunder Crotches,12,Jake,The Twelve Apostles,10,unknown,95.39,105.04,121.48,134.78,2022,0
+9,Thunder Crotches,12,Jake,SuperCam That Ho,7,Lauren,98.42,61.0,99.88,66.1,2022,0
+10,Thunder Crotches,12,Jake,who invited canada,14,Peter,101.56,89.88,122.81,143.78,2022,0
+11,Thunder Crotches,12,Jake,Saquon These Nuts,5,Frags,93.99,103.34,41.59,38.8,2022,1
+12,Thunder Crotches,12,Jake,Starr is Born,6,Nick,107.09,89.62,113.05,105.9,2022,0
+13,Thunder Crotches,12,Jake,The fishingtons,8,Buddy,99.81,70.5,117.12,138.24,2022,0
+14,Thunder Crotches,12,Jake,Jadeveon's Hit Men,3,Tim,94.86,75.82,112.01,104.68,2022,0
+1,We're Back,13,Nate,The Scientist,9,Kyle,115.61,110.9,115.47,67.9,2022,1
+2,We're Back,13,Nate,John Brown's Army,4,Eric,116.66,106.36,117.62,152.02,2022,0
+3,We're Back,13,Nate,Jadeveon's Hit Men,3,Tim,114.78,92.86,111.77,109.98,2022,0
+4,We're Back,13,Nate,The Twelve Apostles,10,unknown,110.57,119.58,120.32,153.86,2022,0
+5,We're Back,13,Nate,Immortal Duffmen,2,Pat,107.03,112.16,105.91,103.46,2022,1
+6,We're Back,13,Nate,Thunder Crotches,12,Jake,96.39,109.42,98.46,62.06,2022,1
+7,We're Back,13,Nate,The fishingtons,8,Buddy,103.38,98.04,104.09,133.54,2022,0
+8,We're Back,13,Nate,Saquon These Nuts,5,Frags,114.79,144.64,92.02,117.56,2022,1
+9,We're Back,13,Nate,Starr is Born,6,Nick,100.23,102.96,98.33,73.14,2022,1
+10,We're Back,13,Nate,Thug Bungalow,11,Michael,114.88,98.14,96.45,86.56,2022,1
+11,We're Back,13,Nate,The Ice Cold Bruschi,1,Ricky,107.87,123.28,101.9,105.9,2022,1
+12,We're Back,13,Nate,who invited canada,14,Peter,114.17,92.9,120.37,107.5,2022,0
+13,We're Back,13,Nate,SuperCam That Ho,7,Lauren,110.95,124.7,108.55,98.5,2022,1
+14,We're Back,13,Nate,The Scientist,9,Kyle,106.07,98.68,92.07,85.52,2022,1
+15,We're Back,13,Nate,The fishingtons,8,Buddy,111.07,145.54,118.32,93.1,2022,1
+16,We're Back,13,Nate,who invited canada,14,Peter,111.95,76.86,114.58,135.56,2022,0
+17,We're Back,13,Nate,The Twelve Apostles,10,unknown,88.9,91.88,84.43,61.36,2022,1
+1,who invited canada,14,Peter,The fishingtons,8,Buddy,117.55,124.2,120.97,70.22,2022,1
+2,who invited canada,14,Peter,Immortal Duffmen,2,Pat,115.97,99.58,117.03,94.48,2022,1
+3,who invited canada,14,Peter,Saquon These Nuts,5,Frags,113.14,114.92,106.68,92.84,2022,1
+4,who invited canada,14,Peter,Starr is Born,6,Nick,114.61,125.52,97.97,70.94,2022,1
+5,who invited canada,14,Peter,The Twelve Apostles,10,unknown,115.66,131.68,128.38,118.96,2022,1
+6,who invited canada,14,Peter,John Brown's Army,4,Eric,116.26,127.3,107.63,114.6,2022,1
+7,who invited canada,14,Peter,The Scientist,9,Kyle,115.61,122.24,97.71,86.22,2022,1
+8,who invited canada,14,Peter,SuperCam That Ho,7,Lauren,119.7,118.08,114.64,145.42,2022,0
+9,who invited canada,14,Peter,Jadeveon's Hit Men,3,Tim,110.29,112.88,95.63,101.44,2022,1
+10,who invited canada,14,Peter,Thunder Crotches,12,Jake,122.81,143.78,101.56,89.88,2022,1
+11,who invited canada,14,Peter,Thug Bungalow,11,Michael,123.41,100.42,100.72,77.9,2022,1
+12,who invited canada,14,Peter,We're Back,13,Nate,120.37,107.5,114.17,92.9,2022,1
+13,who invited canada,14,Peter,The Ice Cold Bruschi,1,Ricky,118.39,126.86,104.28,106.6,2022,1
+14,who invited canada,14,Peter,The fishingtons,8,Buddy,106.21,117.0,123.83,110.56,2022,1
+16,who invited canada,14,Peter,We're Back,13,Nate,114.58,135.56,111.95,76.86,2022,1
+17,who invited canada,14,Peter,John Brown's Army,4,Eric,120.93,83.1,122.24,143.9,2022,0
+1,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,10,unknown,103.47,118.26,106.13,93.84,2023,1
+2,The Ice Cold Bruschi,1,Ricky,Thug Bungalow,11,Michael,104.85,110.6,104.0,71.66,2023,1
+3,The Ice Cold Bruschi,1,Ricky,Gibbs Me A Break,9,Kyle,111.99,123.8,96.87,94.0,2023,1
+4,The Ice Cold Bruschi,1,Ricky,who invited canada,14,Peter,111.66,165.08,104.3,95.9,2023,1
+5,The Ice Cold Bruschi,1,Ricky,John Brown's Army,4,Eric,113.58,119.04,93.37,104.46,2023,1
+6,The Ice Cold Bruschi,1,Ricky,The fishingtons,8,Buddy,120.3,110.68,103.53,115.5,2023,0
+7,The Ice Cold Bruschi,1,Ricky,Wereback,13,Nate,113.32,106.16,75.25,92.16,2023,1
+8,The Ice Cold Bruschi,1,Ricky,Starr is Born,6,Nick,120.29,114.62,119.7,141.82,2023,0
+9,The Ice Cold Bruschi,1,Ricky,Saquon These Nuts,5,Frags,109.17,97.44,78.15,87.46,2023,1
+10,The Ice Cold Bruschi,1,Ricky,Jadeveon's Hit Men,3,Tim,107.64,125.02,97.84,139.56,2023,0
+11,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,7,Lauren,108.13,91.1,104.35,135.06,2023,0
+12,The Ice Cold Bruschi,1,Ricky,Thunder Crotches,12,Jake,110.45,103.68,99.21,115.16,2023,0
+13,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,103.63,118.68,81.98,67.0,2023,1
+14,The Ice Cold Bruschi,1,Ricky,The Twelve Apostles,10,unknown,114.07,76.34,102.04,146.6,2023,0
+15,The Ice Cold Bruschi,1,Ricky,SuperCam That Ho,7,Lauren,113.57,136.52,98.57,114.84,2023,1
+16,The Ice Cold Bruschi,1,Ricky,Immortal Duffmen,2,Pat,112.65,0.0,96.55,0.0,2023,0
+1,Immortal Duffmen,2,Pat,Thunder Crotches,12,Jake,107.58,131.44,107.81,76.7,2023,1
+2,Immortal Duffmen,2,Pat,The Twelve Apostles,10,unknown,112.57,111.86,103.06,95.0,2023,1
+3,Immortal Duffmen,2,Pat,Thug Bungalow,11,Michael,112.6,101.32,102.07,132.16,2023,0
+4,Immortal Duffmen,2,Pat,Gibbs Me A Break,9,Kyle,108.47,137.8,95.08,83.42,2023,1
+5,Immortal Duffmen,2,Pat,who invited canada,14,Peter,96.23,98.86,98.0,69.52,2023,1
+6,Immortal Duffmen,2,Pat,John Brown's Army,4,Eric,107.95,81.86,103.6,83.42,2023,0
+7,Immortal Duffmen,2,Pat,The fishingtons,8,Buddy,101.42,141.1,104.52,106.06,2023,1
+8,Immortal Duffmen,2,Pat,Wereback,13,Nate,107.43,121.16,101.6,110.26,2023,1
+9,Immortal Duffmen,2,Pat,Starr is Born,6,Nick,99.04,89.62,103.27,107.52,2023,0
+10,Immortal Duffmen,2,Pat,Saquon These Nuts,5,Frags,95.96,109.18,91.55,80.46,2023,1
+11,Immortal Duffmen,2,Pat,Jadeveon's Hit Men,3,Tim,101.28,122.0,109.84,112.68,2023,1
+12,Immortal Duffmen,2,Pat,SuperCam That Ho,7,Lauren,102.07,129.06,104.97,108.98,2023,1
+13,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,81.98,67.0,103.63,118.68,2023,0
+14,Immortal Duffmen,2,Pat,Thunder Crotches,12,Jake,98.26,99.02,105.73,121.86,2023,0
+16,Immortal Duffmen,2,Pat,The Ice Cold Bruschi,1,Ricky,96.55,0.0,112.65,0.0,2023,0
+1,Jadeveon's Hit Men,3,Tim,Gibbs Me A Break,9,Kyle,111.97,116.44,106.07,81.26,2023,1
+2,Jadeveon's Hit Men,3,Tim,who invited canada,14,Peter,103.0,94.9,109.15,155.04,2023,0
+3,Jadeveon's Hit Men,3,Tim,John Brown's Army,4,Eric,105.89,117.38,108.69,124.76,2023,0
+4,Jadeveon's Hit Men,3,Tim,The fishingtons,8,Buddy,100.06,90.92,105.72,79.26,2023,1
+5,Jadeveon's Hit Men,3,Tim,Wereback,13,Nate,94.94,156.64,92.01,122.74,2023,1
+6,Jadeveon's Hit Men,3,Tim,Starr is Born,6,Nick,107.19,92.14,116.69,124.2,2023,0
+7,Jadeveon's Hit Men,3,Tim,Saquon These Nuts,5,Frags,102.59,111.56,90.51,103.44,2023,1
+8,Jadeveon's Hit Men,3,Tim,Thunder Crotches,12,Jake,104.28,95.2,94.06,115.08,2023,0
+9,Jadeveon's Hit Men,3,Tim,SuperCam That Ho,7,Lauren,94.7,64.9,99.31,84.78,2023,0
+10,Jadeveon's Hit Men,3,Tim,The Ice Cold Bruschi,1,Ricky,97.84,139.56,107.64,125.02,2023,1
+11,Jadeveon's Hit Men,3,Tim,Immortal Duffmen,2,Pat,109.84,112.68,101.28,122.0,2023,0
+12,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,104.15,133.92,101.15,125.64,2023,1
+13,Jadeveon's Hit Men,3,Tim,Thug Bungalow,11,Michael,97.42,99.9,108.31,128.2,2023,0
+14,Jadeveon's Hit Men,3,Tim,Gibbs Me A Break,9,Kyle,99.21,104.14,106.6,145.22,2023,0
+15,Jadeveon's Hit Men,3,Tim,who invited canada,14,Peter,105.79,113.7,109.63,63.28,2023,1
+16,Jadeveon's Hit Men,3,Tim,The Twelve Apostles,10,unknown,102.66,0.0,95.59,0.0,2023,0
+1,John Brown's Army,4,Eric,Starr is Born,6,Nick,106.49,97.04,102.1,92.98,2023,1
+2,John Brown's Army,4,Eric,Saquon These Nuts,5,Frags,103.86,107.54,109.04,86.5,2023,1
+3,John Brown's Army,4,Eric,Jadeveon's Hit Men,3,Tim,108.69,124.76,105.89,117.38,2023,1
+4,John Brown's Army,4,Eric,SuperCam That Ho,7,Lauren,98.37,96.9,107.7,125.14,2023,0
+5,John Brown's Army,4,Eric,The Ice Cold Bruschi,1,Ricky,93.37,104.46,113.58,119.04,2023,0
+6,John Brown's Army,4,Eric,Immortal Duffmen,2,Pat,103.6,83.42,107.95,81.86,2023,1
+7,John Brown's Army,4,Eric,The Twelve Apostles,10,unknown,95.1,94.34,85.96,78.56,2023,1
+8,John Brown's Army,4,Eric,Thug Bungalow,11,Michael,97.75,104.6,116.42,130.76,2023,0
+9,John Brown's Army,4,Eric,Gibbs Me A Break,9,Kyle,82.65,98.3,87.48,98.9,2023,0
+10,John Brown's Army,4,Eric,who invited canada,14,Peter,96.22,117.44,103.95,151.18,2023,0
+11,John Brown's Army,4,Eric,Thunder Crotches,12,Jake,94.27,100.14,88.24,88.54,2023,1
+12,John Brown's Army,4,Eric,The fishingtons,8,Buddy,105.0,147.56,103.61,137.5,2023,1
+13,John Brown's Army,4,Eric,Wereback,13,Nate,87.48,100.56,96.2,158.26,2023,0
+14,John Brown's Army,4,Eric,Starr is Born,6,Nick,103.27,75.34,106.27,99.42,2023,0
+15,John Brown's Army,4,Eric,Wereback,13,Nate,97.55,125.84,104.03,96.62,2023,1
+16,John Brown's Army,4,Eric,Thunder Crotches,12,Jake,99.49,0.0,105.33,0.0,2023,0
+1,Saquon These Nuts,5,Frags,who invited canada,14,Peter,107.85,73.92,111.39,91.02,2023,0
+2,Saquon These Nuts,5,Frags,John Brown's Army,4,Eric,109.04,86.5,103.86,107.54,2023,0
+3,Saquon These Nuts,5,Frags,The fishingtons,8,Buddy,89.94,61.66,108.77,105.38,2023,0
+4,Saquon These Nuts,5,Frags,Wereback,13,Nate,95.98,68.04,106.44,93.32,2023,0
+5,Saquon These Nuts,5,Frags,Starr is Born,6,Nick,93.17,94.22,115.68,137.28,2023,0
+6,Saquon These Nuts,5,Frags,Thunder Crotches,12,Jake,88.69,89.84,89.83,63.94,2023,1
+7,Saquon These Nuts,5,Frags,Jadeveon's Hit Men,3,Tim,90.51,103.44,102.59,111.56,2023,0
+8,Saquon These Nuts,5,Frags,SuperCam That Ho,7,Lauren,97.8,123.26,109.31,77.28,2023,1
+9,Saquon These Nuts,5,Frags,The Ice Cold Bruschi,1,Ricky,78.15,87.46,109.17,97.44,2023,0
+10,Saquon These Nuts,5,Frags,Immortal Duffmen,2,Pat,91.55,80.46,95.96,109.18,2023,0
+11,Saquon These Nuts,5,Frags,The Twelve Apostles,10,unknown,85.96,86.46,101.81,109.86,2023,0
+12,Saquon These Nuts,5,Frags,Thug Bungalow,11,Michael,99.28,95.44,113.64,83.22,2023,1
+13,Saquon These Nuts,5,Frags,Gibbs Me A Break,9,Kyle,95.79,101.66,111.41,112.86,2023,0
+14,Saquon These Nuts,5,Frags,who invited canada,14,Peter,80.43,79.74,103.51,126.1,2023,0
+1,Starr is Born,6,Nick,John Brown's Army,4,Eric,102.1,92.98,106.49,97.04,2023,0
+2,Starr is Born,6,Nick,The fishingtons,8,Buddy,111.24,126.38,108.15,89.22,2023,1
+3,Starr is Born,6,Nick,Wereback,13,Nate,99.23,80.86,105.86,119.36,2023,0
+4,Starr is Born,6,Nick,Thunder Crotches,12,Jake,113.59,118.8,105.88,115.04,2023,1
+5,Starr is Born,6,Nick,Saquon These Nuts,5,Frags,115.68,137.28,93.17,94.22,2023,1
+6,Starr is Born,6,Nick,Jadeveon's Hit Men,3,Tim,116.69,124.2,107.19,92.14,2023,1
+7,Starr is Born,6,Nick,SuperCam That Ho,7,Lauren,99.48,133.22,91.67,86.98,2023,1
+8,Starr is Born,6,Nick,The Ice Cold Bruschi,1,Ricky,119.7,141.82,120.29,114.62,2023,1
+9,Starr is Born,6,Nick,Immortal Duffmen,2,Pat,103.27,107.52,99.04,89.62,2023,1
+10,Starr is Born,6,Nick,The Twelve Apostles,10,unknown,118.25,105.08,110.21,78.1,2023,1
+11,Starr is Born,6,Nick,Thug Bungalow,11,Michael,110.68,102.34,112.52,70.0,2023,1
+12,Starr is Born,6,Nick,Gibbs Me A Break,9,Kyle,104.44,109.52,115.83,122.86,2023,0
+13,Starr is Born,6,Nick,who invited canada,14,Peter,103.41,112.18,102.33,69.68,2023,1
+14,Starr is Born,6,Nick,John Brown's Army,4,Eric,106.27,99.42,103.27,75.34,2023,1
+16,Starr is Born,6,Nick,Thug Bungalow,11,Michael,103.9,0.0,112.28,0.2,2023,0
+1,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,107.2,103.36,101.23,83.24,2023,1
+2,SuperCam That Ho,7,Lauren,Gibbs Me A Break,9,Kyle,110.78,131.18,85.87,108.04,2023,1
+3,SuperCam That Ho,7,Lauren,who invited canada,14,Peter,111.74,159.38,106.5,127.7,2023,1
+4,SuperCam That Ho,7,Lauren,John Brown's Army,4,Eric,107.7,125.14,98.37,96.9,2023,1
+5,SuperCam That Ho,7,Lauren,The fishingtons,8,Buddy,104.05,75.94,97.14,131.62,2023,0
+6,SuperCam That Ho,7,Lauren,Wereback,13,Nate,111.75,104.62,94.6,84.9,2023,1
+7,SuperCam That Ho,7,Lauren,Starr is Born,6,Nick,91.67,86.98,99.48,133.22,2023,0
+8,SuperCam That Ho,7,Lauren,Saquon These Nuts,5,Frags,109.31,77.28,97.8,123.26,2023,0
+9,SuperCam That Ho,7,Lauren,Jadeveon's Hit Men,3,Tim,99.31,84.78,94.7,64.9,2023,1
+10,SuperCam That Ho,7,Lauren,Thunder Crotches,12,Jake,97.5,109.12,94.62,125.32,2023,0
+11,SuperCam That Ho,7,Lauren,The Ice Cold Bruschi,1,Ricky,104.35,135.06,108.13,91.1,2023,1
+12,SuperCam That Ho,7,Lauren,Immortal Duffmen,2,Pat,104.97,108.98,102.07,129.06,2023,0
+13,SuperCam That Ho,7,Lauren,The Twelve Apostles,10,unknown,89.24,119.02,104.97,123.82,2023,0
+14,SuperCam That Ho,7,Lauren,Thug Bungalow,11,Michael,109.39,111.64,112.45,94.9,2023,1
+15,SuperCam That Ho,7,Lauren,The Ice Cold Bruschi,1,Ricky,98.57,114.84,113.57,136.52,2023,0
+16,SuperCam That Ho,7,Lauren,Gibbs Me A Break,9,Kyle,105.75,0.0,107.09,0.0,2023,0
+1,The fishingtons,8,Buddy,Wereback,13,Nate,91.86,73.7,114.73,111.96,2023,0
+2,The fishingtons,8,Buddy,Starr is Born,6,Nick,108.15,89.22,111.24,126.38,2023,0
+3,The fishingtons,8,Buddy,Saquon These Nuts,5,Frags,108.77,105.38,89.94,61.66,2023,1
+4,The fishingtons,8,Buddy,Jadeveon's Hit Men,3,Tim,105.72,79.26,100.06,90.92,2023,0
+5,The fishingtons,8,Buddy,SuperCam That Ho,7,Lauren,97.14,131.62,104.05,75.94,2023,1
+6,The fishingtons,8,Buddy,The Ice Cold Bruschi,1,Ricky,103.53,115.5,120.3,110.68,2023,1
+7,The fishingtons,8,Buddy,Immortal Duffmen,2,Pat,104.52,106.06,101.42,141.1,2023,0
+8,The fishingtons,8,Buddy,The Twelve Apostles,10,unknown,101.24,89.86,106.65,138.28,2023,0
+9,The fishingtons,8,Buddy,Thug Bungalow,11,Michael,101.71,65.38,109.96,131.22,2023,0
+10,The fishingtons,8,Buddy,Gibbs Me A Break,9,Kyle,90.59,96.02,104.07,114.64,2023,0
+11,The fishingtons,8,Buddy,who invited canada,14,Peter,97.44,109.1,110.37,129.84,2023,0
+12,The fishingtons,8,Buddy,John Brown's Army,4,Eric,103.61,137.5,105.0,147.56,2023,0
+13,The fishingtons,8,Buddy,Thunder Crotches,12,Jake,109.67,120.72,98.42,133.58,2023,0
+14,The fishingtons,8,Buddy,Wereback,13,Nate,103.54,103.48,89.24,74.36,2023,1
+1,Gibbs Me A Break,9,Kyle,Jadeveon's Hit Men,3,Tim,106.07,81.26,111.97,116.44,2023,0
+2,Gibbs Me A Break,9,Kyle,SuperCam That Ho,7,Lauren,85.87,108.04,110.78,131.18,2023,0
+3,Gibbs Me A Break,9,Kyle,The Ice Cold Bruschi,1,Ricky,96.87,94.0,111.99,123.8,2023,0
+4,Gibbs Me A Break,9,Kyle,Immortal Duffmen,2,Pat,95.08,83.42,108.47,137.8,2023,0
+5,Gibbs Me A Break,9,Kyle,The Twelve Apostles,10,unknown,90.41,111.56,97.44,99.62,2023,1
+6,Gibbs Me A Break,9,Kyle,Thug Bungalow,11,Michael,99.84,84.6,118.65,117.18,2023,0
+7,Gibbs Me A Break,9,Kyle,Thunder Crotches,12,Jake,105.84,107.78,78.2,81.7,2023,1
+8,Gibbs Me A Break,9,Kyle,who invited canada,14,Peter,113.14,128.9,114.75,124.36,2023,1
+9,Gibbs Me A Break,9,Kyle,John Brown's Army,4,Eric,87.48,98.9,82.65,98.3,2023,1
+10,Gibbs Me A Break,9,Kyle,The fishingtons,8,Buddy,104.07,114.64,90.59,96.02,2023,1
+11,Gibbs Me A Break,9,Kyle,Wereback,13,Nate,107.95,107.32,105.89,97.56,2023,1
+12,Gibbs Me A Break,9,Kyle,Starr is Born,6,Nick,115.83,122.86,104.44,109.52,2023,1
+13,Gibbs Me A Break,9,Kyle,Saquon These Nuts,5,Frags,111.41,112.86,95.79,101.66,2023,1
+14,Gibbs Me A Break,9,Kyle,Jadeveon's Hit Men,3,Tim,106.6,145.22,99.21,104.14,2023,1
+15,Gibbs Me A Break,9,Kyle,Thug Bungalow,11,Michael,109.96,118.78,116.04,125.36,2023,0
+16,Gibbs Me A Break,9,Kyle,SuperCam That Ho,7,Lauren,107.09,0.0,105.75,0.0,2023,0
+1,The Twelve Apostles,10,unknown,The Ice Cold Bruschi,1,Ricky,106.13,93.84,103.47,118.26,2023,0
+2,The Twelve Apostles,10,unknown,Immortal Duffmen,2,Pat,103.06,95.0,112.57,111.86,2023,0
+3,The Twelve Apostles,10,unknown,Thunder Crotches,12,Jake,103.68,123.36,104.15,110.96,2023,1
+4,The Twelve Apostles,10,unknown,Thug Bungalow,11,Michael,103.09,97.96,103.2,126.68,2023,0
+5,The Twelve Apostles,10,unknown,Gibbs Me A Break,9,Kyle,97.44,99.62,90.41,111.56,2023,0
+6,The Twelve Apostles,10,unknown,who invited canada,14,Peter,115.37,136.04,112.07,111.0,2023,1
+7,The Twelve Apostles,10,unknown,John Brown's Army,4,Eric,85.96,78.56,95.1,94.34,2023,0
+8,The Twelve Apostles,10,unknown,The fishingtons,8,Buddy,106.65,138.28,101.24,89.86,2023,1
+9,The Twelve Apostles,10,unknown,Wereback,13,Nate,96.1,126.34,100.6,98.76,2023,1
+10,The Twelve Apostles,10,unknown,Starr is Born,6,Nick,110.21,78.1,118.25,105.08,2023,0
+11,The Twelve Apostles,10,unknown,Saquon These Nuts,5,Frags,101.81,109.86,85.96,86.46,2023,1
+12,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,101.15,125.64,104.15,133.92,2023,0
+13,The Twelve Apostles,10,unknown,SuperCam That Ho,7,Lauren,104.97,123.82,89.24,119.02,2023,1
+14,The Twelve Apostles,10,unknown,The Ice Cold Bruschi,1,Ricky,102.04,146.6,114.07,76.34,2023,1
+16,The Twelve Apostles,10,unknown,Jadeveon's Hit Men,3,Tim,95.59,0.0,102.66,0.0,2023,0
+1,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,101.23,83.24,107.2,103.36,2023,0
+2,Thug Bungalow,11,Michael,The Ice Cold Bruschi,1,Ricky,104.0,71.66,104.85,110.6,2023,0
+3,Thug Bungalow,11,Michael,Immortal Duffmen,2,Pat,102.07,132.16,112.6,101.32,2023,1
+4,Thug Bungalow,11,Michael,The Twelve Apostles,10,unknown,103.2,126.68,103.09,97.96,2023,1
+5,Thug Bungalow,11,Michael,Thunder Crotches,12,Jake,113.87,127.02,109.54,89.28,2023,1
+6,Thug Bungalow,11,Michael,Gibbs Me A Break,9,Kyle,118.65,117.18,99.84,84.6,2023,1
+7,Thug Bungalow,11,Michael,who invited canada,14,Peter,113.28,111.84,106.86,102.8,2023,1
+8,Thug Bungalow,11,Michael,John Brown's Army,4,Eric,116.42,130.76,97.75,104.6,2023,1
+9,Thug Bungalow,11,Michael,The fishingtons,8,Buddy,109.96,131.22,101.71,65.38,2023,1
+10,Thug Bungalow,11,Michael,Wereback,13,Nate,97.03,82.1,106.6,116.82,2023,0
+11,Thug Bungalow,11,Michael,Starr is Born,6,Nick,112.52,70.0,110.68,102.34,2023,0
+12,Thug Bungalow,11,Michael,Saquon These Nuts,5,Frags,113.64,83.22,99.28,95.44,2023,0
+13,Thug Bungalow,11,Michael,Jadeveon's Hit Men,3,Tim,108.31,128.2,97.42,99.9,2023,1
+14,Thug Bungalow,11,Michael,SuperCam That Ho,7,Lauren,112.45,94.9,109.39,111.64,2023,0
+15,Thug Bungalow,11,Michael,Gibbs Me A Break,9,Kyle,116.04,125.36,109.96,118.78,2023,1
+16,Thug Bungalow,11,Michael,Starr is Born,6,Nick,112.28,0.2,103.9,0.0,2023,1
+1,Thunder Crotches,12,Jake,Immortal Duffmen,2,Pat,107.81,76.7,107.58,131.44,2023,0
+2,Thunder Crotches,12,Jake,Wereback,13,Nate,106.89,109.64,103.53,75.7,2023,1
+3,Thunder Crotches,12,Jake,The Twelve Apostles,10,unknown,104.15,110.96,103.68,123.36,2023,0
+4,Thunder Crotches,12,Jake,Starr is Born,6,Nick,105.88,115.04,113.59,118.8,2023,0
+5,Thunder Crotches,12,Jake,Thug Bungalow,11,Michael,109.54,89.28,113.87,127.02,2023,0
+6,Thunder Crotches,12,Jake,Saquon These Nuts,5,Frags,89.83,63.94,88.69,89.84,2023,0
+7,Thunder Crotches,12,Jake,Gibbs Me A Break,9,Kyle,78.2,81.7,105.84,107.78,2023,0
+8,Thunder Crotches,12,Jake,Jadeveon's Hit Men,3,Tim,94.06,115.08,104.28,95.2,2023,1
+9,Thunder Crotches,12,Jake,who invited canada,14,Peter,92.96,129.6,97.85,88.88,2023,1
+10,Thunder Crotches,12,Jake,SuperCam That Ho,7,Lauren,94.62,125.32,97.5,109.12,2023,1
+11,Thunder Crotches,12,Jake,John Brown's Army,4,Eric,88.24,88.54,94.27,100.14,2023,0
+12,Thunder Crotches,12,Jake,The Ice Cold Bruschi,1,Ricky,99.21,115.16,110.45,103.68,2023,1
+13,Thunder Crotches,12,Jake,The fishingtons,8,Buddy,98.42,133.58,109.67,120.72,2023,1
+14,Thunder Crotches,12,Jake,Immortal Duffmen,2,Pat,105.73,121.86,98.26,99.02,2023,1
+16,Thunder Crotches,12,Jake,John Brown's Army,4,Eric,105.33,1.6,99.49,0.0,2023,1
+1,Wereback,13,Nate,The fishingtons,8,Buddy,114.73,111.96,91.86,73.7,2023,1
+2,Wereback,13,Nate,Thunder Crotches,12,Jake,103.53,75.7,106.89,109.64,2023,0
+3,Wereback,13,Nate,Starr is Born,6,Nick,105.86,119.36,99.23,80.86,2023,1
+4,Wereback,13,Nate,Saquon These Nuts,5,Frags,106.44,93.32,95.98,68.04,2023,1
+5,Wereback,13,Nate,Jadeveon's Hit Men,3,Tim,92.01,122.74,94.94,156.64,2023,0
+6,Wereback,13,Nate,SuperCam That Ho,7,Lauren,94.6,84.9,111.75,104.62,2023,0
+7,Wereback,13,Nate,The Ice Cold Bruschi,1,Ricky,75.25,92.16,113.32,106.16,2023,0
+8,Wereback,13,Nate,Immortal Duffmen,2,Pat,101.6,110.26,107.43,121.16,2023,0
+9,Wereback,13,Nate,The Twelve Apostles,10,unknown,100.6,98.76,96.1,126.34,2023,0
+10,Wereback,13,Nate,Thug Bungalow,11,Michael,106.6,116.82,97.03,82.1,2023,1
+11,Wereback,13,Nate,Gibbs Me A Break,9,Kyle,105.89,97.56,107.95,107.32,2023,0
+12,Wereback,13,Nate,who invited canada,14,Peter,94.75,77.66,117.32,101.6,2023,0
+13,Wereback,13,Nate,John Brown's Army,4,Eric,96.2,158.26,87.48,100.56,2023,1
+14,Wereback,13,Nate,The fishingtons,8,Buddy,89.24,74.36,103.54,103.48,2023,0
+15,Wereback,13,Nate,John Brown's Army,4,Eric,104.03,96.62,97.55,125.84,2023,0
+16,Wereback,13,Nate,who invited canada,14,Peter,84.51,0.0,100.95,0.0,2023,0
+1,who invited canada,14,Peter,Saquon These Nuts,5,Frags,111.39,91.02,107.85,73.92,2023,1
+2,who invited canada,14,Peter,Jadeveon's Hit Men,3,Tim,109.15,155.04,103.0,94.9,2023,1
+3,who invited canada,14,Peter,SuperCam That Ho,7,Lauren,106.5,127.7,111.74,159.38,2023,0
+4,who invited canada,14,Peter,The Ice Cold Bruschi,1,Ricky,104.3,95.9,111.66,165.08,2023,0
+5,who invited canada,14,Peter,Immortal Duffmen,2,Pat,98.0,69.52,96.23,98.86,2023,0
+6,who invited canada,14,Peter,The Twelve Apostles,10,unknown,112.07,111.0,115.37,136.04,2023,0
+7,who invited canada,14,Peter,Thug Bungalow,11,Michael,106.86,102.8,113.28,111.84,2023,0
+8,who invited canada,14,Peter,Gibbs Me A Break,9,Kyle,114.75,124.36,113.14,128.9,2023,0
+9,who invited canada,14,Peter,Thunder Crotches,12,Jake,97.85,88.88,92.96,129.6,2023,0
+10,who invited canada,14,Peter,John Brown's Army,4,Eric,103.95,151.18,96.22,117.44,2023,1
+11,who invited canada,14,Peter,The fishingtons,8,Buddy,110.37,129.84,97.44,109.1,2023,1
+12,who invited canada,14,Peter,Wereback,13,Nate,117.32,101.6,94.75,77.66,2023,1
+13,who invited canada,14,Peter,Starr is Born,6,Nick,102.33,69.68,103.41,112.18,2023,0
+14,who invited canada,14,Peter,Saquon These Nuts,5,Frags,103.51,126.1,80.43,79.74,2023,1
+15,who invited canada,14,Peter,Jadeveon's Hit Men,3,Tim,109.63,63.28,105.79,113.7,2023,0
+16,who invited canada,14,Peter,Wereback,13,Nate,100.95,0.0,84.51,0.0,2023,0

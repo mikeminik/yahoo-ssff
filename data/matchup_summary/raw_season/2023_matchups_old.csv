@@ -1,0 +1,225 @@
+week,team_name,season_id,manager_name,opponent_team_name,opponent_season_id,opponent_name,projected_points_for,points_for,projected_points_against,points_against
+1,b'The Ice Cold Bruschi',1,--hidden--,b'The Twelve Apostles',10,--hidden--,103.47,118.26,106.13,93.84
+2,b'The Ice Cold Bruschi',1,--hidden--,b'Thug Bungalow',11,--hidden--,104.85,110.6,104.0,71.66
+3,b'The Ice Cold Bruschi',1,--hidden--,b'Gibbs Me A Break',9,--hidden--,111.99,123.8,96.87,94.0
+4,b'The Ice Cold Bruschi',1,--hidden--,b'who invited canada',14,--hidden--,111.66,165.08,104.3,95.9
+5,b'The Ice Cold Bruschi',1,--hidden--,"b""John Brown's Army""",4,--hidden--,113.58,119.04,93.37,104.46
+6,b'The Ice Cold Bruschi',1,--hidden--,b'The fishingtons',8,--hidden--,120.3,110.68,103.53,115.5
+7,b'The Ice Cold Bruschi',1,--hidden--,b'Wereback',13,--hidden--,113.32,106.16,75.25,92.16
+8,b'The Ice Cold Bruschi',1,--hidden--,b'Starr is Born',6,--hidden--,120.29,114.62,119.7,141.82
+9,b'The Ice Cold Bruschi',1,--hidden--,b'Saquon These Nuts',5,--hidden--,109.17,97.44,78.15,87.46
+10,b'The Ice Cold Bruschi',1,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,107.64,125.02,97.84,139.56
+11,b'The Ice Cold Bruschi',1,--hidden--,b'SuperCam That Ho',7,--hidden--,108.13,91.1,104.35,135.06
+12,b'The Ice Cold Bruschi',1,--hidden--,b'Thunder Crotches',12,--hidden--,110.45,103.68,99.21,115.16
+13,b'The Ice Cold Bruschi',1,--hidden--,b'Immortal Duffmen',2,--hidden--,103.63,118.68,81.98,67.0
+14,b'The Ice Cold Bruschi',1,--hidden--,b'The Twelve Apostles',10,--hidden--,114.07,76.34,102.04,146.6
+15,b'The Ice Cold Bruschi',1,--hidden--,b'SuperCam That Ho',7,--hidden--,113.57,136.52,98.57,114.84
+16,b'The Ice Cold Bruschi',1,--hidden--,b'Immortal Duffmen',2,--hidden--,113.47,110.48,95.92,100.28
+17,b'The Ice Cold Bruschi',1,--hidden--,b'Thug Bungalow',11,--hidden--,109.59,123.54,107.95,85.68
+1,b'Immortal Duffmen',2,--hidden--,b'Thunder Crotches',12,--hidden--,107.58,131.44,107.81,76.7
+2,b'Immortal Duffmen',2,--hidden--,b'The Twelve Apostles',10,--hidden--,112.57,111.86,103.06,95.0
+3,b'Immortal Duffmen',2,--hidden--,b'Thug Bungalow',11,--hidden--,112.6,101.32,102.07,132.16
+4,b'Immortal Duffmen',2,--hidden--,b'Gibbs Me A Break',9,--hidden--,108.47,137.8,95.08,83.42
+5,b'Immortal Duffmen',2,--hidden--,b'who invited canada',14,--hidden--,96.23,98.86,98.0,69.52
+6,b'Immortal Duffmen',2,--hidden--,"b""John Brown's Army""",4,--hidden--,107.95,81.86,103.6,83.42
+7,b'Immortal Duffmen',2,--hidden--,b'The fishingtons',8,--hidden--,101.42,141.1,104.52,106.06
+8,b'Immortal Duffmen',2,--hidden--,b'Wereback',13,--hidden--,107.43,121.16,101.6,110.26
+9,b'Immortal Duffmen',2,--hidden--,b'Starr is Born',6,--hidden--,99.04,89.62,103.27,107.52
+10,b'Immortal Duffmen',2,--hidden--,b'Saquon These Nuts',5,--hidden--,95.96,109.18,91.55,80.46
+11,b'Immortal Duffmen',2,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,101.28,122.0,109.84,112.68
+12,b'Immortal Duffmen',2,--hidden--,b'SuperCam That Ho',7,--hidden--,102.07,129.06,104.97,108.98
+13,b'Immortal Duffmen',2,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,81.98,67.0,103.63,118.68
+14,b'Immortal Duffmen',2,--hidden--,b'Thunder Crotches',12,--hidden--,98.26,99.02,105.73,121.86
+16,b'Immortal Duffmen',2,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,95.92,100.28,113.47,110.48
+17,b'Immortal Duffmen',2,--hidden--,b'Starr is Born',6,--hidden--,92.16,106.26,100.66,111.24
+1,"b""Jadeveon's Hit Men""",3,--hidden--,b'Gibbs Me A Break',9,--hidden--,111.97,116.44,106.07,81.26
+2,"b""Jadeveon's Hit Men""",3,--hidden--,b'who invited canada',14,--hidden--,103.0,94.9,109.15,155.04
+3,"b""Jadeveon's Hit Men""",3,--hidden--,"b""John Brown's Army""",4,--hidden--,105.89,117.38,108.69,124.76
+4,"b""Jadeveon's Hit Men""",3,--hidden--,b'The fishingtons',8,--hidden--,100.06,90.92,105.72,79.26
+5,"b""Jadeveon's Hit Men""",3,--hidden--,b'Wereback',13,--hidden--,94.94,156.64,92.01,122.74
+6,"b""Jadeveon's Hit Men""",3,--hidden--,b'Starr is Born',6,--hidden--,107.19,92.14,116.69,124.2
+7,"b""Jadeveon's Hit Men""",3,--hidden--,b'Saquon These Nuts',5,--hidden--,102.59,111.56,90.51,103.44
+8,"b""Jadeveon's Hit Men""",3,--hidden--,b'Thunder Crotches',12,--hidden--,104.28,95.2,94.06,115.08
+9,"b""Jadeveon's Hit Men""",3,--hidden--,b'SuperCam That Ho',7,--hidden--,94.7,64.9,99.31,84.78
+10,"b""Jadeveon's Hit Men""",3,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,97.84,139.56,107.64,125.02
+11,"b""Jadeveon's Hit Men""",3,--hidden--,b'Immortal Duffmen',2,--hidden--,109.84,112.68,101.28,122.0
+12,"b""Jadeveon's Hit Men""",3,--hidden--,b'The Twelve Apostles',10,--hidden--,104.15,133.92,101.15,125.64
+13,"b""Jadeveon's Hit Men""",3,--hidden--,b'Thug Bungalow',11,--hidden--,97.42,99.9,108.31,128.2
+14,"b""Jadeveon's Hit Men""",3,--hidden--,b'Gibbs Me A Break',9,--hidden--,99.21,104.14,106.6,145.22
+15,"b""Jadeveon's Hit Men""",3,--hidden--,b'who invited canada',14,--hidden--,105.79,113.7,109.63,63.28
+16,"b""Jadeveon's Hit Men""",3,--hidden--,b'The Twelve Apostles',10,--hidden--,103.17,81.7,97.66,109.52
+17,"b""Jadeveon's Hit Men""",3,--hidden--,"b""John Brown's Army""",4,--hidden--,107.89,134.2,93.68,93.12
+1,"b""John Brown's Army""",4,--hidden--,b'Starr is Born',6,--hidden--,106.49,97.04,102.1,92.98
+2,"b""John Brown's Army""",4,--hidden--,b'Saquon These Nuts',5,--hidden--,103.86,107.54,109.04,86.5
+3,"b""John Brown's Army""",4,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,108.69,124.76,105.89,117.38
+4,"b""John Brown's Army""",4,--hidden--,b'SuperCam That Ho',7,--hidden--,98.37,96.9,107.7,125.14
+5,"b""John Brown's Army""",4,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,93.37,104.46,113.58,119.04
+6,"b""John Brown's Army""",4,--hidden--,b'Immortal Duffmen',2,--hidden--,103.6,83.42,107.95,81.86
+7,"b""John Brown's Army""",4,--hidden--,b'The Twelve Apostles',10,--hidden--,95.1,94.34,85.96,78.56
+8,"b""John Brown's Army""",4,--hidden--,b'Thug Bungalow',11,--hidden--,97.75,104.6,116.42,130.76
+9,"b""John Brown's Army""",4,--hidden--,b'Gibbs Me A Break',9,--hidden--,82.65,98.3,87.48,98.9
+10,"b""John Brown's Army""",4,--hidden--,b'who invited canada',14,--hidden--,96.22,117.44,103.95,151.18
+11,"b""John Brown's Army""",4,--hidden--,b'Thunder Crotches',12,--hidden--,94.27,100.14,88.24,88.54
+12,"b""John Brown's Army""",4,--hidden--,b'The fishingtons',8,--hidden--,105.0,147.56,103.61,137.5
+13,"b""John Brown's Army""",4,--hidden--,b'Wereback',13,--hidden--,87.48,100.56,96.2,158.26
+14,"b""John Brown's Army""",4,--hidden--,b'Starr is Born',6,--hidden--,103.27,75.34,106.27,99.42
+15,"b""John Brown's Army""",4,--hidden--,b'Wereback',13,--hidden--,97.55,125.84,104.03,96.62
+16,"b""John Brown's Army""",4,--hidden--,b'Thunder Crotches',12,--hidden--,102.07,128.6,108.35,131.02
+17,"b""John Brown's Army""",4,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,93.68,93.12,107.89,134.2
+1,b'Saquon These Nuts',5,--hidden--,b'who invited canada',14,--hidden--,107.85,73.92,111.39,91.02
+2,b'Saquon These Nuts',5,--hidden--,"b""John Brown's Army""",4,--hidden--,109.04,86.5,103.86,107.54
+3,b'Saquon These Nuts',5,--hidden--,b'The fishingtons',8,--hidden--,89.94,61.66,108.77,105.38
+4,b'Saquon These Nuts',5,--hidden--,b'Wereback',13,--hidden--,95.98,68.04,106.44,93.32
+5,b'Saquon These Nuts',5,--hidden--,b'Starr is Born',6,--hidden--,93.17,94.22,115.68,137.28
+6,b'Saquon These Nuts',5,--hidden--,b'Thunder Crotches',12,--hidden--,88.69,89.84,89.83,63.94
+7,b'Saquon These Nuts',5,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,90.51,103.44,102.59,111.56
+8,b'Saquon These Nuts',5,--hidden--,b'SuperCam That Ho',7,--hidden--,97.8,123.26,109.31,77.28
+9,b'Saquon These Nuts',5,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,78.15,87.46,109.17,97.44
+10,b'Saquon These Nuts',5,--hidden--,b'Immortal Duffmen',2,--hidden--,91.55,80.46,95.96,109.18
+11,b'Saquon These Nuts',5,--hidden--,b'The Twelve Apostles',10,--hidden--,85.96,86.46,101.81,109.86
+12,b'Saquon These Nuts',5,--hidden--,b'Thug Bungalow',11,--hidden--,99.28,95.44,113.64,83.22
+13,b'Saquon These Nuts',5,--hidden--,b'Gibbs Me A Break',9,--hidden--,95.79,101.66,111.41,112.86
+14,b'Saquon These Nuts',5,--hidden--,b'who invited canada',14,--hidden--,80.43,79.74,103.51,126.1
+1,b'Starr is Born',6,--hidden--,"b""John Brown's Army""",4,--hidden--,102.1,92.98,106.49,97.04
+2,b'Starr is Born',6,--hidden--,b'The fishingtons',8,--hidden--,111.24,126.38,108.15,89.22
+3,b'Starr is Born',6,--hidden--,b'Wereback',13,--hidden--,99.23,80.86,105.86,119.36
+4,b'Starr is Born',6,--hidden--,b'Thunder Crotches',12,--hidden--,113.59,118.8,105.88,115.04
+5,b'Starr is Born',6,--hidden--,b'Saquon These Nuts',5,--hidden--,115.68,137.28,93.17,94.22
+6,b'Starr is Born',6,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,116.69,124.2,107.19,92.14
+7,b'Starr is Born',6,--hidden--,b'SuperCam That Ho',7,--hidden--,99.48,133.22,91.67,86.98
+8,b'Starr is Born',6,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,119.7,141.82,120.29,114.62
+9,b'Starr is Born',6,--hidden--,b'Immortal Duffmen',2,--hidden--,103.27,107.52,99.04,89.62
+10,b'Starr is Born',6,--hidden--,b'The Twelve Apostles',10,--hidden--,118.25,105.08,110.21,78.1
+11,b'Starr is Born',6,--hidden--,b'Thug Bungalow',11,--hidden--,110.68,102.34,112.52,70.0
+12,b'Starr is Born',6,--hidden--,b'Gibbs Me A Break',9,--hidden--,104.44,109.52,115.83,122.86
+13,b'Starr is Born',6,--hidden--,b'who invited canada',14,--hidden--,103.41,112.18,102.33,69.68
+14,b'Starr is Born',6,--hidden--,"b""John Brown's Army""",4,--hidden--,106.27,99.42,103.27,75.34
+16,b'Starr is Born',6,--hidden--,b'Thug Bungalow',11,--hidden--,104.09,101.36,114.36,121.52
+17,b'Starr is Born',6,--hidden--,b'Immortal Duffmen',2,--hidden--,100.66,111.24,92.16,106.26
+1,b'SuperCam That Ho',7,--hidden--,b'Thug Bungalow',11,--hidden--,107.2,103.36,101.23,83.24
+2,b'SuperCam That Ho',7,--hidden--,b'Gibbs Me A Break',9,--hidden--,110.78,131.18,85.87,108.04
+3,b'SuperCam That Ho',7,--hidden--,b'who invited canada',14,--hidden--,111.74,159.38,106.5,127.7
+4,b'SuperCam That Ho',7,--hidden--,"b""John Brown's Army""",4,--hidden--,107.7,125.14,98.37,96.9
+5,b'SuperCam That Ho',7,--hidden--,b'The fishingtons',8,--hidden--,104.05,75.94,97.14,131.62
+6,b'SuperCam That Ho',7,--hidden--,b'Wereback',13,--hidden--,111.75,104.62,94.6,84.9
+7,b'SuperCam That Ho',7,--hidden--,b'Starr is Born',6,--hidden--,91.67,86.98,99.48,133.22
+8,b'SuperCam That Ho',7,--hidden--,b'Saquon These Nuts',5,--hidden--,109.31,77.28,97.8,123.26
+9,b'SuperCam That Ho',7,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,99.31,84.78,94.7,64.9
+10,b'SuperCam That Ho',7,--hidden--,b'Thunder Crotches',12,--hidden--,97.5,109.12,94.62,125.32
+11,b'SuperCam That Ho',7,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,104.35,135.06,108.13,91.1
+12,b'SuperCam That Ho',7,--hidden--,b'Immortal Duffmen',2,--hidden--,104.97,108.98,102.07,129.06
+13,b'SuperCam That Ho',7,--hidden--,b'The Twelve Apostles',10,--hidden--,89.24,119.02,104.97,123.82
+14,b'SuperCam That Ho',7,--hidden--,b'Thug Bungalow',11,--hidden--,109.39,111.64,112.45,94.9
+15,b'SuperCam That Ho',7,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,98.57,114.84,113.57,136.52
+16,b'SuperCam That Ho',7,--hidden--,b'Gibbs Me A Break',9,--hidden--,99.85,92.48,107.38,89.6
+1,b'The fishingtons',8,--hidden--,b'Wereback',13,--hidden--,91.86,73.7,114.73,111.96
+2,b'The fishingtons',8,--hidden--,b'Starr is Born',6,--hidden--,108.15,89.22,111.24,126.38
+3,b'The fishingtons',8,--hidden--,b'Saquon These Nuts',5,--hidden--,108.77,105.38,89.94,61.66
+4,b'The fishingtons',8,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,105.72,79.26,100.06,90.92
+5,b'The fishingtons',8,--hidden--,b'SuperCam That Ho',7,--hidden--,97.14,131.62,104.05,75.94
+6,b'The fishingtons',8,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,103.53,115.5,120.3,110.68
+7,b'The fishingtons',8,--hidden--,b'Immortal Duffmen',2,--hidden--,104.52,106.06,101.42,141.1
+8,b'The fishingtons',8,--hidden--,b'The Twelve Apostles',10,--hidden--,101.24,89.86,106.65,138.28
+9,b'The fishingtons',8,--hidden--,b'Thug Bungalow',11,--hidden--,101.71,65.38,109.96,131.22
+10,b'The fishingtons',8,--hidden--,b'Gibbs Me A Break',9,--hidden--,90.59,96.02,104.07,114.64
+11,b'The fishingtons',8,--hidden--,b'who invited canada',14,--hidden--,97.44,109.1,110.37,129.84
+12,b'The fishingtons',8,--hidden--,"b""John Brown's Army""",4,--hidden--,103.61,137.5,105.0,147.56
+13,b'The fishingtons',8,--hidden--,b'Thunder Crotches',12,--hidden--,109.67,120.72,98.42,133.58
+14,b'The fishingtons',8,--hidden--,b'Wereback',13,--hidden--,103.54,103.48,89.24,74.36
+1,b'Gibbs Me A Break',9,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,106.07,81.26,111.97,116.44
+2,b'Gibbs Me A Break',9,--hidden--,b'SuperCam That Ho',7,--hidden--,85.87,108.04,110.78,131.18
+3,b'Gibbs Me A Break',9,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,96.87,94.0,111.99,123.8
+4,b'Gibbs Me A Break',9,--hidden--,b'Immortal Duffmen',2,--hidden--,95.08,83.42,108.47,137.8
+5,b'Gibbs Me A Break',9,--hidden--,b'The Twelve Apostles',10,--hidden--,90.41,111.56,97.44,99.62
+6,b'Gibbs Me A Break',9,--hidden--,b'Thug Bungalow',11,--hidden--,99.84,84.6,118.65,117.18
+7,b'Gibbs Me A Break',9,--hidden--,b'Thunder Crotches',12,--hidden--,105.84,107.78,78.2,81.7
+8,b'Gibbs Me A Break',9,--hidden--,b'who invited canada',14,--hidden--,113.14,128.9,114.75,124.36
+9,b'Gibbs Me A Break',9,--hidden--,"b""John Brown's Army""",4,--hidden--,87.48,98.9,82.65,98.3
+10,b'Gibbs Me A Break',9,--hidden--,b'The fishingtons',8,--hidden--,104.07,114.64,90.59,96.02
+11,b'Gibbs Me A Break',9,--hidden--,b'Wereback',13,--hidden--,107.95,107.32,105.89,97.56
+12,b'Gibbs Me A Break',9,--hidden--,b'Starr is Born',6,--hidden--,115.83,122.86,104.44,109.52
+13,b'Gibbs Me A Break',9,--hidden--,b'Saquon These Nuts',5,--hidden--,111.41,112.86,95.79,101.66
+14,b'Gibbs Me A Break',9,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,106.6,145.22,99.21,104.14
+15,b'Gibbs Me A Break',9,--hidden--,b'Thug Bungalow',11,--hidden--,109.96,118.78,116.04,125.36
+16,b'Gibbs Me A Break',9,--hidden--,b'SuperCam That Ho',7,--hidden--,107.38,89.6,99.85,92.48
+1,b'The Twelve Apostles',10,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,106.13,93.84,103.47,118.26
+2,b'The Twelve Apostles',10,--hidden--,b'Immortal Duffmen',2,--hidden--,103.06,95.0,112.57,111.86
+3,b'The Twelve Apostles',10,--hidden--,b'Thunder Crotches',12,--hidden--,103.68,123.36,104.15,110.96
+4,b'The Twelve Apostles',10,--hidden--,b'Thug Bungalow',11,--hidden--,103.09,97.96,103.2,126.68
+5,b'The Twelve Apostles',10,--hidden--,b'Gibbs Me A Break',9,--hidden--,97.44,99.62,90.41,111.56
+6,b'The Twelve Apostles',10,--hidden--,b'who invited canada',14,--hidden--,115.37,136.04,112.07,111.0
+7,b'The Twelve Apostles',10,--hidden--,"b""John Brown's Army""",4,--hidden--,85.96,78.56,95.1,94.34
+8,b'The Twelve Apostles',10,--hidden--,b'The fishingtons',8,--hidden--,106.65,138.28,101.24,89.86
+9,b'The Twelve Apostles',10,--hidden--,b'Wereback',13,--hidden--,96.1,126.34,100.6,98.76
+10,b'The Twelve Apostles',10,--hidden--,b'Starr is Born',6,--hidden--,110.21,78.1,118.25,105.08
+11,b'The Twelve Apostles',10,--hidden--,b'Saquon These Nuts',5,--hidden--,101.81,109.86,85.96,86.46
+12,b'The Twelve Apostles',10,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,101.15,125.64,104.15,133.92
+13,b'The Twelve Apostles',10,--hidden--,b'SuperCam That Ho',7,--hidden--,104.97,123.82,89.24,119.02
+14,b'The Twelve Apostles',10,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,102.04,146.6,114.07,76.34
+16,b'The Twelve Apostles',10,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,97.66,109.52,103.17,81.7
+17,b'The Twelve Apostles',10,--hidden--,b'Thunder Crotches',12,--hidden--,87.1,137.02,113.8,101.76
+1,b'Thug Bungalow',11,--hidden--,b'SuperCam That Ho',7,--hidden--,101.23,83.24,107.2,103.36
+2,b'Thug Bungalow',11,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,104.0,71.66,104.85,110.6
+3,b'Thug Bungalow',11,--hidden--,b'Immortal Duffmen',2,--hidden--,102.07,132.16,112.6,101.32
+4,b'Thug Bungalow',11,--hidden--,b'The Twelve Apostles',10,--hidden--,103.2,126.68,103.09,97.96
+5,b'Thug Bungalow',11,--hidden--,b'Thunder Crotches',12,--hidden--,113.87,127.02,109.54,89.28
+6,b'Thug Bungalow',11,--hidden--,b'Gibbs Me A Break',9,--hidden--,118.65,117.18,99.84,84.6
+7,b'Thug Bungalow',11,--hidden--,b'who invited canada',14,--hidden--,113.28,111.84,106.86,102.8
+8,b'Thug Bungalow',11,--hidden--,"b""John Brown's Army""",4,--hidden--,116.42,130.76,97.75,104.6
+9,b'Thug Bungalow',11,--hidden--,b'The fishingtons',8,--hidden--,109.96,131.22,101.71,65.38
+10,b'Thug Bungalow',11,--hidden--,b'Wereback',13,--hidden--,97.03,82.1,106.6,116.82
+11,b'Thug Bungalow',11,--hidden--,b'Starr is Born',6,--hidden--,112.52,70.0,110.68,102.34
+12,b'Thug Bungalow',11,--hidden--,b'Saquon These Nuts',5,--hidden--,113.64,83.22,99.28,95.44
+13,b'Thug Bungalow',11,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,108.31,128.2,97.42,99.9
+14,b'Thug Bungalow',11,--hidden--,b'SuperCam That Ho',7,--hidden--,112.45,94.9,109.39,111.64
+15,b'Thug Bungalow',11,--hidden--,b'Gibbs Me A Break',9,--hidden--,116.04,125.36,109.96,118.78
+16,b'Thug Bungalow',11,--hidden--,b'Starr is Born',6,--hidden--,114.36,121.52,104.09,101.36
+17,b'Thug Bungalow',11,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,107.95,85.68,109.59,123.54
+1,b'Thunder Crotches',12,--hidden--,b'Immortal Duffmen',2,--hidden--,107.81,76.7,107.58,131.44
+2,b'Thunder Crotches',12,--hidden--,b'Wereback',13,--hidden--,106.89,109.64,103.53,75.7
+3,b'Thunder Crotches',12,--hidden--,b'The Twelve Apostles',10,--hidden--,104.15,110.96,103.68,123.36
+4,b'Thunder Crotches',12,--hidden--,b'Starr is Born',6,--hidden--,105.88,115.04,113.59,118.8
+5,b'Thunder Crotches',12,--hidden--,b'Thug Bungalow',11,--hidden--,109.54,89.28,113.87,127.02
+6,b'Thunder Crotches',12,--hidden--,b'Saquon These Nuts',5,--hidden--,89.83,63.94,88.69,89.84
+7,b'Thunder Crotches',12,--hidden--,b'Gibbs Me A Break',9,--hidden--,78.2,81.7,105.84,107.78
+8,b'Thunder Crotches',12,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,94.06,115.08,104.28,95.2
+9,b'Thunder Crotches',12,--hidden--,b'who invited canada',14,--hidden--,92.96,129.6,97.85,88.88
+10,b'Thunder Crotches',12,--hidden--,b'SuperCam That Ho',7,--hidden--,94.62,125.32,97.5,109.12
+11,b'Thunder Crotches',12,--hidden--,"b""John Brown's Army""",4,--hidden--,88.24,88.54,94.27,100.14
+12,b'Thunder Crotches',12,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,99.21,115.16,110.45,103.68
+13,b'Thunder Crotches',12,--hidden--,b'The fishingtons',8,--hidden--,98.42,133.58,109.67,120.72
+14,b'Thunder Crotches',12,--hidden--,b'Immortal Duffmen',2,--hidden--,105.73,121.86,98.26,99.02
+16,b'Thunder Crotches',12,--hidden--,"b""John Brown's Army""",4,--hidden--,108.35,131.02,102.07,128.6
+17,b'Thunder Crotches',12,--hidden--,b'The Twelve Apostles',10,--hidden--,113.8,101.76,87.1,137.02
+1,b'Wereback',13,--hidden--,b'The fishingtons',8,--hidden--,114.73,111.96,91.86,73.7
+2,b'Wereback',13,--hidden--,b'Thunder Crotches',12,--hidden--,103.53,75.7,106.89,109.64
+3,b'Wereback',13,--hidden--,b'Starr is Born',6,--hidden--,105.86,119.36,99.23,80.86
+4,b'Wereback',13,--hidden--,b'Saquon These Nuts',5,--hidden--,106.44,93.32,95.98,68.04
+5,b'Wereback',13,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,92.01,122.74,94.94,156.64
+6,b'Wereback',13,--hidden--,b'SuperCam That Ho',7,--hidden--,94.6,84.9,111.75,104.62
+7,b'Wereback',13,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,75.25,92.16,113.32,106.16
+8,b'Wereback',13,--hidden--,b'Immortal Duffmen',2,--hidden--,101.6,110.26,107.43,121.16
+9,b'Wereback',13,--hidden--,b'The Twelve Apostles',10,--hidden--,100.6,98.76,96.1,126.34
+10,b'Wereback',13,--hidden--,b'Thug Bungalow',11,--hidden--,106.6,116.82,97.03,82.1
+11,b'Wereback',13,--hidden--,b'Gibbs Me A Break',9,--hidden--,105.89,97.56,107.95,107.32
+12,b'Wereback',13,--hidden--,b'who invited canada',14,--hidden--,94.75,77.66,117.32,101.6
+13,b'Wereback',13,--hidden--,"b""John Brown's Army""",4,--hidden--,96.2,158.26,87.48,100.56
+14,b'Wereback',13,--hidden--,b'The fishingtons',8,--hidden--,89.24,74.36,103.54,103.48
+15,b'Wereback',13,--hidden--,"b""John Brown's Army""",4,--hidden--,104.03,96.62,97.55,125.84
+16,b'Wereback',13,--hidden--,b'who invited canada',14,--hidden--,93.21,108.02,91.83,80.24
+1,b'who invited canada',14,--hidden--,b'Saquon These Nuts',5,--hidden--,111.39,91.02,107.85,73.92
+2,b'who invited canada',14,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,109.15,155.04,103.0,94.9
+3,b'who invited canada',14,--hidden--,b'SuperCam That Ho',7,--hidden--,106.5,127.7,111.74,159.38
+4,b'who invited canada',14,--hidden--,b'The Ice Cold Bruschi',1,--hidden--,104.3,95.9,111.66,165.08
+5,b'who invited canada',14,--hidden--,b'Immortal Duffmen',2,--hidden--,98.0,69.52,96.23,98.86
+6,b'who invited canada',14,--hidden--,b'The Twelve Apostles',10,--hidden--,112.07,111.0,115.37,136.04
+7,b'who invited canada',14,--hidden--,b'Thug Bungalow',11,--hidden--,106.86,102.8,113.28,111.84
+8,b'who invited canada',14,--hidden--,b'Gibbs Me A Break',9,--hidden--,114.75,124.36,113.14,128.9
+9,b'who invited canada',14,--hidden--,b'Thunder Crotches',12,--hidden--,97.85,88.88,92.96,129.6
+10,b'who invited canada',14,--hidden--,"b""John Brown's Army""",4,--hidden--,103.95,151.18,96.22,117.44
+11,b'who invited canada',14,--hidden--,b'The fishingtons',8,--hidden--,110.37,129.84,97.44,109.1
+12,b'who invited canada',14,--hidden--,b'Wereback',13,--hidden--,117.32,101.6,94.75,77.66
+13,b'who invited canada',14,--hidden--,b'Starr is Born',6,--hidden--,102.33,69.68,103.41,112.18
+14,b'who invited canada',14,--hidden--,b'Saquon These Nuts',5,--hidden--,103.51,126.1,80.43,79.74
+15,b'who invited canada',14,--hidden--,"b""Jadeveon's Hit Men""",3,--hidden--,109.63,63.28,105.79,113.7
+16,b'who invited canada',14,--hidden--,b'Wereback',13,--hidden--,91.83,80.24,93.21,108.02

@@ -1,0 +1,211 @@
+week,team_name,season_id,manager_name,opponent_team_name,opponent_season_id,opponent_name,projected_points_for,points_for,projected_points_against,points_against,inverse_matchup
+1,b'The Ice Cold Bruschi',1,Ricky,"b""Jadeveon's Hit Men""",3,Tim,105.32,123.8,94.97,100.87,0
+1,"b""Jadeveon's Hit Men""",3,Tim,b'The Ice Cold Bruschi',1,Ricky,94.97,100.87,105.32,123.8,1
+1,b'who invited canada',2,Peter,b'The Dirty Diapers',4,--hidden--,101.61,107.3,101.02,110.17,0
+1,b'The Dirty Diapers',4,--hidden--,b'who invited canada',2,Peter,101.02,110.17,101.61,107.3,1
+1,b'Thug Bungalow',5,Mike,b'Thunder Crotches',7,Jake,103.55,74.4,100.7,126.63,0
+1,b'Thunder Crotches',7,Jake,b'Thug Bungalow',5,Mike,100.7,126.63,103.55,74.4,1
+1,"b""Lauren's Legit Team""",6,Lauren,"b""John Brown's Army""",8,Eric,95.73,88.6,95.83,80.73,0
+1,"b""John Brown's Army""",8,Eric,"b""Lauren's Legit Team""",6,Lauren,95.83,80.73,95.73,88.6,1
+1,b'The Scientist',9,Kyle,b'Immortal Duffmen',11,PD,101.93,127.17,98.74,100.97,0
+1,b'Immortal Duffmen',11,PD,b'The Scientist',9,Kyle,98.74,100.97,101.93,127.17,1
+1,b'The fishingtons',10,mike,b'Starr is Born',12,Nick,105.02,71.23,101.42,116.8,0
+1,b'Starr is Born',12,Nick,b'The fishingtons',10,mike,101.42,116.8,105.02,71.23,1
+1,b'Victor Cruisin',13,Matt,"b""Kurtz' Horror""",14,Matt Jones,95.98,79.93,102.78,87.93,0
+1,"b""Kurtz' Horror""",14,Matt Jones,b'Victor Cruisin',13,Matt,102.78,87.93,95.98,79.93,1
+2,b'The Ice Cold Bruschi',1,Ricky,b'Thug Bungalow',5,Mike,94.91,106.43,96.95,102.1,0
+2,b'Thug Bungalow',5,Mike,b'The Ice Cold Bruschi',1,Ricky,96.95,102.1,94.91,106.43,1
+2,b'who invited canada',2,Peter,"b""Lauren's Legit Team""",6,Lauren,95.88,101.77,92.74,83.2,0
+2,"b""Lauren's Legit Team""",6,Lauren,b'who invited canada',2,Peter,92.74,83.2,95.88,101.77,1
+2,"b""Jadeveon's Hit Men""",3,Tim,b'Victor Cruisin',13,Matt,98.45,101.43,97.39,115.2,0
+2,b'Victor Cruisin',13,Matt,"b""Jadeveon's Hit Men""",3,Tim,97.39,115.2,98.45,101.43,1
+2,b'The Dirty Diapers',4,--hidden--,"b""Kurtz' Horror""",14,Matt Jones,102.92,65.9,91.12,90.8,0
+2,"b""Kurtz' Horror""",14,Matt Jones,b'The Dirty Diapers',4,--hidden--,91.12,90.8,102.92,65.9,1
+2,b'Thunder Crotches',7,Jake,b'The Scientist',9,Kyle,105.24,74.0,105.18,121.67,0
+2,b'The Scientist',9,Kyle,b'Thunder Crotches',7,Jake,105.18,121.67,105.24,74.0,1
+2,"b""John Brown's Army""",8,Eric,b'The fishingtons',10,mike,93.83,116.43,100.12,112.97,0
+2,b'The fishingtons',10,mike,"b""John Brown's Army""",8,Eric,100.12,112.97,93.83,116.43,1
+2,b'Immortal Duffmen',11,PD,b'Starr is Born',12,Nick,99.73,97.77,98.39,94.23,0
+2,b'Starr is Born',12,Nick,b'Immortal Duffmen',11,PD,98.39,94.23,99.73,97.77,1
+3,b'The Ice Cold Bruschi',1,Ricky,b'Thunder Crotches',7,Jake,98.54,101.23,102.01,89.87,0
+3,b'Thunder Crotches',7,Jake,b'The Ice Cold Bruschi',1,Ricky,102.01,89.87,98.54,101.23,1
+3,b'who invited canada',2,Peter,"b""John Brown's Army""",8,Eric,99.52,139.97,101.83,102.6,0
+3,"b""John Brown's Army""",8,Eric,b'who invited canada',2,Peter,101.83,102.6,99.52,139.97,1
+3,"b""Jadeveon's Hit Men""",3,Tim,b'Immortal Duffmen',11,PD,98.63,59.4,91.63,104.63,0
+3,b'Immortal Duffmen',11,PD,"b""Jadeveon's Hit Men""",3,Tim,91.63,104.63,98.63,59.4,1
+3,b'The Dirty Diapers',4,--hidden--,b'Starr is Born',12,Nick,92.05,106.37,95.69,95.27,0
+3,b'Starr is Born',12,Nick,b'The Dirty Diapers',4,--hidden--,95.69,95.27,92.05,106.37,1
+3,b'Thug Bungalow',5,Mike,b'Victor Cruisin',13,Matt,101.03,165.5,107.66,138.6,0
+3,b'Victor Cruisin',13,Matt,b'Thug Bungalow',5,Mike,107.66,138.6,101.03,165.5,1
+3,"b""Lauren's Legit Team""",6,Lauren,"b""Kurtz' Horror""",14,Matt Jones,91.64,90.4,102.7,124.2,0
+3,"b""Kurtz' Horror""",14,Matt Jones,"b""Lauren's Legit Team""",6,Lauren,102.7,124.2,91.64,90.4,1
+3,b'The Scientist',9,Kyle,b'The fishingtons',10,mike,103.64,74.63,98.77,80.8,0
+3,b'The fishingtons',10,mike,b'The Scientist',9,Kyle,98.77,80.8,103.64,74.63,1
+4,b'The Ice Cold Bruschi',1,Ricky,b'The Scientist',9,Kyle,102.49,113.67,107.05,84.53,0
+4,b'The Scientist',9,Kyle,b'The Ice Cold Bruschi',1,Ricky,107.05,84.53,102.49,113.67,1
+4,b'who invited canada',2,Peter,b'The fishingtons',10,mike,103.6,89.03,98.85,79.4,0
+4,b'The fishingtons',10,mike,b'who invited canada',2,Peter,98.85,79.4,103.6,89.03,1
+4,"b""Jadeveon's Hit Men""",3,Tim,b'Thug Bungalow',5,Mike,84.76,89.83,103.65,92.37,0
+4,b'Thug Bungalow',5,Mike,"b""Jadeveon's Hit Men""",3,Tim,103.65,92.37,84.76,89.83,1
+4,b'The Dirty Diapers',4,--hidden--,"b""Lauren's Legit Team""",6,Lauren,102.4,97.0,101.77,77.43,0
+4,"b""Lauren's Legit Team""",6,Lauren,b'The Dirty Diapers',4,--hidden--,101.77,77.43,102.4,97.0,1
+4,b'Thunder Crotches',7,Jake,"b""John Brown's Army""",8,Eric,89.8,76.47,93.17,63.5,0
+4,"b""John Brown's Army""",8,Eric,b'Thunder Crotches',7,Jake,93.17,63.5,89.8,76.47,1
+4,b'Immortal Duffmen',11,PD,b'Victor Cruisin',13,Matt,100.16,107.07,98.88,114.63,0
+4,b'Victor Cruisin',13,Matt,b'Immortal Duffmen',11,PD,98.88,114.63,100.16,107.07,1
+4,b'Starr is Born',12,Nick,"b""Kurtz' Horror""",14,Matt Jones,85.79,93.8,101.58,86.23,0
+4,"b""Kurtz' Horror""",14,Matt Jones,b'Starr is Born',12,Nick,101.58,86.23,85.79,93.8,1
+5,b'The Ice Cold Bruschi',1,Ricky,b'Immortal Duffmen',11,PD,76.25,122.47,98.02,72.7,0
+5,b'Immortal Duffmen',11,PD,b'The Ice Cold Bruschi',1,Ricky,98.02,72.7,76.25,122.47,1
+5,b'who invited canada',2,Peter,b'Starr is Born',12,Nick,72.67,108.83,93.18,87.17,0
+5,b'Starr is Born',12,Nick,b'who invited canada',2,Peter,93.18,87.17,72.67,108.83,1
+5,"b""Jadeveon's Hit Men""",3,Tim,b'Thunder Crotches',7,Jake,84.91,100.97,86.12,85.87,0
+5,b'Thunder Crotches',7,Jake,"b""Jadeveon's Hit Men""",3,Tim,86.12,85.87,84.91,100.97,1
+5,b'The Dirty Diapers',4,--hidden--,"b""John Brown's Army""",8,Eric,74.65,78.7,95.26,90.57,0
+5,"b""John Brown's Army""",8,Eric,b'The Dirty Diapers',4,--hidden--,95.26,90.57,74.65,78.7,1
+5,b'Thug Bungalow',5,Mike,"b""Lauren's Legit Team""",6,Lauren,93.48,110.73,88.65,87.6,0
+5,"b""Lauren's Legit Team""",6,Lauren,b'Thug Bungalow',5,Mike,88.65,87.6,93.48,110.73,1
+5,b'The Scientist',9,Kyle,b'Victor Cruisin',13,Matt,96.25,136.13,78.67,101.93,0
+5,b'Victor Cruisin',13,Matt,b'The Scientist',9,Kyle,78.67,101.93,96.25,136.13,1
+5,b'The fishingtons',10,mike,"b""Kurtz' Horror""",14,Matt Jones,92.47,117.8,74.34,47.07,0
+5,"b""Kurtz' Horror""",14,Matt Jones,b'The fishingtons',10,mike,74.34,47.07,92.47,117.8,1
+6,b'The Ice Cold Bruschi',1,Ricky,b'Victor Cruisin',13,Matt,113.97,118.4,104.49,112.57,0
+6,b'Victor Cruisin',13,Matt,b'The Ice Cold Bruschi',1,Ricky,104.49,112.57,113.97,118.4,1
+6,b'who invited canada',2,Peter,"b""Kurtz' Horror""",14,Matt Jones,99.89,132.87,101.05,101.73,0
+6,"b""Kurtz' Horror""",14,Matt Jones,b'who invited canada',2,Peter,101.05,101.73,99.89,132.87,1
+6,"b""Jadeveon's Hit Men""",3,Tim,b'The Dirty Diapers',4,--hidden--,100.36,121.97,94.48,100.7,0
+6,b'The Dirty Diapers',4,--hidden--,"b""Jadeveon's Hit Men""",3,Tim,94.48,100.7,100.36,121.97,1
+6,b'Thug Bungalow',5,Mike,b'The Scientist',9,Kyle,108.64,102.9,105.61,81.7,0
+6,b'The Scientist',9,Kyle,b'Thug Bungalow',5,Mike,105.61,81.7,108.64,102.9,1
+6,"b""Lauren's Legit Team""",6,Lauren,b'The fishingtons',10,mike,82.1,61.4,93.99,74.67,0
+6,b'The fishingtons',10,mike,"b""Lauren's Legit Team""",6,Lauren,93.99,74.67,82.1,61.4,1
+6,b'Thunder Crotches',7,Jake,b'Immortal Duffmen',11,PD,101.19,137.8,85.01,83.13,0
+6,b'Immortal Duffmen',11,PD,b'Thunder Crotches',7,Jake,85.01,83.13,101.19,137.8,1
+6,"b""John Brown's Army""",8,Eric,b'Starr is Born',12,Nick,96.98,87.87,98.37,101.5,0
+6,b'Starr is Born',12,Nick,"b""John Brown's Army""",8,Eric,98.37,101.5,96.98,87.87,1
+7,b'The Ice Cold Bruschi',1,Ricky,b'who invited canada',2,Peter,102.26,96.33,100.95,105.87,0
+7,b'who invited canada',2,Peter,b'The Ice Cold Bruschi',1,Ricky,100.95,105.87,102.26,96.33,1
+7,"b""Jadeveon's Hit Men""",3,Tim,b'The Scientist',9,Kyle,101.53,127.9,95.77,119.23,0
+7,b'The Scientist',9,Kyle,"b""Jadeveon's Hit Men""",3,Tim,95.77,119.23,101.53,127.9,1
+7,b'The Dirty Diapers',4,--hidden--,b'The fishingtons',10,mike,91.56,83.93,94.67,119.2,0
+7,b'The fishingtons',10,mike,b'The Dirty Diapers',4,--hidden--,94.67,119.2,91.56,83.93,1
+7,b'Thug Bungalow',5,Mike,b'Immortal Duffmen',11,PD,80.66,84.4,89.53,111.43,0
+7,b'Immortal Duffmen',11,PD,b'Thug Bungalow',5,Mike,89.53,111.43,80.66,84.4,1
+7,"b""Lauren's Legit Team""",6,Lauren,b'Starr is Born',12,Nick,89.32,82.07,98.2,83.2,0
+7,b'Starr is Born',12,Nick,"b""Lauren's Legit Team""",6,Lauren,98.2,83.2,89.32,82.07,1
+7,b'Thunder Crotches',7,Jake,b'Victor Cruisin',13,Matt,102.33,98.0,112.61,114.87,0
+7,b'Victor Cruisin',13,Matt,b'Thunder Crotches',7,Jake,112.61,114.87,102.33,98.0,1
+7,"b""John Brown's Army""",8,Eric,"b""Kurtz' Horror""",14,Matt Jones,91.79,69.9,90.86,89.37,0
+7,"b""Kurtz' Horror""",14,Matt Jones,"b""John Brown's Army""",8,Eric,90.86,89.37,91.79,69.9,1
+8,b'The Ice Cold Bruschi',1,Ricky,b'The Scientist',9,Kyle,110.91,105.07,100.13,130.7,0
+8,b'The Scientist',9,Kyle,b'The Ice Cold Bruschi',1,Ricky,100.13,130.7,110.91,105.07,1
+8,b'who invited canada',2,Peter,"b""Kurtz' Horror""",14,Matt Jones,102.23,119.23,99.73,95.33,0
+8,"b""Kurtz' Horror""",14,Matt Jones,b'who invited canada',2,Peter,99.73,95.33,102.23,119.23,1
+8,"b""Jadeveon's Hit Men""",3,Tim,b'Thunder Crotches',7,Jake,110.55,125.23,109.18,122.53,0
+8,b'Thunder Crotches',7,Jake,"b""Jadeveon's Hit Men""",3,Tim,109.18,122.53,110.55,125.23,1
+8,b'The Dirty Diapers',4,--hidden--,b'Starr is Born',12,Nick,94.48,104.3,91.77,82.9,0
+8,b'Starr is Born',12,Nick,b'The Dirty Diapers',4,--hidden--,91.77,82.9,94.48,104.3,1
+8,b'Thug Bungalow',5,Mike,"b""John Brown's Army""",8,Eric,103.66,106.67,94.15,87.23,0
+8,"b""John Brown's Army""",8,Eric,b'Thug Bungalow',5,Mike,94.15,87.23,103.66,106.67,1
+8,"b""Lauren's Legit Team""",6,Lauren,b'The fishingtons',10,mike,82.71,89.93,98.09,108.2,0
+8,b'The fishingtons',10,mike,"b""Lauren's Legit Team""",6,Lauren,98.09,108.2,82.71,89.93,1
+8,b'Immortal Duffmen',11,PD,b'Victor Cruisin',13,Matt,100.13,84.87,103.2,64.87,0
+8,b'Victor Cruisin',13,Matt,b'Immortal Duffmen',11,PD,103.2,64.87,100.13,84.87,1
+9,b'The Ice Cold Bruschi',1,Ricky,"b""Jadeveon's Hit Men""",3,Tim,121.66,124.77,103.02,84.13,0
+9,"b""Jadeveon's Hit Men""",3,Tim,b'The Ice Cold Bruschi',1,Ricky,103.02,84.13,121.66,124.77,1
+9,b'who invited canada',2,Peter,b'The Scientist',9,Kyle,110.41,105.03,86.75,121.83,0
+9,b'The Scientist',9,Kyle,b'who invited canada',2,Peter,86.75,121.83,110.41,105.03,1
+9,b'The Dirty Diapers',4,--hidden--,"b""Kurtz' Horror""",14,Matt Jones,106.15,118.7,97.85,104.5,0
+9,"b""Kurtz' Horror""",14,Matt Jones,b'The Dirty Diapers',4,--hidden--,97.85,104.5,106.15,118.7,1
+9,b'Thug Bungalow',5,Mike,b'Victor Cruisin',13,Matt,107.53,120.5,67.06,75.0,0
+9,b'Victor Cruisin',13,Matt,b'Thug Bungalow',5,Mike,67.06,75.0,107.53,120.5,1
+9,"b""Lauren's Legit Team""",6,Lauren,b'Starr is Born',12,Nick,95.59,57.3,95.28,121.4,0
+9,b'Starr is Born',12,Nick,"b""Lauren's Legit Team""",6,Lauren,95.28,121.4,95.59,57.3,1
+9,b'Thunder Crotches',7,Jake,b'Immortal Duffmen',11,PD,103.26,124.5,92.35,103.47,0
+9,b'Immortal Duffmen',11,PD,b'Thunder Crotches',7,Jake,92.35,103.47,103.26,124.5,1
+9,"b""John Brown's Army""",8,Eric,b'The fishingtons',10,mike,57.15,46.07,99.8,119.1,0
+9,b'The fishingtons',10,mike,"b""John Brown's Army""",8,Eric,99.8,119.1,57.15,46.07,1
+10,b'The Ice Cold Bruschi',1,Ricky,b'Thug Bungalow',5,Mike,109.12,110.83,116.6,71.7,0
+10,b'Thug Bungalow',5,Mike,b'The Ice Cold Bruschi',1,Ricky,116.6,71.7,109.12,110.83,1
+10,b'who invited canada',2,Peter,b'The Dirty Diapers',4,--hidden--,116.4,97.37,106.34,78.47,0
+10,b'The Dirty Diapers',4,--hidden--,b'who invited canada',2,Peter,106.34,78.47,116.4,97.37,1
+10,"b""Jadeveon's Hit Men""",3,Tim,b'The fishingtons',10,mike,107.95,82.13,97.49,122.93,0
+10,b'The fishingtons',10,mike,"b""Jadeveon's Hit Men""",3,Tim,97.49,122.93,107.95,82.13,1
+10,"b""Lauren's Legit Team""",6,Lauren,"b""Kurtz' Horror""",14,Matt Jones,85.64,72.13,90.83,101.07,0
+10,"b""Kurtz' Horror""",14,Matt Jones,"b""Lauren's Legit Team""",6,Lauren,90.83,101.07,85.64,72.13,1
+10,b'Thunder Crotches',7,Jake,b'Victor Cruisin',13,Matt,98.29,86.07,98.14,98.8,0
+10,b'Victor Cruisin',13,Matt,b'Thunder Crotches',7,Jake,98.14,98.8,98.29,86.07,1
+10,"b""John Brown's Army""",8,Eric,b'Starr is Born',12,Nick,99.65,90.87,99.81,103.23,0
+10,b'Starr is Born',12,Nick,"b""John Brown's Army""",8,Eric,99.81,103.23,99.65,90.87,1
+10,b'The Scientist',9,Kyle,b'Immortal Duffmen',11,PD,102.59,134.67,97.43,79.2,0
+10,b'Immortal Duffmen',11,PD,b'The Scientist',9,Kyle,97.43,79.2,102.59,134.67,1
+11,b'The Ice Cold Bruschi',1,Ricky,b'Thunder Crotches',7,Jake,126.24,86.83,93.29,82.47,0
+11,b'Thunder Crotches',7,Jake,b'The Ice Cold Bruschi',1,Ricky,93.29,82.47,126.24,86.83,1
+11,b'who invited canada',2,Peter,"b""Lauren's Legit Team""",6,Lauren,109.01,80.47,96.74,86.63,0
+11,"b""Lauren's Legit Team""",6,Lauren,b'who invited canada',2,Peter,96.74,86.63,109.01,80.47,1
+11,"b""Jadeveon's Hit Men""",3,Tim,b'Thug Bungalow',5,Mike,94.93,94.33,94.56,73.07,0
+11,b'Thug Bungalow',5,Mike,"b""Jadeveon's Hit Men""",3,Tim,94.56,73.07,94.93,94.33,1
+11,b'The Dirty Diapers',4,--hidden--,b'Immortal Duffmen',11,PD,99.09,79.7,108.06,89.67,0
+11,b'Immortal Duffmen',11,PD,b'The Dirty Diapers',4,--hidden--,108.06,89.67,99.09,79.7,1
+11,"b""John Brown's Army""",8,Eric,"b""Kurtz' Horror""",14,Matt Jones,68.05,46.9,90.85,67.53,0
+11,"b""Kurtz' Horror""",14,Matt Jones,"b""John Brown's Army""",8,Eric,90.85,67.53,68.05,46.9,1
+11,b'The Scientist',9,Kyle,b'Victor Cruisin',13,Matt,104.17,52.73,80.36,92.43,0
+11,b'Victor Cruisin',13,Matt,b'The Scientist',9,Kyle,80.36,92.43,104.17,52.73,1
+11,b'The fishingtons',10,mike,b'Starr is Born',12,Nick,91.31,97.27,105.47,103.6,0
+11,b'Starr is Born',12,Nick,b'The fishingtons',10,mike,105.47,103.6,91.31,97.27,1
+12,b'The Ice Cold Bruschi',1,Ricky,b'Starr is Born',12,Nick,99.42,88.23,101.99,112.0,0
+12,b'Starr is Born',12,Nick,b'The Ice Cold Bruschi',1,Ricky,101.99,112.0,99.42,88.23,1
+12,b'who invited canada',2,Peter,"b""John Brown's Army""",8,Eric,111.76,114.17,73.36,76.0,0
+12,"b""John Brown's Army""",8,Eric,b'who invited canada',2,Peter,73.36,76.0,111.76,114.17,1
+12,"b""Jadeveon's Hit Men""",3,Tim,b'Victor Cruisin',13,Matt,95.2,100.9,92.29,76.57,0
+12,b'Victor Cruisin',13,Matt,"b""Jadeveon's Hit Men""",3,Tim,92.29,76.57,95.2,100.9,1
+12,b'The Dirty Diapers',4,--hidden--,"b""Lauren's Legit Team""",6,Lauren,98.03,118.47,98.99,84.4,0
+12,"b""Lauren's Legit Team""",6,Lauren,b'The Dirty Diapers',4,--hidden--,98.99,84.4,98.03,118.47,1
+12,b'Thug Bungalow',5,Mike,b'Immortal Duffmen',11,PD,109.26,111.03,94.76,86.23,0
+12,b'Immortal Duffmen',11,PD,b'Thug Bungalow',5,Mike,94.76,86.23,109.26,111.03,1
+12,b'Thunder Crotches',7,Jake,b'The Scientist',9,Kyle,106.15,93.5,96.27,87.2,0
+12,b'The Scientist',9,Kyle,b'Thunder Crotches',7,Jake,96.27,87.2,106.15,93.5,1
+12,b'The fishingtons',10,mike,"b""Kurtz' Horror""",14,Matt Jones,111.83,82.4,105.78,68.27,0
+12,"b""Kurtz' Horror""",14,Matt Jones,b'The fishingtons',10,mike,105.78,68.27,111.83,82.4,1
+13,b'The Ice Cold Bruschi',1,Ricky,b'Immortal Duffmen',11,PD,116.76,159.6,105.0,75.57,0
+13,b'Immortal Duffmen',11,PD,b'The Ice Cold Bruschi',1,Ricky,105.0,75.57,116.76,159.6,1
+13,b'who invited canada',2,Peter,b'The fishingtons',10,mike,111.52,123.73,103.32,116.07,0
+13,b'The fishingtons',10,mike,b'who invited canada',2,Peter,103.32,116.07,111.52,123.73,1
+13,"b""Jadeveon's Hit Men""",3,Tim,b'The Scientist',9,Kyle,100.41,67.83,105.16,95.53,0
+13,b'The Scientist',9,Kyle,"b""Jadeveon's Hit Men""",3,Tim,105.16,95.53,100.41,67.83,1
+13,b'The Dirty Diapers',4,--hidden--,"b""John Brown's Army""",8,Eric,106.39,126.33,60.78,39.1,0
+13,"b""John Brown's Army""",8,Eric,b'The Dirty Diapers',4,--hidden--,60.78,39.1,106.39,126.33,1
+13,b'Thug Bungalow',5,Mike,b'Thunder Crotches',7,Jake,112.06,140.0,104.31,78.1,0
+13,b'Thunder Crotches',7,Jake,b'Thug Bungalow',5,Mike,104.31,78.1,112.06,140.0,1
+13,"b""Lauren's Legit Team""",6,Lauren,b'Victor Cruisin',13,Matt,90.29,109.13,99.55,102.63,0
+13,b'Victor Cruisin',13,Matt,"b""Lauren's Legit Team""",6,Lauren,99.55,102.63,90.29,109.13,1
+13,b'Starr is Born',12,Nick,"b""Kurtz' Horror""",14,Matt Jones,113.92,106.93,103.47,82.57,0
+13,"b""Kurtz' Horror""",14,Matt Jones,b'Starr is Born',12,Nick,103.47,82.57,113.92,106.93,1
+14,b'Thug Bungalow',5,Mike,b'The fishingtons',10,mike,100.66,101.97,110.15,91.33,0
+14,b'The fishingtons',10,mike,b'Thug Bungalow',5,Mike,110.15,91.33,100.66,101.97,1
+14,b'Thunder Crotches',7,Jake,b'Victor Cruisin',13,Matt,93.83,87.77,95.69,121.6,0
+14,b'Victor Cruisin',13,Matt,b'Thunder Crotches',7,Jake,95.69,121.6,93.83,87.77,1
+14,b'The Scientist',9,Kyle,b'Starr is Born',12,Nick,105.34,111.7,121.99,135.03,0
+14,b'Starr is Born',12,Nick,b'The Scientist',9,Kyle,121.99,135.03,105.34,111.7,1
+14,b'Immortal Duffmen',11,PD,"b""Kurtz' Horror""",14,Matt Jones,104.58,85.53,90.71,83.57,0
+14,"b""Kurtz' Horror""",14,Matt Jones,b'Immortal Duffmen',11,PD,90.71,83.57,104.58,85.53,1
+15,b'The Ice Cold Bruschi',1,Ricky,b'Thug Bungalow',5,Mike,112.77,108.5,109.47,114.8,0
+15,b'Thug Bungalow',5,Mike,b'The Ice Cold Bruschi',1,Ricky,109.47,114.8,112.77,108.5,1
+15,b'who invited canada',2,Peter,b'Starr is Born',12,Nick,113.1,104.4,110.02,114.93,0
+15,b'Starr is Born',12,Nick,b'who invited canada',2,Peter,110.02,114.93,113.1,104.4,1
+15,"b""Jadeveon's Hit Men""",3,Tim,b'Victor Cruisin',13,Matt,98.37,113.97,91.8,115.4,0
+15,b'Victor Cruisin',13,Matt,"b""Jadeveon's Hit Men""",3,Tim,91.8,115.4,98.37,113.97,1
+15,b'The Dirty Diapers',4,--hidden--,b'Immortal Duffmen',11,PD,95.25,112.07,94.61,72.13,0
+15,b'Immortal Duffmen',11,PD,b'The Dirty Diapers',4,--hidden--,94.61,72.13,95.25,112.07,1
+15,b'Thunder Crotches',7,Jake,"b""Kurtz' Horror""",14,Matt Jones,95.99,127.77,104.62,94.0,0
+15,"b""Kurtz' Horror""",14,Matt Jones,b'Thunder Crotches',7,Jake,104.62,94.0,95.99,127.77,1
+15,b'The Scientist',9,Kyle,b'The fishingtons',10,mike,105.16,111.0,97.35,148.93,0
+15,b'The fishingtons',10,mike,b'The Scientist',9,Kyle,97.35,148.93,105.16,111.0,1
+16,b'The Ice Cold Bruschi',1,Ricky,b'who invited canada',2,Peter,97.43,95.0,111.14,83.27,0
+16,b'who invited canada',2,Peter,b'The Ice Cold Bruschi',1,Ricky,111.14,83.27,97.43,95.0,1
+16,"b""Jadeveon's Hit Men""",3,Tim,b'Immortal Duffmen',11,PD,93.41,87.63,91.44,83.03,0
+16,b'Immortal Duffmen',11,PD,"b""Jadeveon's Hit Men""",3,Tim,91.44,83.03,93.41,87.63,1
+16,b'The Dirty Diapers',4,--hidden--,b'Victor Cruisin',13,Matt,92.63,101.23,90.83,129.8,0
+16,b'Victor Cruisin',13,Matt,b'The Dirty Diapers',4,--hidden--,90.83,129.8,92.63,101.23,1
+16,b'Thug Bungalow',5,Mike,b'Starr is Born',12,Nick,103.23,104.63,108.18,105.43,0
+16,b'Starr is Born',12,Nick,b'Thug Bungalow',5,Mike,108.18,105.43,103.23,104.63,1

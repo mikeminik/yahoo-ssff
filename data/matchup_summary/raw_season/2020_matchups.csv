@@ -1,0 +1,211 @@
+week,team_name,season_id,manager_name,opponent_team_name,opponent_season_id,opponent_name,projected_points_for,points_for,projected_points_against,points_against,inverse_matchup
+1,b'The Ice Cold Bruschi',1,Ricky,b'Immortal Duffmen',2,PD,138.1,148.98,144.68,158.92,0
+1,b'Immortal Duffmen',2,PD,b'The Ice Cold Bruschi',1,Ricky,144.68,158.92,138.1,148.98,1
+1,"b""Jadeveon's Hit Men""",3,Tim,"b""We're Back""",13,Nate,141.38,122.94,129.09,126.6,0
+1,"b""We're Back""",13,Nate,"b""Jadeveon's Hit Men""",3,Tim,129.09,126.6,141.38,122.94,1
+1,"b""John Brown's Army""",4,Eric,b'Thunder Crotches',12,Jake,141.86,150.74,140.86,142.16,0
+1,b'Thunder Crotches',12,Jake,"b""John Brown's Army""",4,Eric,140.86,142.16,141.86,150.74,1
+1,b'Saquon These Nuts',5,matt,b'Thug Bungalow',11,Mike,132.3,118.18,138.64,145.1,0
+1,b'Thug Bungalow',11,Mike,b'Saquon These Nuts',5,matt,138.64,145.1,132.3,118.18,1
+1,b'Starr is Born',6,Nick,b'The Twelve Apostles',10,Matt Jones,121.69,107.36,137.96,118.8,0
+1,b'The Twelve Apostles',10,Matt Jones,b'Starr is Born',6,Nick,137.96,118.8,121.69,107.36,1
+1,b'SuperCam That Ho',7,Lauren,b'The Scientist',9,Kyle,137.7,101.28,131.32,127.2,0
+1,b'The Scientist',9,Kyle,b'SuperCam That Ho',7,Lauren,131.32,127.2,137.7,101.28,1
+1,b'The fishingtons',8,mike,b'who invited canada',14,Peter,136.05,108.5,131.9,130.9,0
+1,b'who invited canada',14,Peter,b'The fishingtons',8,mike,131.9,130.9,136.05,108.5,1
+2,b'The Ice Cold Bruschi',1,Ricky,"b""Jadeveon's Hit Men""",3,Tim,134.73,142.4,130.45,121.98,0
+2,"b""Jadeveon's Hit Men""",3,Tim,b'The Ice Cold Bruschi',1,Ricky,130.45,121.98,134.73,142.4,1
+2,b'Immortal Duffmen',2,PD,b'who invited canada',14,Peter,133.42,100.2,142.03,154.18,0
+2,b'who invited canada',14,Peter,b'Immortal Duffmen',2,PD,142.03,154.18,133.42,100.2,1
+2,"b""John Brown's Army""",4,Eric,"b""We're Back""",13,Nate,140.32,150.28,121.6,142.88,0
+2,"b""We're Back""",13,Nate,"b""John Brown's Army""",4,Eric,121.6,142.88,140.32,150.28,1
+2,b'Saquon These Nuts',5,matt,b'Thunder Crotches',12,Jake,126.59,106.56,144.47,149.5,0
+2,b'Thunder Crotches',12,Jake,b'Saquon These Nuts',5,matt,144.47,149.5,126.59,106.56,1
+2,b'Starr is Born',6,Nick,b'Thug Bungalow',11,Mike,125.28,137.28,145.71,141.14,0
+2,b'Thug Bungalow',11,Mike,b'Starr is Born',6,Nick,145.71,141.14,125.28,137.28,1
+2,b'SuperCam That Ho',7,Lauren,b'The Twelve Apostles',10,Matt Jones,130.0,132.72,119.7,135.72,0
+2,b'The Twelve Apostles',10,Matt Jones,b'SuperCam That Ho',7,Lauren,119.7,135.72,130.0,132.72,1
+2,b'The fishingtons',8,mike,b'The Scientist',9,Kyle,139.88,149.88,139.64,128.36,0
+2,b'The Scientist',9,Kyle,b'The fishingtons',8,mike,139.64,128.36,139.88,149.88,1
+3,b'The Ice Cold Bruschi',1,Ricky,"b""John Brown's Army""",4,Eric,141.26,164.74,145.94,133.58,0
+3,"b""John Brown's Army""",4,Eric,b'The Ice Cold Bruschi',1,Ricky,145.94,133.58,141.26,164.74,1
+3,b'Immortal Duffmen',2,PD,"b""Jadeveon's Hit Men""",3,Tim,119.79,119.56,133.36,117.1,0
+3,"b""Jadeveon's Hit Men""",3,Tim,b'Immortal Duffmen',2,PD,133.36,117.1,119.79,119.56,1
+3,b'Saquon These Nuts',5,matt,"b""We're Back""",13,Nate,112.47,108.9,132.19,101.64,0
+3,"b""We're Back""",13,Nate,b'Saquon These Nuts',5,matt,132.19,101.64,112.47,108.9,1
+3,b'Starr is Born',6,Nick,b'Thunder Crotches',12,Jake,101.69,95.28,138.55,144.88,0
+3,b'Thunder Crotches',12,Jake,b'Starr is Born',6,Nick,138.55,144.88,101.69,95.28,1
+3,b'SuperCam That Ho',7,Lauren,b'Thug Bungalow',11,Mike,140.24,144.2,142.38,180.7,0
+3,b'Thug Bungalow',11,Mike,b'SuperCam That Ho',7,Lauren,142.38,180.7,140.24,144.2,1
+3,b'The fishingtons',8,mike,b'The Twelve Apostles',10,Matt Jones,141.3,128.72,121.4,94.52,0
+3,b'The Twelve Apostles',10,Matt Jones,b'The fishingtons',8,mike,121.4,94.52,141.3,128.72,1
+3,b'The Scientist',9,Kyle,b'who invited canada',14,Peter,143.75,135.58,147.86,120.9,0
+3,b'who invited canada',14,Peter,b'The Scientist',9,Kyle,147.86,120.9,143.75,135.58,1
+4,b'The Ice Cold Bruschi',1,Ricky,b'Saquon These Nuts',5,matt,143.28,147.62,117.85,120.04,0
+4,b'Saquon These Nuts',5,matt,b'The Ice Cold Bruschi',1,Ricky,117.85,120.04,143.28,147.62,1
+4,b'Immortal Duffmen',2,PD,"b""John Brown's Army""",4,Eric,121.54,118.8,134.59,132.46,0
+4,"b""John Brown's Army""",4,Eric,b'Immortal Duffmen',2,PD,134.59,132.46,121.54,118.8,1
+4,"b""Jadeveon's Hit Men""",3,Tim,b'who invited canada',14,Peter,130.09,137.04,145.68,125.2,0
+4,b'who invited canada',14,Peter,"b""Jadeveon's Hit Men""",3,Tim,145.68,125.2,130.09,137.04,1
+4,b'Starr is Born',6,Nick,"b""We're Back""",13,Nate,130.46,154.96,126.63,129.3,0
+4,"b""We're Back""",13,Nate,b'Starr is Born',6,Nick,126.63,129.3,130.46,154.96,1
+4,b'SuperCam That Ho',7,Lauren,b'Thunder Crotches',12,Jake,126.65,102.3,153.22,140.58,0
+4,b'Thunder Crotches',12,Jake,b'SuperCam That Ho',7,Lauren,153.22,140.58,126.65,102.3,1
+4,b'The fishingtons',8,mike,b'Thug Bungalow',11,Mike,130.05,108.64,132.72,111.22,0
+4,b'Thug Bungalow',11,Mike,b'The fishingtons',8,mike,132.72,111.22,130.05,108.64,1
+4,b'The Scientist',9,Kyle,b'The Twelve Apostles',10,Matt Jones,133.51,125.42,139.52,159.68,0
+4,b'The Twelve Apostles',10,Matt Jones,b'The Scientist',9,Kyle,139.52,159.68,133.51,125.42,1
+5,b'The Ice Cold Bruschi',1,Ricky,b'Starr is Born',6,Nick,146.58,137.32,121.36,126.32,0
+5,b'Starr is Born',6,Nick,b'The Ice Cold Bruschi',1,Ricky,121.36,126.32,146.58,137.32,1
+5,b'Immortal Duffmen',2,PD,b'Saquon These Nuts',5,matt,128.21,145.36,113.15,95.06,0
+5,b'Saquon These Nuts',5,matt,b'Immortal Duffmen',2,PD,113.15,95.06,128.21,145.36,1
+5,"b""Jadeveon's Hit Men""",3,Tim,"b""John Brown's Army""",4,Eric,116.77,133.4,123.56,129.82,0
+5,"b""John Brown's Army""",4,Eric,"b""Jadeveon's Hit Men""",3,Tim,123.56,129.82,116.77,133.4,1
+5,b'SuperCam That Ho',7,Lauren,"b""We're Back""",13,Nate,138.32,135.98,134.68,135.06,0
+5,"b""We're Back""",13,Nate,b'SuperCam That Ho',7,Lauren,134.68,135.06,138.32,135.98,1
+5,b'The fishingtons',8,mike,b'Thunder Crotches',12,Jake,112.91,99.7,134.74,119.44,0
+5,b'Thunder Crotches',12,Jake,b'The fishingtons',8,mike,134.74,119.44,112.91,99.7,1
+5,b'The Scientist',9,Kyle,b'Thug Bungalow',11,Mike,129.76,107.8,138.56,117.9,0
+5,b'Thug Bungalow',11,Mike,b'The Scientist',9,Kyle,138.56,117.9,129.76,107.8,1
+5,b'The Twelve Apostles',10,Matt Jones,b'who invited canada',14,Peter,119.03,108.8,138.05,144.86,0
+5,b'who invited canada',14,Peter,b'The Twelve Apostles',10,Matt Jones,138.05,144.86,119.03,108.8,1
+6,b'The Ice Cold Bruschi',1,Ricky,b'SuperCam That Ho',7,Lauren,144.67,106.18,114.56,122.76,0
+6,b'SuperCam That Ho',7,Lauren,b'The Ice Cold Bruschi',1,Ricky,114.56,122.76,144.67,106.18,1
+6,b'Immortal Duffmen',2,PD,b'Starr is Born',6,Nick,134.91,129.6,128.25,92.44,0
+6,b'Starr is Born',6,Nick,b'Immortal Duffmen',2,PD,128.25,92.44,134.91,129.6,1
+6,"b""Jadeveon's Hit Men""",3,Tim,b'Saquon These Nuts',5,matt,119.4,76.02,114.55,84.62,0
+6,b'Saquon These Nuts',5,matt,"b""Jadeveon's Hit Men""",3,Tim,114.55,84.62,119.4,76.02,1
+6,"b""John Brown's Army""",4,Eric,b'who invited canada',14,Peter,139.95,156.88,131.71,110.68,0
+6,b'who invited canada',14,Peter,"b""John Brown's Army""",4,Eric,131.71,110.68,139.95,156.88,1
+6,b'The fishingtons',8,mike,"b""We're Back""",13,Nate,124.63,66.44,125.33,124.46,0
+6,"b""We're Back""",13,Nate,b'The fishingtons',8,mike,125.33,124.46,124.63,66.44,1
+6,b'The Scientist',9,Kyle,b'Thunder Crotches',12,Jake,126.32,137.54,124.87,134.14,0
+6,b'Thunder Crotches',12,Jake,b'The Scientist',9,Kyle,124.87,134.14,126.32,137.54,1
+6,b'The Twelve Apostles',10,Matt Jones,b'Thug Bungalow',11,Mike,139.5,135.1,133.69,105.42,0
+6,b'Thug Bungalow',11,Mike,b'The Twelve Apostles',10,Matt Jones,133.69,105.42,139.5,135.1,1
+7,b'The Ice Cold Bruschi',1,Ricky,b'The fishingtons',8,mike,142.08,107.88,96.84,99.08,0
+7,b'The fishingtons',8,mike,b'The Ice Cold Bruschi',1,Ricky,96.84,99.08,142.08,107.88,1
+7,b'Immortal Duffmen',2,PD,b'SuperCam That Ho',7,Lauren,123.49,179.96,139.09,155.22,0
+7,b'SuperCam That Ho',7,Lauren,b'Immortal Duffmen',2,PD,139.09,155.22,123.49,179.96,1
+7,"b""Jadeveon's Hit Men""",3,Tim,b'Starr is Born',6,Nick,129.14,123.0,126.39,121.06,0
+7,b'Starr is Born',6,Nick,"b""Jadeveon's Hit Men""",3,Tim,126.39,121.06,129.14,123.0,1
+7,"b""John Brown's Army""",4,Eric,b'Saquon These Nuts',5,matt,135.41,106.12,102.49,86.7,0
+7,b'Saquon These Nuts',5,matt,"b""John Brown's Army""",4,Eric,102.49,86.7,135.41,106.12,1
+7,b'The Scientist',9,Kyle,"b""We're Back""",13,Nate,112.24,75.42,124.74,131.7,0
+7,"b""We're Back""",13,Nate,b'The Scientist',9,Kyle,124.74,131.7,112.24,75.42,1
+7,b'The Twelve Apostles',10,Matt Jones,b'Thunder Crotches',12,Jake,127.91,107.32,128.97,155.8,0
+7,b'Thunder Crotches',12,Jake,b'The Twelve Apostles',10,Matt Jones,128.97,155.8,127.91,107.32,1
+7,b'Thug Bungalow',11,Mike,b'who invited canada',14,Peter,127.71,170.6,125.86,124.48,0
+7,b'who invited canada',14,Peter,b'Thug Bungalow',11,Mike,125.86,124.48,127.71,170.6,1
+8,b'The Ice Cold Bruschi',1,Ricky,b'The Scientist',9,Kyle,148.23,174.44,127.62,102.82,0
+8,b'The Scientist',9,Kyle,b'The Ice Cold Bruschi',1,Ricky,127.62,102.82,148.23,174.44,1
+8,b'Immortal Duffmen',2,PD,b'The fishingtons',8,mike,136.07,133.24,110.34,100.7,0
+8,b'The fishingtons',8,mike,b'Immortal Duffmen',2,PD,110.34,100.7,136.07,133.24,1
+8,"b""Jadeveon's Hit Men""",3,Tim,b'SuperCam That Ho',7,Lauren,123.73,89.16,142.05,147.04,0
+8,b'SuperCam That Ho',7,Lauren,"b""Jadeveon's Hit Men""",3,Tim,142.05,147.04,123.73,89.16,1
+8,"b""John Brown's Army""",4,Eric,b'Starr is Born',6,Nick,113.62,112.06,119.49,110.46,0
+8,b'Starr is Born',6,Nick,"b""John Brown's Army""",4,Eric,119.49,110.46,113.62,112.06,1
+8,b'Saquon These Nuts',5,matt,b'who invited canada',14,Peter,122.66,136.64,138.56,177.52,0
+8,b'who invited canada',14,Peter,b'Saquon These Nuts',5,matt,138.56,177.52,122.66,136.64,1
+8,b'The Twelve Apostles',10,Matt Jones,"b""We're Back""",13,Nate,108.71,101.14,117.92,68.42,0
+8,"b""We're Back""",13,Nate,b'The Twelve Apostles',10,Matt Jones,117.92,68.42,108.71,101.14,1
+8,b'Thug Bungalow',11,Mike,b'Thunder Crotches',12,Jake,109.51,93.96,131.64,101.72,0
+8,b'Thunder Crotches',12,Jake,b'Thug Bungalow',11,Mike,131.64,101.72,109.51,93.96,1
+9,b'The Ice Cold Bruschi',1,Ricky,b'The Twelve Apostles',10,Matt Jones,131.43,132.08,87.8,83.8,0
+9,b'The Twelve Apostles',10,Matt Jones,b'The Ice Cold Bruschi',1,Ricky,87.8,83.8,131.43,132.08,1
+9,b'Immortal Duffmen',2,PD,b'The Scientist',9,Kyle,143.94,136.44,122.99,107.9,0
+9,b'The Scientist',9,Kyle,b'Immortal Duffmen',2,PD,122.99,107.9,143.94,136.44,1
+9,"b""Jadeveon's Hit Men""",3,Tim,b'The fishingtons',8,mike,128.28,101.8,111.34,127.38,0
+9,b'The fishingtons',8,mike,"b""Jadeveon's Hit Men""",3,Tim,111.34,127.38,128.28,101.8,1
+9,"b""John Brown's Army""",4,Eric,b'SuperCam That Ho',7,Lauren,138.15,159.76,137.53,107.0,0
+9,b'SuperCam That Ho',7,Lauren,"b""John Brown's Army""",4,Eric,137.53,107.0,138.15,159.76,1
+9,b'Saquon These Nuts',5,matt,b'Starr is Born',6,Nick,119.89,108.84,126.69,119.06,0
+9,b'Starr is Born',6,Nick,b'Saquon These Nuts',5,matt,126.69,119.06,119.89,108.84,1
+9,b'Thug Bungalow',11,Mike,"b""We're Back""",13,Nate,131.16,94.92,131.15,108.02,0
+9,"b""We're Back""",13,Nate,b'Thug Bungalow',11,Mike,131.15,108.02,131.16,94.92,1
+9,b'Thunder Crotches',12,Jake,b'who invited canada',14,Peter,122.57,111.34,123.12,124.54,0
+9,b'who invited canada',14,Peter,b'Thunder Crotches',12,Jake,123.12,124.54,122.57,111.34,1
+10,b'The Ice Cold Bruschi',1,Ricky,b'Thug Bungalow',11,Mike,127.57,95.22,122.68,120.1,0
+10,b'Thug Bungalow',11,Mike,b'The Ice Cold Bruschi',1,Ricky,122.68,120.1,127.57,95.22,1
+10,b'Immortal Duffmen',2,PD,b'The Twelve Apostles',10,Matt Jones,133.45,121.22,114.22,114.2,0
+10,b'The Twelve Apostles',10,Matt Jones,b'Immortal Duffmen',2,PD,114.22,114.2,133.45,121.22,1
+10,"b""Jadeveon's Hit Men""",3,Tim,b'The Scientist',9,Kyle,118.8,128.36,122.79,129.16,0
+10,b'The Scientist',9,Kyle,"b""Jadeveon's Hit Men""",3,Tim,122.79,129.16,118.8,128.36,1
+10,"b""John Brown's Army""",4,Eric,b'The fishingtons',8,mike,127.31,129.12,129.04,105.94,0
+10,b'The fishingtons',8,mike,"b""John Brown's Army""",4,Eric,129.04,105.94,127.31,129.12,1
+10,b'Saquon These Nuts',5,matt,b'SuperCam That Ho',7,Lauren,118.68,134.84,139.24,94.48,0
+10,b'SuperCam That Ho',7,Lauren,b'Saquon These Nuts',5,matt,139.24,94.48,118.68,134.84,1
+10,b'Starr is Born',6,Nick,b'who invited canada',14,Peter,119.52,126.44,140.42,91.18,0
+10,b'who invited canada',14,Peter,b'Starr is Born',6,Nick,140.42,91.18,119.52,126.44,1
+10,b'Thunder Crotches',12,Jake,"b""We're Back""",13,Nate,125.87,112.62,129.43,102.78,0
+10,"b""We're Back""",13,Nate,b'Thunder Crotches',12,Jake,129.43,102.78,125.87,112.62,1
+11,b'The Ice Cold Bruschi',1,Ricky,b'Thunder Crotches',12,Jake,144.07,162.82,131.14,119.28,0
+11,b'Thunder Crotches',12,Jake,b'The Ice Cold Bruschi',1,Ricky,131.14,119.28,144.07,162.82,1
+11,b'Immortal Duffmen',2,PD,b'Thug Bungalow',11,Mike,141.04,170.66,121.93,78.16,0
+11,b'Thug Bungalow',11,Mike,b'Immortal Duffmen',2,PD,121.93,78.16,141.04,170.66,1
+11,"b""Jadeveon's Hit Men""",3,Tim,b'The Twelve Apostles',10,Matt Jones,117.07,102.06,116.01,107.64,0
+11,b'The Twelve Apostles',10,Matt Jones,"b""Jadeveon's Hit Men""",3,Tim,116.01,107.64,117.07,102.06,1
+11,"b""John Brown's Army""",4,Eric,b'The Scientist',9,Kyle,133.98,152.46,126.34,127.94,0
+11,b'The Scientist',9,Kyle,"b""John Brown's Army""",4,Eric,126.34,127.94,133.98,152.46,1
+11,b'Saquon These Nuts',5,matt,b'The fishingtons',8,mike,113.04,132.22,119.25,132.92,0
+11,b'The fishingtons',8,mike,b'Saquon These Nuts',5,matt,119.25,132.92,113.04,132.22,1
+11,b'Starr is Born',6,Nick,b'SuperCam That Ho',7,Lauren,123.3,99.54,137.29,140.28,0
+11,b'SuperCam That Ho',7,Lauren,b'Starr is Born',6,Nick,137.29,140.28,123.3,99.54,1
+11,"b""We're Back""",13,Nate,b'who invited canada',14,Peter,126.61,131.26,148.72,143.54,0
+11,b'who invited canada',14,Peter,"b""We're Back""",13,Nate,148.72,143.54,126.61,131.26,1
+12,b'The Ice Cold Bruschi',1,Ricky,"b""We're Back""",13,Nate,152.87,197.38,132.88,94.02,0
+12,"b""We're Back""",13,Nate,b'The Ice Cold Bruschi',1,Ricky,132.88,94.02,152.87,197.38,1
+12,b'Immortal Duffmen',2,PD,b'Thunder Crotches',12,Jake,134.98,164.12,127.99,106.34,0
+12,b'Thunder Crotches',12,Jake,b'Immortal Duffmen',2,PD,127.99,106.34,134.98,164.12,1
+12,"b""Jadeveon's Hit Men""",3,Tim,b'Thug Bungalow',11,Mike,120.78,125.28,136.45,88.0,0
+12,b'Thug Bungalow',11,Mike,"b""Jadeveon's Hit Men""",3,Tim,136.45,88.0,120.78,125.28,1
+12,"b""John Brown's Army""",4,Eric,b'The Twelve Apostles',10,Matt Jones,134.85,157.86,113.15,114.64,0
+12,b'The Twelve Apostles',10,Matt Jones,"b""John Brown's Army""",4,Eric,113.15,114.64,134.85,157.86,1
+12,b'Saquon These Nuts',5,matt,b'The Scientist',9,Kyle,117.82,86.2,125.36,100.72,0
+12,b'The Scientist',9,Kyle,b'Saquon These Nuts',5,matt,125.36,100.72,117.82,86.2,1
+12,b'Starr is Born',6,Nick,b'The fishingtons',8,mike,104.22,124.6,136.68,133.2,0
+12,b'The fishingtons',8,mike,b'Starr is Born',6,Nick,136.68,133.2,104.22,124.6,1
+12,b'SuperCam That Ho',7,Lauren,b'who invited canada',14,Peter,130.58,119.0,151.13,112.26,0
+12,b'who invited canada',14,Peter,b'SuperCam That Ho',7,Lauren,151.13,112.26,130.58,119.0,1
+13,b'The Ice Cold Bruschi',1,Ricky,b'who invited canada',14,Peter,153.57,102.22,156.21,170.5,0
+13,b'who invited canada',14,Peter,b'The Ice Cold Bruschi',1,Ricky,156.21,170.5,153.57,102.22,1
+13,b'Immortal Duffmen',2,PD,"b""We're Back""",13,Nate,143.75,135.14,132.56,167.96,0
+13,"b""We're Back""",13,Nate,b'Immortal Duffmen',2,PD,132.56,167.96,143.75,135.14,1
+13,"b""Jadeveon's Hit Men""",3,Tim,b'Thunder Crotches',12,Jake,112.93,140.7,123.77,111.9,0
+13,b'Thunder Crotches',12,Jake,"b""Jadeveon's Hit Men""",3,Tim,123.77,111.9,112.93,140.7,1
+13,"b""John Brown's Army""",4,Eric,b'Thug Bungalow',11,Mike,126.95,154.06,119.0,73.42,0
+13,b'Thug Bungalow',11,Mike,"b""John Brown's Army""",4,Eric,119.0,73.42,126.95,154.06,1
+13,b'Saquon These Nuts',5,matt,b'The Twelve Apostles',10,Matt Jones,110.27,105.08,109.78,91.2,0
+13,b'The Twelve Apostles',10,Matt Jones,b'Saquon These Nuts',5,matt,109.78,91.2,110.27,105.08,1
+13,b'Starr is Born',6,Nick,b'The Scientist',9,Kyle,98.65,83.56,115.68,139.58,0
+13,b'The Scientist',9,Kyle,b'Starr is Born',6,Nick,115.68,139.58,98.65,83.56,1
+13,b'SuperCam That Ho',7,Lauren,b'The fishingtons',8,mike,119.1,108.62,133.91,136.0,0
+13,b'The fishingtons',8,mike,b'SuperCam That Ho',7,Lauren,133.91,136.0,119.1,108.62,1
+14,b'The Ice Cold Bruschi',1,Ricky,b'Thug Bungalow',11,Mike,152.25,162.92,130.18,91.66,0
+14,b'Thug Bungalow',11,Mike,b'The Ice Cold Bruschi',1,Ricky,130.18,91.66,152.25,162.92,1
+14,"b""Jadeveon's Hit Men""",3,Tim,b'The Twelve Apostles',10,Matt Jones,108.47,84.52,118.72,121.4,0
+14,b'The Twelve Apostles',10,Matt Jones,"b""Jadeveon's Hit Men""",3,Tim,118.72,121.4,108.47,84.52,1
+14,b'SuperCam That Ho',7,Lauren,"b""We're Back""",13,Nate,132.04,145.84,135.9,133.18,0
+14,"b""We're Back""",13,Nate,b'SuperCam That Ho',7,Lauren,135.9,133.18,132.04,145.84,1
+14,b'Thunder Crotches',12,Jake,b'who invited canada',14,Peter,125.23,143.48,143.9,157.6,0
+14,b'who invited canada',14,Peter,b'Thunder Crotches',12,Jake,143.9,157.6,125.23,143.48,1
+15,b'The Ice Cold Bruschi',1,Ricky,b'Immortal Duffmen',2,PD,152.73,143.76,145.65,134.12,0
+15,b'Immortal Duffmen',2,PD,b'The Ice Cold Bruschi',1,Ricky,145.65,134.12,152.73,143.76,1
+15,"b""Jadeveon's Hit Men""",3,Tim,"b""We're Back""",13,Nate,122.43,139.56,117.69,106.12,0
+15,"b""We're Back""",13,Nate,"b""Jadeveon's Hit Men""",3,Tim,117.69,106.12,122.43,139.56,1
+15,"b""John Brown's Army""",4,Eric,b'who invited canada',14,Peter,130.89,135.36,145.05,174.26,0
+15,b'who invited canada',14,Peter,"b""John Brown's Army""",4,Eric,145.05,174.26,130.89,135.36,1
+15,b'SuperCam That Ho',7,Lauren,b'The Scientist',9,Kyle,138.91,128.24,133.13,113.12,0
+15,b'The Scientist',9,Kyle,b'SuperCam That Ho',7,Lauren,133.13,113.12,138.91,128.24,1
+15,b'The fishingtons',8,mike,b'The Twelve Apostles',10,Matt Jones,130.2,117.52,116.8,104.32,0
+15,b'The Twelve Apostles',10,Matt Jones,b'The fishingtons',8,mike,116.8,104.32,130.2,117.52,1
+15,b'Thug Bungalow',11,Mike,b'Thunder Crotches',12,Jake,123.28,140.64,125.39,105.3,0
+15,b'Thunder Crotches',12,Jake,b'Thug Bungalow',11,Mike,125.39,105.3,123.28,140.64,1
+16,b'The Ice Cold Bruschi',1,Ricky,b'who invited canada',14,Peter,140.48,116.62,144.0,122.78,0
+16,b'who invited canada',14,Peter,b'The Ice Cold Bruschi',1,Ricky,144.0,122.78,140.48,116.62,1
+16,b'Immortal Duffmen',2,PD,"b""John Brown's Army""",4,Eric,135.79,144.76,131.83,101.06,0
+16,"b""John Brown's Army""",4,Eric,b'Immortal Duffmen',2,PD,131.83,101.06,135.79,144.76,1
+16,b'SuperCam That Ho',7,Lauren,b'The fishingtons',8,mike,139.32,103.2,136.24,147.04,0
+16,b'The fishingtons',8,mike,b'SuperCam That Ho',7,Lauren,136.24,147.04,139.32,103.2,1
+16,b'The Scientist',9,Kyle,b'The Twelve Apostles',10,Matt Jones,127.85,183.82,93.97,92.84,0
+16,b'The Twelve Apostles',10,Matt Jones,b'The Scientist',9,Kyle,93.97,92.84,127.85,183.82,1
